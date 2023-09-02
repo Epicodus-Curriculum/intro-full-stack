@@ -1,0 +1,187 @@
+section: JavaScript and Web Browsers
+repo: intro-full-stack
+lessons:
+  - title: JavaScript and Web Browsers Objectives
+    filename: 0a_javascript_and_web_browsers_objectives.md
+    day: weekend
+    type: lesson
+  - title: Welcome to JavaScript and Web Browsers
+    filename: 0b_welcome_to_javascript_and_web_browsers.md
+    day: weekend
+    type: lesson
+  - title: Documentation and Resources
+    filename: 0c_documentation_and_resources.md
+    day: weekend
+    type: lesson
+  - title: Accessing and Configuring the Browser DevTools Console
+    filename: 0d_devtools_access_and_configuration.md
+    day: weekend
+    type: lesson
+  - title: Using the DevTools Console for Practice and Pair Programming
+    filename: 0e_using_devtools_for_practice_and_pair_programming.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #2'
+    filename: 1_week_two_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/week-2
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+    directory: survey
+  - title: 'Journal #2 Discussion'
+    filename: 2_week_two_journal_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/week-2
+  - title: JavaScript Data Types
+    filename: 0f_javascript_data_types.md
+    day: sunday
+    type: lesson
+  - title: Arithmetic
+    filename: 0g_arithmetic.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Arithmetic'
+    filename: 0h_classwork_practice_arithmetic.md
+    day: sunday
+    type: exercise
+  - title: JavaScript Variables
+    filename: 0i_javascript_variables.md
+    day: sunday
+    type: lesson
+  - title: Strings
+    filename: 0j_strings.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Variables and Strings'
+    filename: 0k_classwork_practice_variables_and_strings.md
+    day: sunday
+    type: exercise
+  - title: Methods
+    filename: 0l_methods.md
+    day: sunday
+    type: lesson
+  - title: Functions
+    filename: 0m_functions.md
+    day: sunday
+    type: lesson
+  - title: String and Number Methods
+    filename: 0n_string_and_number_methods.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: String and Number Methods'
+    filename: 0o_classwork_practice_string_and_number_methods.md
+    day: sunday
+    type: exercise
+  - title: Using MDN Documentation for JavaScript
+    filename: 0p_using_mdn_documentation.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Using MDN Documentation JavaScript'
+    filename: 0q_classwork_practice_using_mdn_documentation.md
+    day: sunday
+    type: exercise
+  - title: Assignment, Comparison, and Equality Operators
+    filename: 0r_assignment_comparison_and_equality_operators.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Assignment, Comparison, and Equality Operators'
+    filename: 0s_classwork_practice_assignment_comparison_and_equality_operators.md
+    day: sunday
+    type: exercise
+  - title: 'Data Types: Detection, Conversion, and Review'
+    filename: 0t_data_types_detection_conversion_and_review.md
+    day: sunday
+    type: lesson
+  - title: Another Look at JavaScript Objects
+    filename: 0u_javascript_objects.md
+    day: sunday
+    type: lesson
+  - title: Review of JavaScript Conventions
+    filename: 0v_review_of_javascript_conventions.md
+    day: monday
+    type: lesson
+  - title: 'Practice: Review of JavaScript Basics'
+    filename: 1a_classwork_practice_review_of_javascript_basics.md
+    day: monday
+    type: exercise
+  - title: Writing Functions
+    filename: 1b_writing_functions.md
+    day: monday
+    type: lesson
+  - title: 'Practice: Writing Functions'
+    filename: 1c_classwork_practice_writing_functions.md
+    day: monday
+    type: exercise
+  - title: How Web Browsers Work
+    filename: 1d_how_web_browsers_work.md
+    day: monday
+    type: lesson
+  - title: Accessing Window Properties
+    filename: 1e_accessing_window_properties.md
+    day: tuesday
+    type: lesson
+  - title: Web APIs
+    filename: 1f_web_apis.md
+    day: tuesday
+    type: lesson
+  - title: 'Practice: Accessing Window Properties'
+    filename: 1g_practice_classwork_accessing_window_properties.md
+    day: tuesday
+    type: exercise
+  - title: 'Debugging in JavaScript: Reading Console Errors'
+    filename: 1h_debugging_in_javascript_console_errors.md
+    day: tuesday
+    type: lesson
+  - title: Interactivity with Window Methods
+    filename: 1i_interactivity_with_window_methods.md
+    day: tuesday
+    type: lesson
+  - title: A Common Data Type Error and Data Type Coercion
+    filename: 1j_a_common_data_type_error.md
+    day: tuesday
+    type: lesson
+  - title: 'Practice: Interactivity with Window Methods'
+    filename: 1k_classwork_practice_interactivity_with_window_methods.md
+    day: tuesday
+    type: exercise
+  - title: Adding JS to a Project
+    filename: 1l_adding_js_to_a_project.md
+    day: wednesday
+    type: lesson
+  - title: Business and User Interface Logic
+    filename: 1m_business_and_user_interface_logic.md
+    day: wednesday
+    type: lesson
+  - title: Calculator UI and Business Logic
+    filename: 1n_calculator_ui_and_business_logic.md
+    day: wednesday
+    type: lesson
+  - title: 'Practice: Calculator UI and Business Logic'
+    filename: 1o_classwork_practice_calculator_ui_and_business_logic.md
+    day: wednesday
+    type: exercise
+  - title: 'Practice: More Function Writing'
+    filename: 2b_classwork_practice_more_function_writing.md
+    day: wednesday
+    type: exercise
+  - title: 'Homework: Variable Scope'
+    filename: 2a_homework_variable_scope.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Understanding Web APIs: The DOM'
+    filename: 2c_understanding_web_APIs_the_DOM.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Identifying and Preventing Microaggressions'
+    filename: 2_identifying_and_preventing_microaggressions.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+    directory: dei-lessons

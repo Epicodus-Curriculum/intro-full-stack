@@ -1,0 +1,107 @@
+section: Git, HTML, and CSS
+repo: intro-full-stack
+lessons:
+  - title: Dev Team Scrum and Finding a Pair
+    filename: 0_0_epicodus_dev_team_scrum_and_finding_a_pair.md
+    day: monday
+    type: lesson
+  - title: Intro to Pair Programming
+    filename: 0_1_epicodus_intro_to_pair_programming.md
+    day: monday
+    type: lesson
+  - title: How to Screen Share in Discord
+    filename: 0_2_epicodus_how_to_screen_share_in_discord.md
+    day: monday
+    type: lesson
+  - title: Git, HTML & CSS Objectives
+    filename: 0_3_objectives_section_1.md
+    day: monday
+    type: lesson
+  - title: The Terminal and the Command Line
+    filename: 0_4_the_terminal_and_the_command_line.md
+    day: monday
+    type: lesson
+  - title: VS Code Live Share
+    filename: 0_5_vs_code_live_share.md
+    day: monday
+    type: lesson
+  - title: Tuesday Schedule and Expectations
+    filename: 2a_remote_expectations_wk1_tuesday.md
+    day: tuesday
+    type: lesson
+  - title: HyperText Markup Lanuage (HTML)
+    filename: 1_0_hypertext_markup_language_html.md
+    day: tuesday
+    type: lesson
+  - title: VS Code Live Server
+    filename: 1_1_vs_code_live_server.md
+    day: tuesday
+    type: lesson
+  - title: HTML Elements
+    filename: 1_2_html_elements.md
+    day: tuesday
+    type: lesson
+  - title: HTML Indentation and Format Part 1
+    filename: 1_3_html_indentation_and_format_part_one.md
+    day: tuesday
+    type: lesson
+  - title: HTML Indentation and Format Part 2
+    filename: 1_4_html_indentation_and_format_part_two.md
+    day: tuesday
+    type: lesson
+  - title: Our Formatting Standards at Epicodus
+    filename: 1_5_epicodus_our_formatting_standards_at_epicodus.md
+    day: tuesday
+    type: lesson
+  - title: 'HTML Inline Elements and Attributes: <strong>, <em>, <img>, <a>, and More'
+    filename: 1m_html_inline_elements.md
+    day: tuesday
+    type: lesson
+  - title: 'Practice: Inline Elements'
+    filename: 1n_classwork_practice_inline_elements.md
+    day: tuesday
+    type: exercise
+  - title: 'Homework: Social Identities'
+    filename: 1_social_identities.md
+    day: tuesday
+    type: lesson
+    repo: DEI-full-stack
+    directory: dei-lessons
+  - title: Wednesday Schedule and Expectations
+    filename: 3a_remote_expectations_wk1_wednesday.md
+    day: wednesday
+    type: lesson
+  - title: Git
+    filename: 2_0_git.md
+    day: wednesday
+    type: lesson
+  - title: 'Practice: Git Commands'
+    filename: 2_1_practice_git_commands.md
+    day: wednesday
+    type: lesson
+  - title: GitHub and Remote Repositories
+    filename: 2_2_github_and_remote_repositories.md
+    day: wednesday
+    type: lesson
+  - title: Using Git in Your Workflow
+    filename: 2_3_epicodus_using_git_in_your_workflow.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Social Identities'
+    filename: 1_social_identities.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+    directory: dei-lessons
+  - title: 'Homework: Journaling at Epicodus'
+    filename: 0_introduction_to_journals.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/0_pre-work
+  - title: 'Homework: Journal #1'
+    filename: 1_week_one_journal_prompt.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/week-1

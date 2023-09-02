@@ -1,0 +1,135 @@
+section: Arrays and Looping
+repo: intro-full-stack
+lessons:
+  - title: Arrays and Looping Objectives
+    filename: 0a_arrays_and_looping_objectives.md
+    day: weekend
+    type: lesson
+  - title: Additional Pair Programming Tips
+    filename: 0b_additional_pair_programming_tips.md
+    day: weekend
+    type: lesson
+  - title: The Basics of Prototypes
+    filename: 0c_what_is_a_prototype.md
+    day: weekend
+    type: lesson
+  - title: Static versus Instance with Built-In JS Objects
+    filename: 0d_static_and_instance_with_built_in_js_objects.md
+    day: weekend
+    type: lesson
+  - title: Introduction to Arrays
+    filename: 0e_javascript_arrays.md
+    day: weekend
+    type: lesson
+  - title: Bracket Notation
+    filename: 0f_looking_into_an_array.md
+    day: weekend
+    type: lesson
+  - title: Array Methods
+    filename: 0g_array_methods.md
+    day: weekend
+    type: lesson
+  - title: Comparing and Cloning Arrays
+    filename: 0h_comparing_and_cloning_arrays.md
+    day: weekend
+    type: lesson
+  - title: 'Debugging in JavaScript: Using a linter'
+    filename: 0k_debugging_with_a_linter.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #3'
+    filename: 1_week_three_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/week-3
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+    directory: survey
+  - title: 'Journal #3 Discussion'
+    filename: 2_week_three_journal_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+    directory: journal-prompts/1_intro/week-3
+  - title: Document Query Methods that Return Collections
+    filename: 0i_document_query_methods_that_return_collections.md
+    day: sunday
+    type: lesson
+  - title: Adding and Removing HTML Elements
+    filename: 0j_adding_and_removing_HTML_elements.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Adding and Removing HTML Elements'
+    filename: 1a_classwork_practice_adding_and_removing_html_elements.md
+    day: sunday
+    type: exercise
+  - title: 'Practice: JavaScript Arrays'
+    filename: 1b_classwork_practice_javascript_arrays.md
+    day: sunday
+    type: exercise
+  - title: Introduction to Looping
+    filename: 1c_introduction_to_looping.md
+    day: sunday
+    type: lesson
+  - title: forEach Loops
+    filename: 1d_looping.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: Looping'
+    filename: 1e_classwork_practice_looping.md
+    day: sunday
+    type: exercise
+  - title: Gathering Data with Checkboxes
+    filename: 1f_gathering_data_with_checkboxes.md
+    day: sunday
+    type: lesson
+  - title: 'Practice: forEach loops'
+    filename: 1g_classwork_practice_foreach.md
+    day: sunday
+    type: exercise
+  - title: Building a Text Analyzer
+    filename: 2a_building_a_text_analyzer_app.md
+    day: monday
+    type: lesson
+  - title: Overview of Test-Driven Development (TDD) with Text Analyzer
+    filename: 2b_test_driven_development_overview.md
+    day: monday
+    type: lesson
+  - title: 'Text Analyzer with TDD: wordCounter()'
+    filename: 2c_text_analyzer_tdd_part_1.md
+    day: monday
+    type: lesson
+  - title: 'Text Analyzer with TDD: numberOfOccurrencesInText()'
+    filename: 2d_text_analyzer_tdd_part_2.md
+    day: monday
+    type: lesson
+  - title: 'Practice: Extending Text Analyzer Business Logic with TDD'
+    filename: 2e_ classwork_tdd_with_text_analyzer_business_logic.md
+    day: tuesday
+    type: exercise
+  - title: 'Separation of Logic: Adding a UI to Text Analyzer'
+    filename: 2f_separation_of_logic_adding_a_ui.md
+    day: wednesday
+    type: lesson
+  - title: 'Separation of Logic: Fixing a Bug in Text Analyzer'
+    filename: 2g_separation_of_logic_part_2_fixing_a_bug.md
+    day: wednesday
+    type: lesson
+  - title: 'Separation of Concerns in Text Analyzer: boldPassage() UI Function'
+    filename: 2h_separation_of_logic_part_3_adding_ui_function.md
+    day: wednesday
+    type: lesson
+  - title: DRYing Code and Completing the Text Analyzer UI
+    filename: 2i_dry_code_and_finishing_text_analyzer.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Equality Versus Equity'
+    filename: 3_equity_vs_equality.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+    directory: dei-lessons
