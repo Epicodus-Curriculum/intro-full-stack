@@ -1,5 +1,7 @@
 section: Git, HTML, and CSS
+order: 1
 repo: intro-full-stack
+directory: 1_git-html-and-css
 lessons:
   - title: Dev Team Scrum and Finding a Pair
     filename: 0_0_epicodus_dev_team_scrum_and_finding_a_pair.md
@@ -66,7 +68,6 @@ lessons:
     day: tuesday
     type: lesson
     repo: DEI-full-stack
-    directory: dei-lessons
   - title: Wednesday Schedule and Expectations
     filename: 3a_remote_expectations_wk1_wednesday.md
     day: wednesday
@@ -92,16 +93,13 @@ lessons:
     day: wednesday
     type: lesson
     repo: DEI-full-stack
-    directory: dei-lessons
   - title: 'Homework: Journaling at Epicodus'
     filename: 0_introduction_to_journals.md
     day: wednesday
     type: lesson
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/0_pre-work
   - title: 'Homework: Journal #1'
     filename: 1_week_one_journal_prompt.md
     day: wednesday
     type: lesson
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-1

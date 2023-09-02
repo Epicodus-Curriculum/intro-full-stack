@@ -1,5 +1,7 @@
 section: JavaScript and Web Browsers
+order: 3
 repo: intro-full-stack
+directory: 3_javascript-and-web-browsers
 lessons:
   - title: JavaScript and Web Browsers Objectives
     filename: 0a_javascript_and_web_browsers_objectives.md
@@ -26,19 +28,16 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-2
   - title: Prior Course Section Survey
     filename: course_section_survey.md
     day: sunday
     type: lesson
     repo: pre-work-full-stack
-    directory: survey
   - title: 'Journal #2 Discussion'
     filename: 2_week_two_journal_discussion_classwork.md
     day: sunday
     type: exercise
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-2
   - title: JavaScript Data Types
     filename: 0f_javascript_data_types.md
     day: sunday
@@ -184,4 +183,3 @@ lessons:
     day: wednesday
     type: lesson
     repo: DEI-full-stack
-    directory: dei-lessons

@@ -1,5 +1,7 @@
 section: Arrays and Looping
+order: 5
 repo: intro-full-stack
+directory: 5_arrays-and-looping
 lessons:
   - title: Arrays and Looping Objectives
     filename: 0a_arrays_and_looping_objectives.md
@@ -42,19 +44,16 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-3
   - title: Prior Course Section Survey
     filename: course_section_survey.md
     day: sunday
     type: lesson
     repo: pre-work-full-stack
-    directory: survey
   - title: 'Journal #3 Discussion'
     filename: 2_week_three_journal_discussion_classwork.md
     day: sunday
     type: exercise
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-3
   - title: Document Query Methods that Return Collections
     filename: 0i_document_query_methods_that_return_collections.md
     day: sunday
@@ -132,4 +131,3 @@ lessons:
     day: wednesday
     type: lesson
     repo: DEI-full-stack
-    directory: dei-lessons

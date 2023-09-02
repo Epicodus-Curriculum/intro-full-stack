@@ -1,5 +1,7 @@
 section: JavaScript and Web Browsers
+order: 2
 repo: intro-full-stack
+directory: 2_javascript-and-web-browsers
 lessons:
   - title: JavaScript and Web Browsers Objectives
     filename: 0a_javascript_and_web_browsers_objectives.md
@@ -94,13 +96,11 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-2
   - title: 'Journal #2 Discussion'
     filename: 2_week_two_journal_discussion_classwork.md
     day: monday
     type: exercise
     repo: career-services-full-stack
-    directory: journal-prompts/1_intro/week-2
   - title: 'Practice: Review of JavaScript Basics'
     filename: 1a_classwork_practice_review_of_javascript_basics.md
     day: monday
@@ -166,7 +166,6 @@ lessons:
     day: monday
     type: lesson
     repo: DEI-full-stack
-    directory: dei-lessons
   - title: Variable Scope
     filename: 2a_homework_variable_scope.md
     day: tuesday
