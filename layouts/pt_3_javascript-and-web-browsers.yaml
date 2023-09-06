@@ -1,7 +1,6 @@
 section: JavaScript and Web Browsers
 order: 3
 repo: intro-full-stack
-directory: 3_javascript-and-web-browsers
 lessons:
   - title: JavaScript and Web Browsers Objectives
     filename: 0a_javascript_and_web_browsers_objectives.md

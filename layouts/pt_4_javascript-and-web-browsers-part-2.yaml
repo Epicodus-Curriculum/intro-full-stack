@@ -1,7 +1,6 @@
 section: JavaScript and Web Browsers Part 2
 order: 4
 repo: intro-full-stack
-directory: 4_javascript-and-web-browsers-part-2
 lessons:
   - title: Accessing the DOM
     filename: 2d_accessing_the_DOM.md

@@ -1,7 +1,6 @@
 section: Arrays and Looping
 order: 3
 repo: intro-full-stack
-directory: 3_arrays-and-looping
 lessons:
   - title: Arrays and Looping Objectives
     filename: 0a_arrays_and_looping_objectives.md

@@ -1,7 +1,6 @@
 section: Git, HTML, and CSS Part 2
 order: 2
 repo: intro-full-stack
-directory: 2_git-html-and-css-part-2
 lessons:
   - title: Sunday Schedule and Expectations
     filename: 4a_remote_expectations_wk2_sunday.md
