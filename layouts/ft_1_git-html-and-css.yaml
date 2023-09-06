@@ -1,6 +1,7 @@
 section: Git, HTML and CSS
 order: 1
 repo: intro-full-stack
+directory: 1_git-html-and-css
 lessons:
   - title: Dev Team Scrum and Finding a Pair
     filename: 0_0_epicodus_dev_team_scrum_and_finding_a_pair.md
