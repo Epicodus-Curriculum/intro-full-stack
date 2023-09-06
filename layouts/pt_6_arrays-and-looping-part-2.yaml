@@ -35,13 +35,9 @@ lessons:
     filename: 3f_for_loops_with_text_analyzer.md
     day: sunday
     type: lesson
-  - title: 'Practice: Pig Latin - Part 1'
+  - title: 'Practice: Pig Latin'
     filename: 3g_classwork_practice_pig_latin.md
     day: sunday
-    type: exercise
-  - title: 'Practice: Pig Latin - Part 2'
-    filename: 3g_classwork_practice_pig_latin.md
-    day: monday
     type: exercise
   - title: 'Further Exploration: Introduction to Regular Expressions'
     filename: 3h_regular_expressions.md
@@ -59,13 +55,9 @@ lessons:
     filename: 4b_classwork_practice_array_mapping.md
     day: tuesday
     type: exercise
-  - title: 'Practice: Credit Card Validator, Roman Numerals, or Cryptosquare - Part 1'
+  - title: 'Practice: Credit Card Validator, Roman Numerals, or Cryptosquare'
     filename: 4c_classwork_practice_roman_numerals.md
     day: tuesday
-    type: exercise
-  - title: 'Practice: Credit Card Validator, Roman Numerals, or Cryptosquare - Part 2'
-    filename: 4c_classwork_practice_roman_numerals.md
-    day: wednesday
     type: exercise
   - title: 'Further Exploration: Looping with for...of'
     filename: 4d_looping_with_for_of.md
