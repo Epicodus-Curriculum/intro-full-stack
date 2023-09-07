@@ -181,8 +181,6 @@ The `code` command opens VS Code application and the “dot” `.` means to open
 
 If successful, VS Code will open and you will see the file `hi.txt` nested in a directory called `my-first-project` in the file explorer in the left of VS Code.
 
-![example of my-first-project file tree](./images/0_4_hi_file_tree_vs_code.png)
-
 >Let's Pair Program!
 >Before you and your pair move on, switch who is the driver and who is the navigator and repeat the exercise above. This gives everyone an opportunity to get hands-on practice.
 >
