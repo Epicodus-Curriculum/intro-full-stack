@@ -35,9 +35,13 @@ lessons:
     filename: 3f_for_loops_with_text_analyzer.md
     day: sunday
     type: lesson
-  - title: 'Practice: Pig Latin'
+  - title: 'Practice: Pig Latin - Part 1'
     filename: 3g_classwork_practice_pig_latin.md
     day: sunday
+    type: exercise
+  - title: 'Practice: Pig Latin - Part 2'
+    filename: 3g_classwork_practice_pig_latin_2.md
+    day: monday
     type: exercise
   - title: 'Further Exploration: Introduction to Regular Expressions'
     filename: 3h_regular_expressions.md
