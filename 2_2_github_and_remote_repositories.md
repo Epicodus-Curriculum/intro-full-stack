@@ -208,7 +208,7 @@ Okay, switching topics, let’s say there is a **remote** repository that we don
 
 For example, let’s clone the [React library](https://github.com/facebook/react) from Github; a tool we are going to use later in the program! React is created by Facebook(Meta) but is an open source tool. For us this means React’s source code is freely available on GitHub.
 
-Go to the website following the link above and click on the “\<\> Code” button then click on the copy button (circled in red with a 2):
+Go to the website following the link above and click on the `<> Code` button then click on the copy button (circled in red with a 2):
 
 ![clone from react](https://lh3.googleusercontent.com/u/0/docs/ADP-6oGfFh3CPwfNTNlZG-TdEPcCDjxugbyI8XuvYKapcW3N5U0Xvbd7d28J6dOw2y9RWMQo17-0oXBLaEN5drNvRTc6fDdvYNbsqlNDncbLgfyHyVFKeg5ZCzMFfWGnyeKImcMwhh1RKAuFJE13kzj-3kxhyFznQr5kDSjFgaSeObUsb2IOsoSLzjElWRhbjbUu5PNeDpCrfNzUOMPyCv9sNIZ_GZPsC72j7nG-JccM9yEBpCaUp8knYtbUqizPCfj24ZkB6xIrCpftkSVYdZG-vhutYIDhQQ9aNjUcWcwP5VIL_xf9esP8p4MZdklIvzZ-soLYzrcev-6IQNs2yqVqrkRCSOQl4Xzc1ZfLML_Yx3gNMjAIDf3mqOLpRxI6dK9iBknDjbvYRJhmqdRK1iwJNMydnR9XbH9adpihu1E8Dgbw5tKHzZWgBXm8VKfdDHezzg74vjlnirN8Ep6vndnDskPhOgD9NSwlZYK1l6-rwMidVhe7kT5McMbkjVrleRT9fOEQBWcqvWLGYssROuW5162cFqBsGC77CZ7SU4tezLtySJG4fKWCpFMmJzCygDejX64rBWCgnPTj5NUm7HE50Iz-nQE4rwi4ykYUK7Zxg48MUjIvC1o0DklLtjxCWa3gODmOl_EWt7Pg6qNOD5V72cvJvh-9OYRwDjqmC-rTWm49YEgRIsb8UD7PM-YAeUMULHi3tN8RQKqD7HtP9yicu2d_aowoIg2pcFZurnJXt559FW8fHsu6E0-hla_wDtyMYeee3ddAeUIAY9_Ck97J6fv3-Ff9dDgd_vPMYXJLNXsI-kgWrLC1NuBxYf85B2Urtj6UxyPnAs4z0s1YVTo17IqEKKNhZSe9CLsO6P6tNyAKu_BrPXqW0OKzNc4EHNRc1-JlafW-7QHJgoC-U17Rkwdv54GOsCxyfbhXGfbucpw4y0Q1iQTgiFdRN-eOGSeOsL3-tjQu1If32HsaUfL2xCJdmKimf9T4m0lMYAP8xfdF7Gyncu9ZmgzAvb9WHKsni2po3c6RSHCet6Qxnf1S-drIfpgKEM8b--IJBg)
 

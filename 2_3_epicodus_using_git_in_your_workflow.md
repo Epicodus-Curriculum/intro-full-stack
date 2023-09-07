@@ -83,7 +83,7 @@ Using a co-author commit trailer looks like this:
 ```
 git commit -m “Add styled box to heading
 
-Co-authored-by: firstName lastName <emailAddress>”
+Co-authored-by: firstName lastName <emailAddress>
 ```
 
 The spacing is important. This is what it will look like in your terminal before hitting Enter:
@@ -91,7 +91,7 @@ The spacing is important. This is what it will look like in your terminal before
 ![commit trailer](https://i.imgur.com/idXXTnz.png)
 
 	
-The “firstName”, “lastName”, and “\<emailAddress\>” should be the information your pair uses for their GitHub account. You can include additional co-authors by adding them to a new line in the commit message.
+The `firstName`, `lastName`, and `<emailAddress>` should be the information your pair uses for their GitHub account. You can include additional co-authors by adding them to a new line in the commit message.
 
 Using `git log` you should see:
 
@@ -144,6 +144,7 @@ Then save and close the edit window. A new edit window will appear in VS code. T
 
 
 ![rebase squash](https://i.imgur.com/WyT9zT7.png)
+
 (The last few letters of "languages" is in red because that commit message is a bit too long.)
 
 For this example this is how we chose to combine the commit messages.
