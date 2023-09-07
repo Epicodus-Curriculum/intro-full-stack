@@ -1,6 +1,6 @@
 title: Introduction to Programming
 show_weeks_and_days: true
-homepage: introduction_to_programming.md
+homepage: index.md
 sections:
   - ft_1_git-html-and-css.yaml
   - ft_2_javascript-and-web-browsers.yaml
