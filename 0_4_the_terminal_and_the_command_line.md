@@ -60,7 +60,7 @@ Regardless of if you are a Mac or Windows user, the following exercise will work
 
 
 
->Let's pair program!</th>
+>Let's pair program!
 >
 >We're going to complete this exercise by pair programming. We recommend reading through this entire lesson together before starting.
 >

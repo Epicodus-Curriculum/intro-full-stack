@@ -91,7 +91,7 @@ The spacing is important. This is what it will look like in your terminal before
 ![commit trailer](https://i.imgur.com/idXXTnz.png)
 
 	
-The “firstName”, “lastName”, and <emailAddress>” should be the information your pair uses for their GitHub account. You can include additional co-authors by adding them to a new line in the commit message.
+The “firstName”, “lastName”, and “\<emailAddress\>” should be the information your pair uses for their GitHub account. You can include additional co-authors by adding them to a new line in the commit message.
 
 Using `git log` you should see:
 
