@@ -1,0 +1,66 @@
+---
+part_time: false
+internship: false
+number_of_weeks: 3
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Git, HTML and CSS
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/1_git_html_and_css/5a_cr_git_html_and_css_independent_project.md
+      objectives:
+      - "The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, and span."
+      - "Project includes a custom-made stylesheet that uses typography styles, the box model (including margin, border, and padding), and floats."
+      - "Code is clean, well-refactored, and easy-to-read. This includes correct indentation, spacing, and including only necessary comments and debugging tools."
+      - "Commits are made regularly with clear messages that finish the phrase 'It will...'"
+      - "The project repo contains a README that includes: application name, contributor names, application description, link to site on GitHub Pages, a technologies used section, setup instructions, a known bugs section, and copyright, date, and license info."
+      - "Site is successfully deployed to GitHub pages."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Social Identities
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/1_social_identities_reflection.md
+    - title: JavaScript and Web Browsers
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/2_javascript_and_web_browsers/5a_cr_javascript_and_web_browsers_independent_project.md
+      objectives:
+      - "Form gathers input from the user."
+      - "Branching is used to determine the result."
+      - "Web API object properties or methods (not including `window` methods for alerting, prompting, or confirming) are used to display the result to the user."
+      - "Event handler properties or event listeners are used to handle events. "
+      - "When the user submits the form again (for a second or third time) previous results are hidden, cleared, or replaced."
+      - "Variable names are descriptive of what they represent and use lower camel case (e.g. `myVariableExample`)."
+      - "Web page is styled using custom CSS."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Identifying and Preventing Microaggressions
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/2_identifying_and_preventing_microaggressions_reflection.md
+    - title: Arrays and Looping
+      visible_class_week: 3
+      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/3_new_arrays_and_looping/5a_cr_arrays_and_looping_independent_project.md
+      objectives:
+      - "JavaScript business logic and user interface logic are separate."
+      - "Tests are included for each business logic behavior and code is committed after each test passes."
+      - "Application implements a loop and works as expected."
+      - "The user can use the application repeatedly and see new results."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Equality Versus Equity
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/3_equity_vs_equality_reflection.md

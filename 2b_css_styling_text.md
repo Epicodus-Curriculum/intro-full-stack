@@ -5,7 +5,7 @@ I'll be the first to admit it: the web pages we've made so far are pretty ugly. 
 ## Styling Text in `my-first-webpage` with CSS
 ---
 
-For this exploration of CSS, let’s return to the `favorite-things.html` file within our `my-first-webpage` project folder.
+For this exploration of CSS, let's return to the `favorite-things.html` file within our `my-first-webpage` project folder.
 
 ### Adding Inline Styles
 

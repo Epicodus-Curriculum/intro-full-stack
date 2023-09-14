@@ -1,4 +1,4 @@
-We’ve covered a lot of information about why we use Git and how to manage repositories on GitHub. Now it’s time to put it all together by discussing exactly how to use Git in your workflow and best practices when using Git.
+We’ve covered a lot of information about why we use Git and how to manage repositories on GitHub. Now it's time to put it all together by discussing exactly how to use Git in your workflow and best practices when using Git.
 
 
 ### List of most relevant git commands
@@ -25,7 +25,7 @@ This is a list of all the git commands we have used so far.
 
 * `git commit -m “commit message here”`
     * Used to take a snapshot of your project as it currently is at that moment in time.
-    * Becomes part of your project’s commit history.
+    * Becomes part of your project's commit history.
 
 * `git log`
     * Allows you to view commit history in the terminal.
@@ -53,7 +53,7 @@ This is a list of all the git commands we have used so far.
 
 ## Co-Author Commit Trailers
 
-GitHub uses your commit history to create a collection called **GitHub contributions** in your GitHub profile page. As a brand new user to GitHub, your contributions will be sparse. That’s okay, you’ll make lots of commits in the future.
+GitHub uses your commit history to create a collection called **GitHub contributions** in your GitHub profile page. As a brand new user to GitHub, your contributions will be sparse. That's okay, you’ll make lots of commits in the future.
 
 One reason to commit regularly while at Epicodus is that sometimes employers will look at your GitHub contribution calendar as evidence of experience.
 
@@ -98,7 +98,7 @@ Using `git log` you should see:
 ![git log commit trailer](https://i.imgur.com/qz7YaSi.png)	
 
 
-Finally, after pushing to the remote repository, you should see that this commit has a link to both author’s GitHub accounts.
+Finally, after pushing to the remote repository, you should see that this commit has a link to both author's GitHub accounts.
 
 Here is further documentation about [creating commits with mulitple authors](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors).
 
@@ -123,7 +123,7 @@ Git should open a new file in VS Code.
 
 
 >Note!  
->If VS Code doesn’t open and instead git wants you to make edits in your terminal, then revisit this lesson [Git configurations](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-configurations) and make sure VS code is set up as Git’s default editor.
+>If VS Code doesn’t open and instead git wants you to make edits in your terminal, then revisit this lesson [Git configurations](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-configurations) and make sure VS code is set up as Git's default editor.
 
 
 ![rebase first menu](https://i.imgur.com/AFwFUEV.png)
@@ -211,7 +211,7 @@ Scenario 4:
 Commit messages are intended to be brief so they can be easily referenced. When looking through a big list of commit messages (such as when using `git log --oneline`)  you don’t want to have to read lengthy paragraphs of information. 
 
 
-For example, if you make a really long commit message, on GitHub the message will be cut off. You would have to click the `...` icon to see the whole message. That’s annoying!
+For example, if you make a really long commit message, on GitHub the message will be cut off. You would have to click the `...` icon to see the whole message. That's annoying!
 
 ![too long commit](https://lh3.googleusercontent.com/u/0/docs/ADP-6oFm7MjERRPAdzt3FQy-Robl-C0CsQ6hDfY8rZ5qO-1pomPQpKSFFqV5Lt487wjrO6AQ1hje5Ozb9SkdaimlJIJBKy0IXrEgx2kCMUr7wMKt7rndVcZXgRNC4u3jCMmMAZ95vkuOaH2WmR-xQo_anuA1Qrgxn1lwupqAxXXZslB570UGaiLezb1tLPxZgLy9KvQW3uRSAAecSQqgpAQesRYE6PkpBJ7mUyE39iexSxsz75goD9STw-0XHAeVoIEWnnrywf4gF0UjOGlbYOiXGiAZtz4l9bmqBA1_RNX0IvtUOJfWZD5ZW22sXffi9PrDU3PafcGp-iOY8u5Au2eF0UnE2X_4r76XiAO4RnlpBapXKmSwWPKOyR2TI1k38RxVEhBJMiHm75nL_sxDLM8J12PXX8xCx-oUwv95DGSWW8pwEIvHYenItRsSln50LS5Ex_RTBPzgDjP0ZKUsd5ms9nGD0v6Igqt6TqRrtc5RpqLtLA6HEllVUAYuitv3w3qqBM90cL1xbJKuuYx3db6X6mWE5U2z8JPb2wyDZUm0IVJ_bhYQOWIgzHYY9uB7yaB3VuOmzgu0M-HIXfds_aPiQGdBB2Gz5BCwYaiA3IoFAobWB0O5HgIGhKF1Pvj2T8yF6KdoVXTBvOPq6sISzavcjAUe0A6eBLyREGlG8Jphq2YG7etdCz0OqFhspc1Rk395e6IFuh7tL-SIIMiwQDMQGr6f5DxFL_oTjueHGq_1r_D-LQMS67vOr4yaSGuHm3X_sCex1wIJ1yVQ2f1pxIz6Wz6sCychYBqDTmQ_aI0jZm68dSKPB1_C6iyBzXlImCMoVyWR63I9Sa9aKw5XDycJggQW3AL0ZllOQQDcxwxB4tt1omF7Rq-djVOhmEgzXuR5oK9j4p8QFWqgynJPc_n5f0eUu0_-YRJqtjS23_v9LPD8vWdL5jxzaqhZwfK5bNk32NTk0yreiMtGpHlmfVDBI-LqcCg_Nww1TD5OktlrMKyXTHkRkWzmEzaNHCK8RWHYtKH_MscugdASsmBmcjR5Dq43moU_8WuN8iZ4Ag)
 
@@ -222,7 +222,7 @@ If you are not sure how to condense your commit message, that might be a sign yo
 2. **Start a commit message with a present tense verb.**  
 In the English language, a verb is a word used to describe an action, state or occurrence. These are examples of present tense verbs: fix, add, adjust, create, remove, delete, move, update.  
 
-Starting a commit message with a present tense verb is generally considered best practice. That’s to say, you’re going to see exceptions and other conventional standards out there. 
+Starting a commit message with a present tense verb is generally considered best practice. That's to say, you’re going to see exceptions and other conventional standards out there. 
 
 3. Can use labels WIP (work in progress) or BUGFIX at start of commit message.  
 This is an exception to the previous guideline. Using the WIP label is helpful when making regular commits to show progress but you haven’t finished anything yet. Using the label BUGFIX is helpful to more easily reference your commit history.
@@ -274,7 +274,7 @@ Your Git workflow will change over time; especially when you start your next job
 
 ### When pair programming remotely:
 
-Let’s say Ava and Eli are pair programming:
+Let's say Ava and Eli are pair programming:
 
 1. Ava creates a project directory on her computer. She initializes Git in the top level directory of the project using `git init`.
 2. Ava starts **VS Code Live Share** and **VS Code Live Server** so Eli can participate in pair programming.  
@@ -289,7 +289,7 @@ Let’s say Ava and Eli are pair programming:
 
     Co-authored-by: Firstname Lastname emailAddress”
     ```
-    Ava includes Eli’s information as a commit trailer in the commit message so Eli gets credit.  
+    Ava includes Eli's information as a commit trailer in the commit message so Eli gets credit.  
 
     Ava repeats this step as necessary throughout the pair programming session. 
 
@@ -299,7 +299,7 @@ Let’s say Ava and Eli are pair programming:
 
     Ava repeats this step periodically if additional changes have been made to her local repository.
 
-7. Eli forks Ava’s remote repository so a copy is on their GitHub account. If Ava and Eli continue to pair program on the same project, Eli can sync additional changes to their forked repository from the original via GitHub.
+7. Eli forks Ava's remote repository so a copy is on their GitHub account. If Ava and Eli continue to pair program on the same project, Eli can sync additional changes to their forked repository from the original via GitHub.
 
 
 ### When working independently:

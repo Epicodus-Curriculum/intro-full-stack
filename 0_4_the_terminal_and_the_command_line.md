@@ -164,7 +164,7 @@ You have all the knowledge necessary to complete this step without instruction.
 touch hi.txt 
 ```
 
-The `touch` command is commonly used to create **files**. The name of the command `touch` is not very indicative to what it’s used for; it’s actually not an abbreviation for anything. The name `touch` is meant to imply the file was modified in some way without opening, saving or closing it. Indeed, you just created (counts as modifying) a file without opening it at all. 
+The `touch` command is commonly used to create **files**. The name of the command `touch` is not very indicative to what it's used for; it's actually not an abbreviation for anything. The name `touch` is meant to imply the file was modified in some way without opening, saving or closing it. Indeed, you just created (counts as modifying) a file without opening it at all. 
 
 
 7. Open the current working directory, “my-first-project”, in VS Code. In terminal, type:
@@ -193,7 +193,7 @@ If successful, VS Code will open and you will see the file `hi.txt` nested in a 
 
 ## 	Wrap-up
 
-Excellent! You should now have a beginner’s understanding of command prompts. There are many other command prompts but the ones we just practiced are the most relevant to you at this time.
+Excellent! You should now have a beginner's understanding of command prompts. There are many other command prompts but the ones we just practiced are the most relevant to you at this time.
 
 
 More experienced developers may rely solely on interacting with the terminal and using command prompts to navigate their computer. As a beginner though, that is not an expectation you should place on yourself. It is completely fine to use the mouse and click to navigate and perform actions using the user interface (what you see on the screen). You’ll get more practice interacting with the terminal and using command prompts over time.

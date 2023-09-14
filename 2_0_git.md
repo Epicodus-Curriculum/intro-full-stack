@@ -2,7 +2,7 @@
 
 
 1. If we really mess something up in our code, we can revert back to a previous snapshot when the project was working.
-2. We can demonstrate we are making progress on a project. Our project’s history is proof of work.
+2. We can demonstrate we are making progress on a project. Our project's history is proof of work.
 3. Each snapshot can be authored meaning we retain credit for past work even if someone else takes over the project.
 4. We can preserve unused code we may want later. 
 
@@ -44,7 +44,7 @@ Don’t worry if you don’t feel 100% with **Git** after the exercise. We will 
 ## Exercise
 
 
-Let’s learn a bit about how **Git** categorizes changes when they happen in your project. To start, we’ll set up **Git** in a brand new project. We’ll then make changes to our project to see how **Git** categorizes those changes. Then we’ll end with taking a snapshot of our project to preserve its current state in our project’s history. 
+Let's learn a bit about how **Git** categorizes changes when they happen in your project. To start, we’ll set up **Git** in a brand new project. We’ll then make changes to our project to see how **Git** categorizes those changes. Then we’ll end with taking a snapshot of our project to preserve its current state in our project's history. 
 
 
 ### Requirements
@@ -110,15 +110,15 @@ A new directory has been made in your project called `.git`. The `.` before the 
 The `.git` directory is a **Git repository** inside your project. It will be able to track changes made in your project. A **repository** in English is a place where things may be stored. **Git** uses the term **repository** to refer to where a project is stored. 
 
 
-We’re not going to explain how `.git` works. It’s not essential for us to know in order to use **Git** effectively . Just know that deleting  the `.git` **repository** inside your project will delete your project’s history. 
+We’re not going to explain how `.git` works. It's not essential for us to know in order to use **Git** effectively . Just know that deleting  the `.git` **repository** inside your project will delete your project's history. 
 
 
 ## 	Git Status
 
-The `.git` **repository** tracks changes in your project but you have to tell **Git** when to take a snapshot to preserve a record of those changes. It’s kinda like how a video game will have a save option but you have to use the save option in order for your progress to be recorded.
+The `.git` **repository** tracks changes in your project but you have to tell **Git** when to take a snapshot to preserve a record of those changes. It's kinda like how a video game will have a save option but you have to use the save option in order for your progress to be recorded.
 
 
-Let’s learn how **Git** categories change in your project as they happen. 
+Let's learn how **Git** categories change in your project as they happen. 
 
 
 **Git** puts all files in your project into two main categories: **untracked** or **tracked** status. **Tracked** files additionally have **unmodified**, **modified**, or **staged** status. A **tracked** file can have more than one additional status.
@@ -146,13 +146,13 @@ The file `hello-world.html` is listed under “Untracked files” (circled in bl
 ![static image fist status in lifecycle](https://lh3.googleusercontent.com/u/0/docs/ADP-6oH-dVsAevBF5C_-s15WLg-JtCHWab-nj4wGDiQRlywEaTGYybc5Jk-uUcMOi9wBC9awfHo7jlQKX2IWLVPlW6CW7EBuD1mL9JMt7IoG749M4C4deLP_yCw3wKkAo0HKdctZIuil68MrhSt9dB9ihfp8BPS5UwvS6WuMRJpUQOzZ0NrVoWqrYBRTra-e5YWjbCZVQLbLTno9YIUa0dTO2a_mFjjSyg3CWm1o_uX-UYXMaZ7BZB5R5bTBsY0y2KWETjE3alDnV97EEoY4SZRXxTAUMr2zVMLOjd7yWHQtNTI3RGcnYTAnExkjrSI_SfnZ-nl7MsiX-2cB57M7LAOqvEUV94KvTTQxxEKU12I6mXav6pxyU2BoTd4XwwVSgaXb5V2i4IP8PPM8_-JTvX4eDKmfGxlgMEi-m7jtbvad9yOF32DoV_6GJz3dlOIWXLF0_tLo4xDa1REEs0GPSPjZYlglEOgNLY0k23slkG4vGfHA-vKilrIN6pf9n73yts67K5xqorhs1MU3LLRJaxM6DTlcqxvJa-_xkFT3TmorykMvPRTgCq9FR476kb-U4Ri5wwgHysDavFLwmNOfFPdLBAmqTBkZnzOeHyDsD8c8Eg7Q3F_pQBaUIQGjxuRRMRKqyu7HeelAc-vYInFb_x6fqvWiPegUKf2xqyeqwso5cxiIa3AtOgnkiuSiS1RSLlViYLU7rVy7US91XQMZrT-wRoyCWyMc9QZ7iC5cKvCPBW66TxZWmuMwvqCb_lz3LGpMIxIut5Fdg5_kwHkvxmNBwpED-0gCciZqHVQjvZS2u6zhk2Fjow_upDtVLJ4BWy0-moaTxK_AGyGdmZEd6ihoP0wzw8zTVfKKeY86FFDUTEYMzHMKcrQOXL4DHVLpwl_e7mg5nLFm0TphAhR-bI_U9f5PIniTeIDnY0ES68V8aO4KUEFPOxO9kx8GORXjeOKzLG0qPUVIV6EoPl8S6UDbWj4CuAQ-rNeVo3wFtxdrkAvqhA2cVNjjnKubJLaYNIitrZVBjL-5QyTg4wuEc_gFNaqzhTpHyzTkf3SBCQ)
 
 
-The only place to go from status **untracked** is to **staged**. This means that even if you are to make changes to the `hello-world.html` file now and then run `git status` again, the file will remain as **untracked**. That’s because **Git** has no prior history of this file to compare to. The words “unmodified” and “modified” even imply that there needs to be something to compare against in order to have either of those statuses.
+The only place to go from status **untracked** is to **staged**. This means that even if you are to make changes to the `hello-world.html` file now and then run `git status` again, the file will remain as **untracked**. That's because **Git** has no prior history of this file to compare to. The words “unmodified” and “modified” even imply that there needs to be something to compare against in order to have either of those statuses.
 
 
 **Git** has nothing to compare against for `hello-world.html` because we just initialized git. We haven’t created any history yet.
 
 
-Well, let’s create some history then. Let’s change the status of the `hello-world.html` file to **staged**.
+Well, let's create some history then. Let's change the status of the `hello-world.html` file to **staged**.
 
 
 In the `hello-world` directory, type:
@@ -170,7 +170,7 @@ So to see what happened, use `git status` again. You should see something like t
 
 
 
-“Changes to be committed” (circled in blue) means that these changes (now in green) are ready to be included the next time we take a snapshot of our project. That snapshot will be preserved in our project’s history as a **commit.** We can revisit any previous **commits** as we please. 
+“Changes to be committed” (circled in blue) means that these changes (now in green) are ready to be included the next time we take a snapshot of our project. That snapshot will be preserved in our project's history as a **commit.** We can revisit any previous **commits** as we please. 
 
 
 We’ll make a commit in just a moment but first a little more information about status lifecycle:
@@ -211,7 +211,7 @@ Moving on, if you want the new changes to be added to “changes to be committed
 
 ![git add all files](https://lh3.googleusercontent.com/u/0/docs/ADP-6oF49wlVK5PBpgNBQfC06Uq3kwndwYZGUbE_bWkOZvHHYqsTB1BlzvLzsqENj9Ix0v_8PlMXzLrTCIub7TC0ZiXaSYFJUnkdEqtu-gORfgIn3DjctLz9RctgYWC04noagC4dI_euaqe7pOX1pxOqnTWf-8DU1l0wRymcNVP54f8D0b2H7Yuz6tZczn86b0lt_3u1_BG7oUPCeO7eKREevIt7cqg97cJaVgp_N-VrN20SEH7c-uGhFC4P6l8Sx0J-dkJSxLZTpY_dwP82YtsuvkZink6RbPs0I558hCpTwC4UhjZE-4kWdNpKnS1Vd3EaebuRuVm4Z8x2ysQBgRf32_hWTQwudsOQA455QBqpIz5Jse7aI-lY0iTSVCHulBEN3CRwMFnSHahI6vKRprFKN7XF_n8CKH2WRmuqDI08AYFUsV5J5O1Ive-u8FLho5gUVjrhe3LNtOeFVtS5WXhwMMC3MdqlCuAK_SkFNzo02OMNeiP8j-JsBXnEMUoo3qhWShiGWdLm-k9rCBoIEgQMMZwG5zWyD_hUwCJpYAFPqg5lXKGc4hr1lCBXupFnfEU3JU5fgjG2LcSIGAZoqliGFfncbvy9i7b05nu7CJEsn4krtVEydfa0FZIZbkTDdBNcrPJa8yW9YRA7XwHT4BhFvI_cimORSMKEC9l79eIJpBnxVwbl6vEkSDFvf046I_ee-Y6dxO6G2wgUqhmUpuAm7Pa4aRiNH5S6dX5C8sXUCmt_GtEifpWpsvxwDvBl6wD9U9Afidso-PElQYdgjny_WKX_F1DVEQPPT3ORqRCZY_cgTVVTT2au6TvKY1T7E1hF8VKI5JoRbWsQxoRMVb7lHNuf6UiH0rbEZU3-CpzTbCyvICPdGjG5-TPy_i80NnSLYNt44E7-oBp9DRKHJwNGYud-FOpuXBNGu9fAurjZMoGxK5GIcJN6U0shKZHGE7soDW7cwLzDSNYW-iDa44qQWvKl424_M9U14O3My3rBRzNjh5xE1-fBS8cijfFa_eaBNfbaN70j8kJ6rWjJm6mZAFq8VDB03t8T4OoVEA)
 
-Okay, let’s finally **commit** our changes so we can create a snapshot of our work and complete the file status lifecycle.
+Okay, let's finally **commit** our changes so we can create a snapshot of our work and complete the file status lifecycle.
 
 In the `hello-world` directory, type:
 

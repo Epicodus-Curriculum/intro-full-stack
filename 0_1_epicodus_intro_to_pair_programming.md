@@ -42,10 +42,10 @@ It is not always clear to your pair what your intentions are just by looking at 
 When talking about a piece of code, be sure to point to it or highlight it. You can point if everyone in the group is working in-person. Otherwise, highlight code with your mouse. You can also zoom in or out with` Command + or -` for Mac and `CTL + or -` for Windows.
 
 **Proactively ask for input or opinions.**  
-Sometimes it’s helpful to signal when we want input from others or when we want to leave space for others to talk. You can ask a question such as "what do you think of this approach?" or “any thoughts on what you might do here?”
+Sometimes it's helpful to signal when we want input from others or when we want to leave space for others to talk. You can ask a question such as "what do you think of this approach?" or “any thoughts on what you might do here?”
 
 **Be proactive about switching when you are driving.**  
-It’s easy as the driver to lose track of how long you have been coding. It tends to feel more awkward for someone to ask for a turn to drive than for you to offer. Be mindful and give your pair opportunities to drive.
+It's easy as the driver to lose track of how long you have been coding. It tends to feel more awkward for someone to ask for a turn to drive than for you to offer. Be mindful and give your pair opportunities to drive.
 
 
 ### When you are the navigator:
@@ -59,7 +59,7 @@ This is very important. When pairing remotely, both pairs have the ability to si
 You may know the answer or have a great idea but if you're not driving then give your pair space to try things out. We often learn better from trial and error. You will get your chance to try out ideas when it is your turn to drive. You are still welcome to ask questions and point out typos.
 
 **Avoid researching something in another window without checking in first.**  
-This one comes up more when working remotely. If you're looking something up then you're not engaged in coding and not listening to your pair. For the sake of learning it is best if everyone in the pair group research together, especially if the driver is stuck and not sure what to do next. It’s not helpful for the driver to wait while you research something alone. Invite the driver to research with you.
+This one comes up more when working remotely. If you're looking something up then you're not engaged in coding and not listening to your pair. For the sake of learning it is best if everyone in the pair group research together, especially if the driver is stuck and not sure what to do next. It's not helpful for the driver to wait while you research something alone. Invite the driver to research with you.
 
 **Don’t always decline the opportunity to be the driver.**  
 Being the driver is challenging. You’re the one controlling the direction of the group and other people are watching while you code. It can be nerve wracking to take over driving, especially if you are not sure what to do. Be kind to the driver and give them a break by taking over driving. Challenge yourself to be outside your comfort zone. Even if your pair is more experienced, everyone should have an equal amount of time driving.
@@ -89,7 +89,7 @@ You and your pair may have different social norms regarding communication. Also,
 Allow room for silence. Oftentimes we feel uncomfortable in silence especially if we are with people we don’t know well. However, when pair programming (especially remotely when it is difficult to see body language) we need to be comfortable with silence. Allow your pair(s) time to think and respond.
 
 **Ask permission to speak.**  
-It can be helpful and polite to ask to speak before doing so, especially if you are not sure what your pair is thinking or doing. This helps to insure you are not accidentally interrupting anyone; even during periods of silence. Ask such questions like “Are you open to suggestions?” or “May I say something?” or “When would be a good moment for me to ask a question?” Give your pair an opportunity first to say what’s on their mind or to let you know that they need more time to think. 
+It can be helpful and polite to ask to speak before doing so, especially if you are not sure what your pair is thinking or doing. This helps to insure you are not accidentally interrupting anyone; even during periods of silence. Ask such questions like “Are you open to suggestions?” or “May I say something?” or “When would be a good moment for me to ask a question?” Give your pair an opportunity first to say what's on their mind or to let you know that they need more time to think. 
 
 
 **Recognize indirect communication**  
@@ -98,7 +98,7 @@ Sometimes direct communication makes us feel uncomfortable because we don’t wa
 For example, someone in the pair group might say “Coding this part looks really fun!” For someone who communicates directly, this doesn’t sound like a request to be the **driver.** This person may not be comfortable or not used to asking directly, “This part looks really fun to code. Can I drive?” 
 
 
-If you tend to be a naturally direct communicator, recognizing when someone might be communicating indirectly will be challenging. The important thing right now is to recognize that indirect communication is not wrong and it’s not in any way a sign of timidness. Many languages in the world have an indirect communication style. Even in western culture, women are more socialized to speak indirectly more so than men.
+If you tend to be a naturally direct communicator, recognizing when someone might be communicating indirectly will be challenging. The important thing right now is to recognize that indirect communication is not wrong and it's not in any way a sign of timidness. Many languages in the world have an indirect communication style. Even in western culture, women are more socialized to speak indirectly more so than men.
 
 
 When working remotely:
@@ -108,7 +108,7 @@ When working remotely:
 * Discord's push to talk option. You might find this a better option for you if you are driving. Push to talk means you are automatically silenced unless you push a button. You can follow the instructions provided by Discord if you're interested in this option.
 
 **It's okay to ask someone to silence themselves.**  
-Sometimes we forget that our mic is on. Oops! It’s generally considered polite to let someone know that their mic is on because it protects them from accidentally saying something they didn’t want others to hear. Kindly let your pair know their mic is on if extra noise is coming in through their mic while not talking.
+Sometimes we forget that our mic is on. Oops! It's generally considered polite to let someone know that their mic is on because it protects them from accidentally saying something they didn’t want others to hear. Kindly let your pair know their mic is on if extra noise is coming in through their mic while not talking.
 
 **Clarify if someone is trying to speak.**  
 Sometimes we forget to unmute ourselves when we're talking. If you suspect that might be the case during a particularly long stretch of silence from your pair, it's okay to say something like: "If you are talking, I cannot hear you." \
@@ -127,7 +127,7 @@ If you can have your camera on while working, there are a number of advantages t
 
 
 **Q**: _“What if I am the driver and I don’t know what to do?”_  
-**A**: That’s okay and it is important to communicate that with your pair. Being a developer means being comfortable with saying “I don’t know but I can find out.” Perhaps you and your pair could revisit a previous lesson that might help or look something up together? Do your best to verbalize what you don’t understand.
+**A**: That's okay and it is important to communicate that with your pair. Being a developer means being comfortable with saying “I don’t know but I can find out.” Perhaps you and your pair could revisit a previous lesson that might help or look something up together? Do your best to verbalize what you don’t understand.
 
 
 ## Check in with your Pair

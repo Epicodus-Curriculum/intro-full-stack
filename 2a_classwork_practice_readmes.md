@@ -14,12 +14,12 @@
 
 Let's add READMEs to projects that are currently in GitHub. This will give us additional practice with cloning existing repositories. All students in the pair or group of three should add a README to a project, taking their turn to drive.
 
-If you are working on your personal computer and the project also exists on your desktop, first make sure the project is in GitHub (that means making sure that _all_ files are saved and the latest code has been committed and pushed). Then remove the directory from your desktop. (If you're worried about losing content, you can also rename the directory). Next, clone the project down from GitHub. It’s important that we clone our existing repositories rather than just downloading the files. By using `git clone` we maintain the link to the git repository and can continue to make commits to the same project.
+If you are working on your personal computer and the project also exists on your desktop, first make sure the project is in GitHub (that means making sure that _all_ files are saved and the latest code has been committed and pushed). Then remove the directory from your desktop. (If you're worried about losing content, you can also rename the directory). Next, clone the project down from GitHub. It's important that we clone our existing repositories rather than just downloading the files. By using `git clone` we maintain the link to the git repository and can continue to make commits to the same project.
 
 Let's start with this:
 
 * Together with your pair, decide who will drive first.  The person with the keyboard will select a GitHub repository (such as `my-first-webpage`) from their account to clone and add a README to.
-* Open Terminal and go to the Desktop folder. (Again, it is important not to clone one project into another project’s folder.)
+* Open Terminal and go to the Desktop folder. (Again, it is important not to clone one project into another project's folder.)
 * Use `git clone` to clone the `my-first-webpage` repository from your GitHub.
 * Type `ls` in the Terminal and you should see your project folder appear.
 * Go into that project folder in the Terminal.

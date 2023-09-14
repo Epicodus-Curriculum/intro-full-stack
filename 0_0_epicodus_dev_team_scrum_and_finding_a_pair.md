@@ -26,7 +26,7 @@ Here are some guides that may be relevant:
 Take about 15 to 20 minutes troubleshooting any connectivity issues yourselves. Reach out to an instructor before moving on if there are still any issues.
 
 ## Dev Team Icebreaker
-Once everyone is able to communicate in Discord, let’s begin dev team scrum. For this first meeting, we’ll start with a simple icebreaker so we can get to know each other a little bit.
+Once everyone is able to communicate in Discord, let's begin dev team scrum. For this first meeting, we’ll start with a simple icebreaker so we can get to know each other a little bit.
 
 Each person takes a turn speaking:
 
@@ -43,7 +43,7 @@ Each person takes a turn speaking:
 Please take your time getting to know each other and chatting. Everyone in this group is now your dev team until the end of this course section. We will all be working closely together and relying on each other for the rest of the program.  
 
 ## Finding a Pair to Pair Program
-After introductions it’s time to break off into smaller groups and get started with pair programming.
+After introductions it's time to break off into smaller groups and get started with pair programming.
 
 
 To pair program effectively, we need to break off into groups of 2 (one group can have 3 people if there is an odd number).

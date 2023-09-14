@@ -1,6 +1,6 @@
 Before we continue learning about HTML elements, we need to talk about HTML **indentation** and formatting. 
 
-Consider a situation where someone wrote on a piece of paper but you had a hard time comprehending the message because the person’s handwriting was difficult to read. The message could be very important or make logical sense but unfortunately you don’t know because the handwriting makes it hard to understand. 
+Consider a situation where someone wrote on a piece of paper but you had a hard time comprehending the message because the person's handwriting was difficult to read. The message could be very important or make logical sense but unfortunately you don’t know because the handwriting makes it hard to understand. 
 
 This is comparable to the indentation and formatting of code. Not just HTML but all coding languages. Your code may work perfectly even without indentation and formatting but without consistent indentation and formatting other people will get frustrated when reading your code. Consider too your future self reading code you’ve written some time prior. Would your future self be able to read your code? 
 
@@ -97,7 +97,7 @@ Consider this example:
 </html>
 ```
 
-The one exception is that all child elements in the `html` elements are NOT indented one tab further to the right. There is no reason for this other than it is what is commonly done. In other words, it’s convention. Since the `html` element is the highest parent element, it saves on some extra tab space to not indent all elements inside. 
+The one exception is that all child elements in the `html` elements are NOT indented one tab further to the right. There is no reason for this other than it is what is commonly done. In other words, it's convention. Since the `html` element is the highest parent element, it saves on some extra tab space to not indent all elements inside. 
 
 
 ## VS Code Auto Indentation
@@ -169,7 +169,7 @@ Consider this example:
 </    head>
 ```
 
-Copy paste this code into a `.html` file in VS Code and use the auto formatter tool. What happens? VS Code’s auto formatter should fail to remove the extra space in the `<     !DOCTYPE html> ` element and the closing `/head>` tag.
+Copy paste this code into a `.html` file in VS Code and use the auto formatter tool. What happens? VS Code's auto formatter should fail to remove the extra space in the `<     !DOCTYPE html> ` element and the closing `/head>` tag.
 
 
 VS Code at the very least should color code these tags differently to indicate there is a problem. By default, the angle bracket will turn red and the element name will turn from a blue to a white color. The exact error color code may change if you have chosen a different color theme for VS Code.
@@ -200,6 +200,6 @@ Auto formatting tools are to help you save time writing consistent readable code
 </body>
 ```
 
-The error is the parent `div` element is not correctly wrapped around the `<ul>` child element. The auto formatter is not sophisticated enough to fix that for you. What’s worse is that your code may appear at first to work just fine but later you will encounter unexplained problems without the benefit of an explicit error message. 
+The error is the parent `div` element is not correctly wrapped around the `<ul>` child element. The auto formatter is not sophisticated enough to fix that for you. What's worse is that your code may appear at first to work just fine but later you will encounter unexplained problems without the benefit of an explicit error message. 
 
 This is all just to iterate to not solely rely on the auto formatter. You are responsible for correctly writing HTML code. 

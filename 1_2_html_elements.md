@@ -176,4 +176,4 @@ We include this optional challenge now because often people are really eager to 
 At the same time, a lot about being a developer is teaching yourself by researching and trying things out. Can you infer how to add an image based on what we have learned so far and using the MDN resource?
 
 
-Don’t worry if you want to skip this challenge or it’s not working. We’ll talk more about `img` elements later.
+Don’t worry if you want to skip this challenge or it's not working. We’ll talk more about `img` elements later.

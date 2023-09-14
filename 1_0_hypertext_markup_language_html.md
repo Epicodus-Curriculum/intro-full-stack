@@ -12,7 +12,7 @@ What does **HyperText** and **Markup Language** mean?
 **Hypertext** (when not used in context with HTML, the “t” is lowercase) is text displayed on a computer that contains links to other text. Without getting too much into the subject, **Hypertext** is kinda just a “technical nerdy” way of saying “a link.” Most people just say “link.” It may seem odd but learning exactly what is **Hypertext** is off topic and not important right now for learning about HTML. Just know that HT in HTML stands for **HyperText**.
 
 
-A **markup language** is used to control the structure, formatting, and relationship between parts of a text document. To give an analogy, let’s say you wrote a paper and then gave it to your English teacher for review. Your English teacher then used a blue pen to mark on your paper where there are formatting errors. Your English teacher then gives the paper back to you and expects you to correct all formatting errors. In this analogy, the English teacher is enforcing their **markup language** on your paper. They have formatting rules they expect you to follow. 
+A **markup language** is used to control the structure, formatting, and relationship between parts of a text document. To give an analogy, let's say you wrote a paper and then gave it to your English teacher for review. Your English teacher then used a blue pen to mark on your paper where there are formatting errors. Your English teacher then gives the paper back to you and expects you to correct all formatting errors. In this analogy, the English teacher is enforcing their **markup language** on your paper. They have formatting rules they expect you to follow. 
 
 
 This is what **HyperText Markup Language (HTML)** is doing for us too; enforcing structure and formatting standards for text intended to be displayed on the web. In fact, all formatted digital content relies on a **markup language**. **HTML** is by far the most standard meaning it is the most widely used and applicable to many professions; not just developers.
@@ -20,7 +20,7 @@ This is what **HyperText Markup Language (HTML)** is doing for us too; enforcing
 
 ## How HTML Works
 
-This will be a brief overview so you can get the general big picture of how HTML works. It’s kinda a funny thing in code that you often don’t need to get into the details of a coding language or tool before you’re expected to start using it. 
+This will be a brief overview so you can get the general big picture of how HTML works. It's kinda a funny thing in code that you often don’t need to get into the details of a coding language or tool before you’re expected to start using it. 
 
 
 This is how **HTML** works:
@@ -29,7 +29,7 @@ This is how **HTML** works:
 
 HTML is written in a file, that file is rendered by the web browser and it is displayed according to the HTML syntax.
 
-That’s all we really need to know about **HTML** works for now. Using **HTML** is providing your web browser with instructions for how the text should be displayed. 
+That's all we really need to know about **HTML** works for now. Using **HTML** is providing your web browser with instructions for how the text should be displayed. 
 
 
 ## 	Basic Structure of an HTML Document

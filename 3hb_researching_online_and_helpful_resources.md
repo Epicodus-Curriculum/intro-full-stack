@@ -11,7 +11,7 @@ There are _a ton_ of resources on the web for developers at every level. Not onl
 * Developers writing blogs, [GitHub Gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists), articles, and more.
 * There are sites that provide a platform to share and discuss computer programming issues with developers across the world. 
 
-The best way to get to know these tools is through general research via a search engine. While [Google is the most popular search engine](https://www.google.com/search?q=what+is+the+most+popular+search+engine&rlz=1C1CHBF_enUS912US912&oq=what+is+the+most+popular+search+engine&aqs=chrome..69i57j0i512l6j0i22i30l2j0i15i22i30.4906j1j7&sourceid=chrome&ie=UTF-8), any search engine will do! Let’s review some things to keep in mind as you are using search engines.
+The best way to get to know these tools is through general research via a search engine. While [Google is the most popular search engine](https://www.google.com/search?q=what+is+the+most+popular+search+engine&rlz=1C1CHBF_enUS912US912&oq=what+is+the+most+popular+search+engine&aqs=chrome..69i57j0i512l6j0i22i30l2j0i15i22i30.4906j1j7&sourceid=chrome&ie=UTF-8), any search engine will do! Let's review some things to keep in mind as you are using search engines.
 
 ### Using Search Engines
 
@@ -37,7 +37,7 @@ To learn more about how to refine your search queries with Google, visit these G
 
 **3. Vet the resource you are using.** 
 
-If you are using a new and unfamiliar site, it’s important to take some time to learn about the site and determine how reputable it is. If it’s unclear how reputable a site is, it’s best to find multiple sources that corroborate any solution that you use in your code. It’s common for there to be multiple ways of doing the same thing in code: some of these ways could use deprecated tools or methods, while others may be experimental or tied to only a specific version of a tool you are using. 
+If you are using a new and unfamiliar site, it's important to take some time to learn about the site and determine how reputable it is. If it's unclear how reputable a site is, it's best to find multiple sources that corroborate any solution that you use in your code. It's common for there to be multiple ways of doing the same thing in code: some of these ways could use deprecated tools or methods, while others may be experimental or tied to only a specific version of a tool you are using. 
 
 ## Developer Forums, like Stack Overflow
 ---
@@ -48,7 +48,7 @@ Stack Overflow (SO) is a very popular site for developers to post coding questio
 * Someone who is proficient with the coding language or tool you are using.
 * Someone who has encountered the same issue you are facing and solved it. 
 
-Epicodus students don’t generally post on Stack Overflow, but instead reference posts that are on it. As you review SO posts, there’s a few things to keep in mind:
+Epicodus students don’t generally post on Stack Overflow, but instead reference posts that are on it. As you review SO posts, there's a few things to keep in mind:
 
 * Pay attention to the date that the post was originally created and last updated. Some posts are very old and contain outdated information. On the other hand, some posts are very old, but have been recently updated with newer information.
 * Sometimes we get search results that point to SO posts that are related to what we are researching, but not exactly it. So, make sure to carefully read through the post to determine whether it is on the same topic that you are researching about. 
@@ -61,13 +61,13 @@ Next, we’ll review a few specific websites that offer detailed references for 
 
 ### W3Schools
 
-W3Schools is an organization that creates references and tutorials on various computer programming tools so that anyone can learn how to code for free. Epicodus students most often use the **reference** pages on W3Schools. A **reference** page lists all tools, or all the details of a tool. For example, if we navigate to the [HTML reference](https://www.w3schools.com/tags/default.asp), we’ll be taken to a list of all HTML elements that we can peruse and learn more about. Did you know that there is a `<table>` tag that we can use to create a table in HTML? There’s a lot to explore out there! Note that there’s not just reference pages for HTML, but also CSS, JavaScript, and more.
+W3Schools is an organization that creates references and tutorials on various computer programming tools so that anyone can learn how to code for free. Epicodus students most often use the **reference** pages on W3Schools. A **reference** page lists all tools, or all the details of a tool. For example, if we navigate to the [HTML reference](https://www.w3schools.com/tags/default.asp), we’ll be taken to a list of all HTML elements that we can peruse and learn more about. Did you know that there is a `<table>` tag that we can use to create a table in HTML? There's a lot to explore out there! Note that there's not just reference pages for HTML, but also CSS, JavaScript, and more.
 
 ### Mozilla Developer Network Web Docs
 
 Similar to W3Schools, Mozilla Developer Network Web Docs, or just [MDN Web Docs](https://developer.mozilla.org/en-US/) contains references and tutorials on tools for web development, including HTML, CSS, JavaScript, and more. MDN proudly states on its homepage that it is a resource created by developers for developers. 
 
-Epicodus students usually look at the MDN reference pages, however, there’s a lot of helpful tutorials and guides available. We’ll work with the MDN Web Docs more closely when we start learning JavaScript in the next course section.
+Epicodus students usually look at the MDN reference pages, however, there's a lot of helpful tutorials and guides available. We’ll work with the MDN Web Docs more closely when we start learning JavaScript in the next course section.
 
 ### CSS Tricks
 

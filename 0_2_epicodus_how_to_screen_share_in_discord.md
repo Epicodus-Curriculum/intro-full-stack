@@ -1,11 +1,11 @@
- Let’s finally get into the logistics on how to pair program. How to pair program changes if there is anyone in the pair group working remotely. Pick the directions below that describes your pair group:
+ Let's finally get into the logistics on how to pair program. How to pair program changes if there is anyone in the pair group working remotely. Pick the directions below that describes your pair group:
 
 
 ## 	Directions 1: Pair programming in-person and sharing a computer:
 
 1. Open Discord in the Chrome browser. A “station” account should already be logged in. If not, reach out to an in-person instructor for help.
 
-2. Move to a pair voice channel. It is okay to be silenced with mic off (or muted using Discord’s terminology) while in a pair voice channel but talking in-person. Still be present in Discord though by **NOT** turning off sound (or deafen yourselves using Discord’s terminology). Your remote peers and instructors will still need to be able to reach out via Discord.
+2. Move to a pair voice channel. It is okay to be silenced with mic off (or muted using Discord's terminology) while in a pair voice channel but talking in-person. Still be present in Discord though by **NOT** turning off sound (or deafen yourselves using Discord's terminology). Your remote peers and instructors will still need to be able to reach out via Discord.
 
 Move on to the next lesson once everyone feels good with the current setup. 
 
@@ -15,7 +15,7 @@ Move on to the next lesson once everyone feels good with the current setup.
 
 ### How to screen share and watch a stream in Discord
 
-Discord provides a thorough step by step guide [Go Live and Screen Share](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share) that covers how to screen share and how to watch someone else’s stream in Discord.
+Discord provides a thorough step by step guide [Go Live and Screen Share](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share) that covers how to screen share and how to watch someone else's stream in Discord.
 
 
 The most relevant sections in this guide are:
@@ -36,7 +36,7 @@ Discord lacks permission to use my mic, camera, or share my screen, try:
     * [Mac: Change Privacy & Security Settings](https://support.apple.com/guide/mac-help/change-privacy-security-settings-on-mac-mchl211c911f/13.0/mac/13.0)
     * [Windows: App Permissions](https://support.microsoft.com/en-us/windows/app-permissions-aea98a7c-b61a-1930-6ed0-47f0ed2ee15c)
 
-Discord’s screen share is forever loading, try:
+Discord's screen share is forever loading, try:
 
 * [Turning off hardware acceleration in discord.](https://www.anyrecover.com/apps-tips/discord-screen-share-not-working/#:~:text=Turn%20Off%20Hardware%20Acceleration%20in%20Discord,-Hardware%20acceleration%20is&text=So%2C%20if%20discord%20screen%20share,the%20screen%20share%20working%20again.)
 

@@ -31,10 +31,10 @@ Git and GitHub naturally work in tandem. On your computer, you have a **local** 
 We’re going to take an existing project with some commit history and **push** it to GitHub. To **push** to GitHub means that any additional commits in our **local** `.git` repository will be added to our **remote** repository on GitHub.
 
 
-For example, let’s say you made two commits in your project on your computer. You then **push** a copy of those commits to GitHub. Your project’s history now exists in two places: in your **local** `.git` repository and in your **remote** repository on GitHub. 
+For example, let's say you made two commits in your project on your computer. You then **push** a copy of those commits to GitHub. Your project's history now exists in two places: in your **local** `.git` repository and in your **remote** repository on GitHub. 
 
 
-You keep working and over time make three more commits on your project on your computer. Your project’s history in your **local** `.git` repository now looks different from the version of your project in your **remote** repository on GitHub. No problem, just push the changes from your **local** repository to your **remote** repository again. Now the two versions again match.
+You keep working and over time make three more commits on your project on your computer. Your project's history in your **local** `.git` repository now looks different from the version of your project in your **remote** repository on GitHub. No problem, just push the changes from your **local** repository to your **remote** repository again. Now the two versions again match.
 
 
 Where it gets complicated is when we collaborate with others. Say you’re on a team working with other people on the same project. Everyone has their own version of the project in their **local** `.git` repository on their own computer. However, everyone on the team is sharing the same **remote** repository on Github.  This is intentional as part of how **Git** works as a version management system. Say you’re working on one task for the project but you can’t complete that task until your teammate completes their task. Your teammate completes the task but how do they then share that code with you? The answer is your teammate **pushes** their changes to the **remote** repository and then you **pull** those new changes from the shared **remote** repository to update your **local** repository. To **pull** means to get any content from a **remote** repository to update your **local** repository.
@@ -85,7 +85,7 @@ Copy the url to your **remote** repository by clicking the button circled in red
 
 ## Connect a remote repository to a local repository
 
-In your project’s top level directory, use the git command:
+In your project's top level directory, use the git command:
 
 ``` 
 git remote add origin the-url-to-your-remote-repo
@@ -127,7 +127,7 @@ You only need to add a **remote** repository once per project. You can delete a 
 Before you push your commit history from your **local** repository to your **remote** repository, make sure you actually have some commits to push. You can check by using `git log`. If needed, take a moment to create some new commits before proceeding.
 
 
-In your project’s top level directory, use the git command:
+In your project's top level directory, use the git command:
 
 ```
 git push origin main 
@@ -153,7 +153,7 @@ Good practice is to **push** your commit history to your remote repository when 
 So far we know how to **push** changes on our **local** repository to our **remote** repository but how do we do the reverse? How to **pull**changes from a **remote** repository to our **local** repository?
 
 
-We often need to **pull** when working with others using the same **remote** repository or when we make changes to our **remote**repository directly via GitHub. The latter is a common source of confusion for beginners to GitHub. Let’s recreate that mishap and then fix it by using the git **pull** command.
+We often need to **pull** when working with others using the same **remote** repository or when we make changes to our **remote**repository directly via GitHub. The latter is a common source of confusion for beginners to GitHub. Let's recreate that mishap and then fix it by using the git **pull** command.
 
 
 1. In your remote repository on GitHub, click the “Add a README” button. 
@@ -161,7 +161,7 @@ We often need to **pull** when working with others using the same **remote** rep
 ![add a readme button](https://lh3.googleusercontent.com/u/0/docs/ADP-6oHEQ3GQTZP_PjOG43bri-w3gUduD8OtIwJljWxhOElg6yQWQ8G0JeGOHnGPrHbQq00Pjh4pGw-9kLt1aM8sZGI9Xk4gtojPb-emAWjCbQY4nExJzv-NqmHkAtcQr9Bu_4wAT4uuhxYs6Oel45VUOU6A8eQJEVoPOAWEI_dN4sWOIQberFWsMdRtosDoBdCTc0XLpoI0HSzrkkJP7Jke-YV2rvvmU1JHozIt0H7bQue8tTDhSQCtlm0NFgQd1sHWA0LkRzwctdS3qF59oZJEswfX60vKRCZ1DnI-Y8HVRSS_ZIh5JjSiAunkVbT8hjj9fgdj3okbt8Re0OKMvT4KJGjLcNCUj-Wr0pf3622zd8wo33o6gZ0H-ZOKJcR8YoDEAdRQEgimL1pdJxYeJuj3ZYtVUAIt7xu-xh8y32cKFXFb5fov88jRtz3ydjDCHiJO0Wlx1JzVujD796hB-u57KgBQMyUHw1eQ8PRyUDIES3N023DfqArQUhvc3TUMW1eKLy8Wo9h4KpC3DFEM6_IH8e7HmOMsM0FeyaMovs_aopEMPG-PKMTC4-AMQzzzF07pdWSf3cPyzIg0zCWtIwy4V2KAMBY3InfaepILWNfQw7jXQmL3U1EumcTWRy2Qt6Cc8UsG2kkOHSditxXlz0dffVOwL1-Bk9nOMG1EChdXw56yRJGSHsnJfDzFuw3sBoDNLd1jy26odAt79m36Gy0F_M69aHLGlPuNmIJSa4iybC8xV-E6QRx0d6W7fNFof58NoT18W16VjIEJrLUzT2OPRmy5_ZLTm8UPN1Vs6VLPe1o-nyc94ptuD71fQPAi4zKui4Qg3lnCulzeR2nnW42-d5V44KEJoH9vhQIEBvboWk39yp1ltD_fSSNDPmI9kzzDTqWTWiS0RYZd7Zdi2N8YIkpZo1UJiX7lYnO1tujaOyTPUwzlDUDi1brwGdlUM6yzeODyOw8wAD6To8I9A5H6sN3p9iItMdkFywuCsJd3BWPajkLx6_ODlEROiahBfcsCDjtM-gVU-w74LnYYNtyiApuUG8sxaXzJsPW5Jg)
 (READMEs is documentation for your project. We’ll talk more on READMEs later.)
 
-2. Edit your project’s README however you want and then click the “Commit changes” button (This page may look different than what is on your account):
+2. Edit your project's README however you want and then click the “Commit changes” button (This page may look different than what is on your account):
 
 ![edit readme](https://lh3.googleusercontent.com/u/0/docs/ADP-6oEBUK2SkBdiKTsf_lmDczVLfs65HenzhaLQxpgjf-Zmv7daegRVKKW2FuL-GE_BjErQED_P_fyQRIXU_ihJjz_cV_w5RsxDJTwX-nf5ZDwhDGxoA4B0IgoD5rlbjtuX7dAtxSAdbCyRLF5pXIcyNNp7QvxcYqQywFuXvUQ0ksUSl_dExqf1jFXIazyAaW0Ra_1th5vmDGR0qBG6yFnAEkc9cmY7TeUmx3oLOyic4zTLrIP-ZzoiK2p2-kFaKQ8tu109hGp9IP9Q198RBfnyiIOBUTrNYUjFD_PPbTHctTPFhNVva6MmAmdLdukogIW3e4lx_awCea5GsDwgh5y8buibk1U-jsCW4_Iesq5LzBEYSxILtEd2Ypkj7hmO50LUBqlnW_5OvlQyzKpPob_X5SP_NMmr7iicdifOzxDP1Nsc03XgGASjQUym9grIvrcPiIGKULaBfYNNqDYbXVZPJuFlrLA-mYD32pvz9b-VMZ5czmmmpqBObXH_6RZEXsaQvbrVkpaPjiuz8UuRFMMTL5Te6spUNn522Rhv4tGOStvZeGrkbrj2Kd9ciBWGjw-cAvYvFSJLNz0o7MyQMs_uRgIJEIOQvrWWCplUvttwj6CELnGVtSjVcJr_SMiwhLDPIOlZk5J03mFTiuEYmxDl6YTfFkjg-HI5xo2cPLw2bUg1DnQu_v8YMXNx8q71UaWs-D6NOYXxalgzfrhAiWqsvRrKUZS3QELyOnRt3FL1jXqHqFwePGuXjrySlxmleYmtuLlS8smNI5_91MBOY51i7J5hi9LO1qd6-jqaXPQdzJsMQCF2CEqf0QtNdGq10Nu4Zgl6upoMJJskDmStV5isrQNXLywTCFF1tkZq2YoCkh8VWL4OFpJ34W-45NxQVOjR9SmQTG0Pp3_wQagvuHZB1rpTq4cfqCOHi7FSEIrgZq29JImKqwKvKEzjyaDMDyq9LLK8tyTWC4z4whMfAjULYzvRJV0TE9KNPDCVtLMTZDjK79l51Xhi2ZO02O8kJnVuvy6o3qifQy4MVGyNEhzvUXlUF6g5BuPC2LShGQ)       
 
@@ -200,13 +200,13 @@ The result should look something like this:
 Using `git log` confirms you now have the additional commit(s) from your **remote** repository on your **local** repository.
 
 
-Git requires that our **remote** and **local** repositories match before it will allow you to **push** changes. That is part of **Git**’s role as a verison management system. **Git** enforces protocol for what to do when versions of our project don’t match so we don’t accidentally lose code when copying changes from one version to another. 
+Git requires that our **remote** and **local** repositories match before it will allow you to **push** changes. That is part of **Git**'s role as a verison management system. **Git** enforces protocol for what to do when versions of our project don’t match so we don’t accidentally lose code when copying changes from one version to another. 
 
 ## Clone a remote repository
 
-Okay, switching topics, let’s say there is a **remote** repository that we don’t have on our computer but we want to copy it. To **clone** is to make a copy of a **remote** repository to be a **local** repository on our computer. You can clone any remote repository that is publicly available or that you have access to.
+Okay, switching topics, let's say there is a **remote** repository that we don’t have on our computer but we want to copy it. To **clone** is to make a copy of a **remote** repository to be a **local** repository on our computer. You can clone any remote repository that is publicly available or that you have access to.
 
-For example, let’s clone the [React library](https://github.com/facebook/react) from Github; a tool we are going to use later in the program! React is created by Facebook(Meta) but is an open source tool. For us this means React’s source code is freely available on GitHub.
+For example, let's clone the [React library](https://github.com/facebook/react) from Github; a tool we are going to use later in the program! React is created by Facebook(Meta) but is an open source tool. For us this means React's source code is freely available on GitHub.
 
 Go to the website following the link above and click on the `<> Code` button then click on the copy button (circled in red with a 2):
 
@@ -223,15 +223,15 @@ A new folder called “react” should be created on your computer. You just cre
 
 We picked the React repository to clone because we knew it would be readability available for this example on how to **clone**. However, typically you only need to clone **remote** repositories from your own GitHub account.
 
-While you can **clone** a **remote** repository that doesn’t belong to you (in other words, it’s not from your GitHub account), the problem in doing so is that you don’t have permission to **push** changes to **remote** repositories that live on other GitHub accounts. In our case, you need to be given permission from the owners of the react **remote** repository to **push** changes.
+While you can **clone** a **remote** repository that doesn’t belong to you (in other words, it's not from your GitHub account), the problem in doing so is that you don’t have permission to **push** changes to **remote** repositories that live on other GitHub accounts. In our case, you need to be given permission from the owners of the react **remote** repository to **push** changes.
 
 One way around this is to delete the connection between your copied **local** repository of react and the remote repository using `git remote rm nickname-of-repo-url.” Then create a new **remote** repository under your GitHub account and connect your copied **local** repository to react to your **remote** repository.
 
-But that’s a lot of confusing steps! The better solution is to **fork**.
+But that's a lot of confusing steps! The better solution is to **fork**.
 
 ## Fork a remote repository
 
-To **fork** a repository is to copy an existing remote repository to your GitHub account. It’s very easy to do. Click the “Fork” button in a **remote** repository. 
+To **fork** a repository is to copy an existing remote repository to your GitHub account. It's very easy to do. Click the “Fork” button in a **remote** repository. 
 
 ![forking from](https://lh3.googleusercontent.com/u/0/docs/ADP-6oFFXS28gyNrhUJVomZ0_IJ_BcFgT1rDM1olPzA6AI1lRqnSF-vGVkfk38FyROyfzqKZVJ-qwxL-CTsCbvoW85uWO6eATChEttig3EW9vTwx5blF7JjKHge9c35ABW1sJOkIp4r-VHKwbidyI3myiBOkzy7GLWwufYHE-qu5D8W0L6TlvvvpSUQYVdBKdhhrYNTA_m4_AMsY0pLHgr6592W9lDOdFTsVryFXUqWbXXmznTq6DDpNZB2eDUkKXHJI2c7o4gQtlsRdzwvT1i_-xKrekR8r8DYM0goZu2WAbra1nItrUA2hBE0aRuTwVLViELw0ZoBknHIn-oUauA1YH-knmqtYE9XtE0uNVEtWSUKoLEJTIlhgeGkI64G18iYVXhl4wQAZyV4hdsh-eFEuhjWrPSUt9XE0EUFGsqR9GqDGcodKpo5RFuK04BNFcDbfZkeD5G4GcoDaUQVv3KGYQRkU8CO-muJBekV_miDUt1iVjQNdRTpGZsT7ZemOS8i12fSpFgzMrhIMjiPvmg5Pes1bgqWUyBQFQ8isMyTHfRxufHVv1gfE6kcZdz-LXx8mwYtaICz8SUONMv0ZcArzKdRuAeEmeTZvcNYYKWY3LPk_uYjKNxNhTUqog9hnJVoOoDCBNkVVEoRhh854jnPCnRuuiblNyqogIpdWF9e7lWbTKsnX6pLckJ6t0iaDA1dDsY5C66hLfHqSeIpMRFoO2NB1kek3qUPbqmRQnJKAZYJBqiHssDsQiJyXy_2CvOS3C34jg5K8kA1SA06XXTRHWG2KsDSsxdOKc9WB_RB3cbh6b_CVJAUMJWalqKksl6CLuOVDSZLjSef54eRruf71WBPpINZ4mqLkAV6txLh1Y7UoSNLD16YEp8QHN_zISYM_LVb8cJOzDKOvPGBI4SuUod2TiwJ3RaH2y9luqAhBsQ1XoamEtgEI2h2R__dUdajQmct8OgGIA637hPPdAkTcNT6B7-uqvGC9KhUFvJOPu4Y1IbRM9ooDZa6bykXPqyZpPBQAWlsKGHrcRkxGfFEqLgqun5dk65_VOudOFg)
 
@@ -239,7 +239,7 @@ To **fork** a repository is to copy an existing remote repository to your GitHub
 Click “create a new fork” and then select your account as the “Owner.”
 
 
-That’s it! Now you have your own copy of a repository from another GitHub account.
+That's it! Now you have your own copy of a repository from another GitHub account.
 
 ![my copy of react](https://lh3.googleusercontent.com/u/0/docs/ADP-6oEcqRMB3osSTJJpRpFld_lIQn02-lhEA2P620BFu4l2c4s-KImuP0mLNCvQjxRqa1E8N2qUZmp8k59eirZUqDggkGnp7U_D7dPnQPE6QVNPWw66938OtVX66iLN006hLv2x7LLs2vmQTYc7Jk5aIkUjUpWqfSZIt3AgyIJqvE7MVgAadvl8etf6bOJ4PgJLjCrKAz04jLsF_267ff2EIRsyLFxnHyXd0wTG0eU1EqtZl-HE0iPpph7gPOtRCIPTgcB40Too1KVXhBT8FpGqZD0vn9CoDRacii_6WOpZhzfOFjJGTk_3kX-xXoo5SLCWkaPY-R6Uiv8pbxF5Ww-YehR6w-AiRLQOJG-0HFkSCBGrFNmfxLUC3MoH-HhVHXeW0pwXUquxgwIapQtEn-Ce_YZyFag8PIhch1NAK2H0xzdGV4B0Rv2M6LNNq04mpnez88c5jsE0JwxNngduzBmJKJYLkLeWAg4N3-gRqb4-_YTHBm5XTreDYRLms6715m0UOp3VfUJ4K_ja6i4fSTYfYy8rpvl028b-a5dSBfsMpSkv2ersoBSlgy_KVHsCQ7VTelzxTCIlsCSeMjhwVvEbhtlCfUvRH0IgLuohyisoMhgm4qIDEqCSF-sertqU5FSxfu-BpvraCCLEWmsQkEdl5wuxH_9nh5v_eLlkBiswU3xk3rkRCwlxtScTgoF2Q43fh20eJcMW6jkYV3455YBubhFWlhTSpBw8DtLOd5RcIr4sxdMSkgPGjzT-GA7WtHhgqtrpa7921UpZbJreDicYeU5p2AUxw_2FGEzdLg8NO-PRNui38qm0-Ep_dmALfgZRKjKPZLM-u_1DfWOlyvNOJ5MIN6DCh_l6mDalzuiMt2yM5X-e2a63lygDoYTyeUIvC08cXHTievbTSMZ6kZ3JhKuKLQ0BRyFenS9Nm2XKvM7FBrb_8NLbQ1Ff0GAdtZkd7Za_iA9wQ4GSPdjSI_SD3_MftIf1E1q1NLZZJV8MRHDecbio8oT5WG7YlPHR1yQeB2WN3pl8ib0q03pKhu2rdY-8EWk-JpsCi3uhaQ)
 
@@ -250,7 +250,7 @@ From here, you can **clone** and set up a connection to your **remote** reposito
 The original repository is known as the **upstream** repository. It is listed in your remote repository as “forked from…” There are a few paths you can take after forking a remote repository:
 
 
-1. You want to take the project completely in your own direction. You are no longer interested in what the original repository is doing. This is totally fine to do but be sure to read the licensing information in the README of the original repository. Public repositories may still have terms of use. No matter what, never try to delete the commit history of a forked repository in your GitHub account. That’s disrespectful to the original authors of the code and unethical. 
+1. You want to take the project completely in your own direction. You are no longer interested in what the original repository is doing. This is totally fine to do but be sure to read the licensing information in the README of the original repository. Public repositories may still have terms of use. No matter what, never try to delete the commit history of a forked repository in your GitHub account. That's disrespectful to the original authors of the code and unethical. 
 
 
 >Let's Pair Program!

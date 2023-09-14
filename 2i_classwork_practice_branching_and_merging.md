@@ -1,4 +1,4 @@
-**Goal:**  Now that you have spent some time learning about branching and merging, let’s practice! The goal of this exercise is to work on branching and merging along with your new CSS skills.
+**Goal:**  Now that you have spent some time learning about branching and merging, let's practice! The goal of this exercise is to work on branching and merging along with your new CSS skills.
 
 ## Warm Up
 <hr />

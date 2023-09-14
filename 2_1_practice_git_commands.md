@@ -1,4 +1,4 @@
-In the previous lesson, we initialized git in our project and walked through the status lifecycle of files. That was a lengthy walkthrough so let’s now practice the most relevant points.
+In the previous lesson, we initialized git in our project and walked through the status lifecycle of files. That was a lengthy walkthrough so let's now practice the most relevant points.
 
 When you make changes in your project, you have the option to make a commit which will preserve a snapshot of your project at that moment. The steps are:
 

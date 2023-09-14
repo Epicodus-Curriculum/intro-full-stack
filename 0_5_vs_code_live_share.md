@@ -41,7 +41,7 @@ If the tree isn’t showing, click the top left _Explorer_ icon (cirled in red).
 
 ## 	Collaborate with Live Share
 
-Since **Live Share** is a well supported tool of VS Code, let’s learn how to use Live Share by looking at the documentation.
+Since **Live Share** is a well supported tool of VS Code, let's learn how to use Live Share by looking at the documentation.
 
 
 Work through the steps on this page: [Collaborate with Live Share](https://code.visualstudio.com/learn/collaboration/live-share). By the end of this page you should successfully be able to start and join a **Live Share** session.
@@ -54,7 +54,7 @@ You will be prompted to sign in to use Live Share via your GitHub account. If yo
 
 
 * **The big blue “Share” button is the same as “Start collaboration session.”**  
-Your Live Share menu might look different than the image example in the Live Share documentation. That’s okay. Sometimes the user interface (UI) of programs change and the documentation is slow to update. This image below is closer to what you should expect but there may still be some differences. 
+Your Live Share menu might look different than the image example in the Live Share documentation. That's okay. Sometimes the user interface (UI) of programs change and the documentation is slow to update. This image below is closer to what you should expect but there may still be some differences. 
 
 ![example of live share menu in vs code](https://i.imgur.com/3CDXaXl.png)
 
@@ -78,7 +78,7 @@ Hover your mouse over the Live Share menu and, across from “SESSION DETAILS”
 ### Troubleshooting Live Share
 
 
-If you’re running into a problem using **Live Share**, see if you can find a solution to that problem following [Microsoft’s Troubleshooting Visual Studio Live Share](https://learn.microsoft.com/en-us/visualstudio/liveshare/troubleshooting) documentation. The tool you are using is VS Code.
+If you’re running into a problem using **Live Share**, see if you can find a solution to that problem following [Microsoft's Troubleshooting Visual Studio Live Share](https://learn.microsoft.com/en-us/visualstudio/liveshare/troubleshooting) documentation. The tool you are using is VS Code.
 
 
 Reach out to an instructor if there is still an issue before moving on.

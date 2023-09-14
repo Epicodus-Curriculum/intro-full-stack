@@ -11,7 +11,7 @@
 
 ### Wikipedia Rebuild
 
-Now let’s use Bootstrap to rebuild the [Wikipedia homepage](https://en.wikipedia.org). Use divs, spans, classes, floats, etc to style the page exactly as it appears in your browser. Feel free to use placeholder text and images in your project.
+Now let's use Bootstrap to rebuild the [Wikipedia homepage](https://en.wikipedia.org). Use divs, spans, classes, floats, etc to style the page exactly as it appears in your browser. Feel free to use placeholder text and images in your project.
 
 ![Wikipedia homepage](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/wikipedia.png)
 

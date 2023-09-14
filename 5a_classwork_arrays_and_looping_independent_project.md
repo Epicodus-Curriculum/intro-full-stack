@@ -37,7 +37,7 @@ Your code will be reviewed for the following objectives:
 * Application implements a loop and works as expected.
 * The user can use the application repeatedly and see new results. 
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.
 
 ### What is a polished, portfolio-quality state?
 When a project is both polished and in a portfolio-quality state, this means:
@@ -53,7 +53,7 @@ All independent coding projects at Epicodus have these baseline requirements:
 
 * A complete and informative README
   * It is _not_ required to include a link to your site hosted on gh-pages, but you are welcome and encouraged to do so!  
-* The project's commit history demonstrates that the project’s required work schedule and hours have been met:
+* The project's commit history demonstrates that the project's required work schedule and hours have been met:
   * 8 hours completed on Friday is required for full-time students
   * 4 hours completed over the weekend is required for part-time students
 * Completion of the project based on the prompt _and_ objectives. The prompt contains details on the project's theme and features that are not always detailed in the objective. Carefully read through the prompt towards the end of your work session to make sure that you are not missing anything.

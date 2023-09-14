@@ -1,4 +1,4 @@
-We’re almost done talking about formatting. There is a lot to remember but soon it will feel like second nature to you. The following formatting topics are things VS Code’s auto formatter will not decide or fix for you. 
+We’re almost done talking about formatting. There is a lot to remember but soon it will feel like second nature to you. The following formatting topics are things VS Code's auto formatter will not decide or fix for you. 
 
 
 ### Important new terminology:
@@ -66,13 +66,13 @@ Try creating the problem yourself. In an html file, create a `p` element and in 
 
 Having long lines of text that require you to scroll horizontally is annoying but fortunately you have two options:
 
-1. VS Code’s auto formatter will automatically break up this long line of text. The end result should look something like this:
+1. VS Code's auto formatter will automatically break up this long line of text. The end result should look something like this:
 
 ![static image of vs code wrap line](https://i.imgur.com/wXNUVpY.png)
 
 
-2. A second option is to turn off VS Code’s auto formatter’s wrap line option and instead use a toggle option called “Word Wrap” found in the “View” menu or using the shortcut `Alt + Z`.  
-To turn off VS Code’s auto formatter’s wrap line option, go to:  
+2. A second option is to turn off VS Code's auto formatter's wrap line option and instead use a toggle option called “Word Wrap” found in the “View” menu or using the shortcut `Alt + Z`.  
+To turn off VS Code's auto formatter's wrap line option, go to:  
     
     1. File → Preferences → Settings
     2. Search “wrapline”

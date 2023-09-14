@@ -18,7 +18,7 @@ d7e33de something css related
 827ad58 add initial files
 ```
 
-We can see that this project contains some poorly-worded commits. There are also two consecutive commits about the same feature. Let’s clean up this Git commit history!
+We can see that this project contains some poorly-worded commits. There are also two consecutive commits about the same feature. Let's clean up this Git commit history!
 
 ## `$ git commit --amend`
 ---
@@ -88,7 +88,7 @@ do something with html
 #
 ```
 
-Let’s change the commit message at the top to "add welcome message to index.html". We save and close the file, and now the changes are reflected in the Git history:
+Let's change the commit message at the top to "add welcome message to index.html". We save and close the file, and now the changes are reflected in the Git history:
 
 ```shell
 $ git log --oneline
@@ -109,7 +109,7 @@ We can type `git rebase -i HEAD~4` to bring up the four most recent commits in t
 
 To combine a commit with the previous commit, we can change `pick` to `squash`.
 
-Let’s change `pick` to `squash` on the "update readme" commit in order to combine that one with the "add readme" commit directly preceding it:
+Let's change `pick` to `squash` on the "update readme" commit in order to combine that one with the "add readme" commit directly preceding it:
 
 ```shell
 pick 79e9de2 add readme
