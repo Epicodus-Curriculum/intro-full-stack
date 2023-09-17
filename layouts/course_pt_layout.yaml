@@ -20,7 +20,7 @@ code_reviews:
   details:
     - title: Git, HTML and CSS
       visible_class_week: 2
-      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/1_git_html_and_css/5a_cr_git_html_and_css_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/intro/1_cr_git_html_and_css_independent_project.md
       objectives:
       - "The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, and span."
       - "Project includes a custom-made stylesheet that uses typography styles, the box model (including margin, border, and padding), and floats."
@@ -33,10 +33,10 @@ code_reviews:
     - title: Social Identities
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/1_social_identities_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/1_social_identities_reflection.md
     - title: JavaScript and Web Browsers
       visible_class_week: 4
-      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/2_javascript_and_web_browsers/5a_cr_javascript_and_web_browsers_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/intro/2_cr_javascript_and_web_browsers_independent_project.md
       objectives:
       - "Form gathers input from the user."
       - "Branching is used to determine the result."
@@ -50,10 +50,10 @@ code_reviews:
     - title: Identifying and Preventing Microaggressions
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/2_identifying_and_preventing_microaggressions_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/2_identifying_and_preventing_microaggressions_reflection.md
     - title: Arrays and Looping
       visible_class_week: 6
-      filename: https://github.com/epicodus-classroom/intro-curriculum/blob/main/3_new_arrays_and_looping/5a_cr_arrays_and_looping_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/intro/3_cr_arrays_and_looping_independent_project.md
       objectives:
       - "JavaScript business logic and user interface logic are separate."
       - "Tests are included for each business logic behavior and code is committed after each test passes."
@@ -64,4 +64,4 @@ code_reviews:
     - title: Equality Versus Equity
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/3_equity_vs_equality_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/3_equity_vs_equality_reflection.md
