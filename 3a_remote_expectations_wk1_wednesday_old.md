@@ -5,21 +5,21 @@ Welcome to your third day of Epicodus! Today's schedule is fairly similar to yes
 
 Once again, times are approximate.
 
-**8:00 – 8:30 pm: Cohort Scrum with your Instructor**
+**6:00 – 6:30 pm: Cohort Scrum with your Instructor**
 
 We'll start class with a Cohort Scrum meeting, with your instructor and your cohort. This is the usual Scrum that you'll take part in every class session for the rest of the program, and we'll meet using the same Google Meet link.
 
 **Cohort Scrum** is a time for your instructor(s) to make announcements, cover certain topics from the curriculum, and for you to ask questions. These Scrums can vary in length depending on what needs to be discussed. If you are having any problems accessing the meeting, reach out to an instructor.
 
-**After this week, Cohort Scrums on weekdays will start at 8:15 pm and will be a shorter length — about 15 to 20 minutes.** We have a limited amount of time during weekday classes so we'll keep meetings short to have more time for hands-on coding.
+**After today, Cohort Scrums on weekdays will start at 6:15 pm and will be a shorter length — about 15 to 20 minutes.** We have a limited amount of time during weekday classes so we'll keep meetings short to have more time for hands-on coding.
 
-**8:30 am: Join Dev Team**
+**6:30 pm: Join Dev Team**
 
 After Cohort Scrum, you'll join your dev team. You'll have the same dev team for the entire course section. If you are having any issues with members of your dev team, please reach out to an instructor.
 
-**After this week, you will start every class session with your Dev Team Scrum meeting. On weekdays, Dev Team Scrum starts at 8:00 am.**
+**After today, you will start every class session with your Dev Team Scrum meeting. On Sundays, Dev Team Scrum starts at 9:00 am, and on weekdays, Dev Team Scrum starts at 6:00 pm.**
 
-**8:30 – 8:55 am: Dev Team Scrum**
+**6:30 – 6:55 pm: Dev Team Scrum**
 
 Except on the very first week of class, you'll start everyday with a meeting with your dev team. We call this meeting "Dev Team Scrum".
 
@@ -38,9 +38,9 @@ As a reminder, **Dev Team Scrum** includes a brief group check-in to talk about 
 
 Once everyone has had a chance to speak, the next step is to find a pair from within your Dev Team and then begin pair programming. If there is an odd number of people in your dev team, there will be one group of three. 
 
-**8:55 – 11:40 am: Pair Programming** 
+**6:55 – 8:40 pm: Pair Programming** 
 
-**11:40 – 12:00 pm: End of Day Cohort Scrum**
+**8:40 – 9:00 pm: End of Day Cohort Scrum**
 
 We'll meet briefly before the end of class to talk about how the day went.
 
@@ -56,10 +56,10 @@ The following are brand-new concepts that you'll get lots of opportunity to prac
 * HTML block elements
 * HTML inline elements
 
-You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Friday at the end of the course section and due the following Monday.
+You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Thursday at the end of the course section and due the following Sunday.
 
 You'll also have two homework assignments. The first assignment is to read a DEI lesson about social identities. You'll also have the opportunity to write a reflection about this DEI lesson.
 
-The second assignment includes two lessons on Journaling at Epicodus. You are not required to keep a journal while at Epicodus but we recommend keeping one as a tool for reflection and to see your progress throughout the program. In future weeks, the journal prompt will be in the weekend homework. You'll then have an opportunity to discuss the journal prompt with your pair on Monday morning.
+The second assignment includes two lessons on Journaling at Epicodus. You are not required to keep a journal while at Epicodus but we recommend keeping one as a tool for reflection and to see your progress throughout the program. In future weeks, the journal prompt will be in the weekend homework. You'll then have an opportunity to discuss the journal prompt with your pair on Sunday morning.
 
 **Take note:** on short weeks, daily expectations change, and you may cover more or less content on a given class day.

@@ -28,7 +28,7 @@ lessons:
     day: monday
     type: lesson
   - title: Tuesday Schedule and Expectations
-    filename: 2a_remote_expectations_wk1_tuesday.md
+    filename: 2a_remote_expectations_wk1_tuesday_old.md
     day: tuesday
     type: lesson
   - title: HyperText Markup Lanuage (HTML)
@@ -69,7 +69,7 @@ lessons:
     type: lesson
     repo: DEI-full-stack
   - title: Wednesday Schedule and Expectations
-    filename: 3a_remote_expectations_wk1_wednesday.md
+    filename: 3a_remote_expectations_wk1_wednesday_old.md
     day: wednesday
     type: lesson
   - title: Git

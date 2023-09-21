@@ -1,11 +1,11 @@
-Welcome to your third day of Epicodus! Today's schedule is fairly similar to yesterday.
+Welcome to your fourth day of Epicodus! Today's schedule is fairly similar to yesterday.
 
 ## Schedule
 ---
 
 Once again, times are approximate.
 
-**8:00 – 8:30 pm: Cohort Scrum with your Instructor**
+**8:00 – 8:30 am: Cohort Scrum with your Instructor**
 
 We'll start class with a Cohort Scrum meeting, with your instructor and your cohort. This is the usual Scrum that you'll take part in every class session for the rest of the program, and we'll meet using the same Google Meet link.
 
@@ -17,7 +17,7 @@ We'll start class with a Cohort Scrum meeting, with your instructor and your coh
 
 After Cohort Scrum, you'll join your dev team. You'll have the same dev team for the entire course section. If you are having any issues with members of your dev team, please reach out to an instructor.
 
-**After this week, you will start every class session with your Dev Team Scrum meeting. On weekdays, Dev Team Scrum starts at 8:00 am.**
+**After today, you will start every class session with your Dev Team Scrum meeting. On weekdays, Dev Team Scrum starts at 8:00 am.**
 
 **8:30 – 8:55 am: Dev Team Scrum**
 
@@ -44,22 +44,21 @@ Once everyone has had a chance to speak, the next step is to find a pair from wi
 
 We'll meet briefly before the end of class to talk about how the day went.
 
-## Third Day Expectations
+## Fourth Day Expectations
 ---
 
 We'll be covering the following key coding concepts today. **These concepts will all be required for this section's independent project.** Just like yesterday, these are concepts you'll be using throughout the program. Don't worry if all these concepts aren't clear by the end of today — you'll be practicing them over and over not just this week but throughout your time at Epicodus.
 
 The following are brand-new concepts that you'll get lots of opportunity to practice further:
 
-* HTML
-* HTML indentation and spacing
-* HTML block elements
-* HTML inline elements
+* CSS: Styling Best Practices
+* Debugging HTML and CSS
+* Git branching and merging
 
 You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Friday at the end of the course section and due the following Monday.
 
 You'll also have two homework assignments. The first assignment is to read a DEI lesson about social identities. You'll also have the opportunity to write a reflection about this DEI lesson.
 
-The second assignment includes two lessons on Journaling at Epicodus. You are not required to keep a journal while at Epicodus but we recommend keeping one as a tool for reflection and to see your progress throughout the program. In future weeks, the journal prompt will be in the weekend homework. You'll then have an opportunity to discuss the journal prompt with your pair on Monday morning.
+The second assignment includes two lessons on Journaling at Epicodus. You are not required to keep a journal while at Epicodus but we recommend keeping one as a tool for reflection and to see your progress throughout the program. In future weeks, the journal prompt will be in the weekend homework. You'll then have an opportunity to discuss the journal prompt with your pair on Sunday morning.
 
 **Take note:** on short weeks, daily expectations change, and you may cover more or less content on a given class day.
