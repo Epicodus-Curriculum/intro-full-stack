@@ -1,0 +1,10 @@
+title: Introduction to Programming (Part-Time)
+show_weeks_and_days: true
+homepage: index-pt.md
+sections:
+  - pt_old_1_git-html-and-css.yaml
+  - pt_old_2_git-html-and-css-part-2.yaml
+  - pt_old_3_javascript-and-web-browsers.yaml
+  - pt_old_4_javascript-and-web-browsers-part-2.yaml
+  - pt_old_5_arrays-and-looping.yaml
+  - pt_old_6_arrays-and-looping-part-2.yaml
