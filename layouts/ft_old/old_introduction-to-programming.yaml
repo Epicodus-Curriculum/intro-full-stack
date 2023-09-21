@@ -1,6 +1,6 @@
 title: Introduction to Programming
 show_weeks_and_days: true
-homepage: index.md
+homepage: index-ft-old.md
 sections:
   - ft_old_1_git-html-and-css.yaml
   - ft_old_2_javascript-and-web-browsers.yaml
