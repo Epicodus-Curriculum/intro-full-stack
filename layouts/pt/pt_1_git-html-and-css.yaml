@@ -88,18 +88,50 @@ lessons:
     filename: 2_3_epicodus_using_git_in_your_workflow.md
     day: wednesday
     type: lesson
+  - title: Thursday Schedule and Expectations
+    filename: 4a_remote_expectations_wk1_thursday.md
+    day: thursday
+    type: lesson
+  - title: Commit Trailers and Github Contributions
+    filename: 2ab_tracking_contributions_on_github.md
+    day: thursday
+    type: lesson
+  - title: 'CSS: Styling Text and Best Practices'
+    filename: 2b_css_styling_text.md
+    day: thursday
+    type: lesson
+  - title: Debugging HTML and CSS
+    filename: 2c_debugging_html_and_css.md
+    day: thursday
+    type: lesson
+  - title: 'Practice: Styling Text'
+    filename: 2d_classwork_practice_styling_text.md
+    day: thursday
+    type: exercise
+  - title: Git Branching
+    filename: 2g_git_branching.md
+    day: thursday
+    type: lesson
+  - title: Git Merging
+    filename: 2h_git_merging.md
+    day: thursday
+    type: lesson
+  - title: 'Practice: Branching and Merging'
+    filename: 2i_classwork_practice_branching_and_merging.md
+    day: thursday
+    type: exercise
   - title: 'Homework: Social Identities'
     filename: 1_social_identities.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: DEI-full-stack
   - title: 'Homework: Journaling at Epicodus'
     filename: 0_introduction_to_journals.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack
   - title: 'Homework: Journal #1'
     filename: 1_week_one_journal_prompt.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack

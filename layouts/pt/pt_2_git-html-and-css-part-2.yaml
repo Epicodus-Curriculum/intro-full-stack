@@ -3,67 +3,35 @@ order: 2
 repo: intro-full-stack
 directory: 2_git-html-and-css-part-2
 lessons:
-  - title: Sunday Schedule and Expectations
-    filename: 4a_remote_expectations_wk2_sunday.md
-    day: sunday
+  - title: Monday Schedule and Expectations
+    filename: 4a_remote_expectations_wk2_monday.md
+    day: monday
     type: lesson
   - title: 'Journal #1 Discussion'
     filename: 1_week_one_journal_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
-  - title: Commit Trailers and Github Contributions
-    filename: 2ab_tracking_contributions_on_github.md
-    day: sunday
-    type: lesson
-  - title: 'CSS: Styling Text and Best Practices'
-    filename: 2b_css_styling_text.md
-    day: sunday
-    type: lesson
-  - title: Debugging HTML and CSS
-    filename: 2c_debugging_html_and_css.md
-    day: sunday
-    type: lesson
-  - title: 'Practice: Styling Text'
-    filename: 2d_classwork_practice_styling_text.md
-    day: sunday
-    type: exercise
-  - title: Git Branching
-    filename: 2g_git_branching.md
-    day: sunday
-    type: lesson
-  - title: Git Merging
-    filename: 2h_git_merging.md
-    day: sunday
-    type: lesson
-  - title: 'Practice: Branching and Merging'
-    filename: 2i_classwork_practice_branching_and_merging.md
-    day: sunday
-    type: exercise
   - title: Markdown
     filename: 1fa_markdown.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Writing a README
     filename: 1o_homework_readmes.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Practice: Markdown by writing READMEs'
     filename: 2a_classwork_practice_readmes.md
-    day: sunday
+    day: monday
     type: exercise
   - title: GitHub Pages
     filename: 2e_github_pages.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Practice: GitHub Pages'
     filename: 2f_classwork_practice_github_pages.md
-    day: sunday
-    type: exercise
-  - title: Monday Schedule and Expectations
-    filename: 5a_remote_expectations_wk2_monday.md
     day: monday
-    type: lesson
+    type: exercise
   - title: Styling with Classes and Ids
     filename: 3a_styling_with_classes.md
     day: monday
@@ -80,26 +48,18 @@ lessons:
     filename: 3d_classwork_practice_divs_and_spans.md
     day: monday
     type: exercise
+  - title: Tuesday Schedule and Expectations
+    filename: 5a_remote_expectations_wk2_tuesday.md
+    day: tuesday
+    type: lesson
   - title: Using Floats
     filename: 3e_using_floats.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Practice: Using Floats'
     filename: 3f_classwork_practice_using_floats.md
-    day: monday
-    type: exercise
-  - title: 'Homework: Preparing for Your First Code Review'
-    filename: 4l_preparing_for_your_first_code_review.md
-    day: monday
-    type: lesson
-  - title: 'Homework: Git Expectations for Independent Projects'
-    filename: 1db_git_expectations_for_independent_projs.md
-    day: monday
-    type: lesson
-  - title: Tuesday Schedule and Expectations
-    filename: 6a_remote_expectations_wk2_tuesday.md
     day: tuesday
-    type: lesson
+    type: exercise
   - title: Box Model
     filename: 3g_box_model.md
     day: tuesday
@@ -112,28 +72,28 @@ lessons:
     filename: 3ha_centering_elements_and_images.md
     day: tuesday
     type: lesson
-  - title: Cascading
-    filename: 3i_cascading.md
+  - title: 'Homework: Preparing for Your First Code Review'
+    filename: 4l_preparing_for_your_first_code_review.md
     day: tuesday
     type: lesson
-  - title: 'Practice: Cascading'
-    filename: 3j_classwork_practice_cascading.md
-    day: tuesday
-    type: exercise
-  - title: 'Video Recap: Core CSS Concepts and Debugging'
-    filename: 3n_recap_on_core_css_concepts_and_debugging.md
-    day: tuesday
-    type: lesson
-  - title: 'Homework: Weekend Homework and Preparing for the Next Section'
-    filename: 4k_homework_and_preparing_for_next_section.md
-    day: tuesday
-    type: lesson
-  - title: 'Homework: Researching Online and Helpful Resources'
-    filename: 3hb_researching_online_and_helpful_resources.md
+  - title: 'Homework: Git Expectations for Independent Projects'
+    filename: 1db_git_expectations_for_independent_projs.md
     day: tuesday
     type: lesson
   - title: Wednesday Schedule and Expectations
-    filename: 7a_remote_expectations_wk2_wednesday.md
+    filename: 6a_remote_expectations_wk2_wednesday.md
+    day: wednesday
+    type: lesson
+  - title: Cascading
+    filename: 3i_cascading.md
+    day: wednesday
+    type: lesson
+  - title: 'Practice: Cascading'
+    filename: 3j_classwork_practice_cascading.md
+    day: wednesday
+    type: exercise
+  - title: 'Video Recap: Core CSS Concepts and Debugging'
+    filename: 3n_recap_on_core_css_concepts_and_debugging.md
     day: wednesday
     type: lesson
   - title: CSS Media Queries and Responsive Design
@@ -144,31 +104,43 @@ lessons:
     filename: 3m_classwork_practice_media_queries_and_responsive_design.md
     day: wednesday
     type: exercise
+  - title: 'Homework: Weekend Homework and Preparing for the Next Section'
+    filename: 4k_homework_and_preparing_for_next_section.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Researching Online and Helpful Resources'
+    filename: 3hb_researching_online_and_helpful_resources.md
+    day: wednesday
+    type: lesson
+  - title: Thursday Schedule and Expectations
+    filename: 7a_remote_expectations_wk2_thursday.md
+    day: thursday
+    type: lesson
   - title: Introduction to Bootstrap and Front-End Frameworks
     filename: 4b_introduction_to_bootstrap.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Downloading and Installing Bootstrap
     filename: 4c_bootstrap_downloading_and_installing.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Bootstrap Basic Elements
     filename: 4d_bootstrap_basic_elements.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Bootstrap: Navigating Documentation'
     filename: 4i_bootstrap_navigating_documentation.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Optional Practice: Recreate a Site with Bootstrap'
     filename: 4j_classwork_practice_recreate_a_site_with_bootstrap.md
-    day: wednesday
+    day: thursday
     type: exercise
   - title: 'Optional: VS Code with HTML'
     filename: 4m_html_with_vscode.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Git, HTML, and CSS Independent Project
     filename: 5a_classwork_git_html_and_css_independent_project.md
-    day: thursday
+    day: friday
     type: exercise

@@ -7,17 +7,17 @@ Here is today's schedule and expectations.
 
 Once again, times are approximate.
 
-**8:00 – 9:00 am: Orientation Part 2**
+**6:00 – 7:00 pm: Orientation Part 2**
 
 Epicodus staff will cover other important topics in part 2 of orientation. We'll meet using the same Google Meet link as yesterday.
 
-Remember that you will need to be individually let into the video meeting by Epicodus staff. This typically starts at 8 am and can take some time. So, if you are not able to join the video meeting right away, this is why. Please be patient as Epicodus staff work to let everyone into the meeting and get started.
+Remember that you will need to be individually let into the video meeting by Epicodus staff. This typically starts at 6 pm and can take some time. So, if you are not able to join the video meeting right away, this is why. Please be patient as Epicodus staff work to let everyone into the meeting and get started.
 
-**9:00 am: Join Dev Team**
+**7:00 pm: Join Dev Team**
 
 After orientation part 2, you'll join your dev team. You'll have the same dev team for the entire course section. If you are having any issues with members of your dev team, please reach out to an instructor.
 
-**9:00 – 9:25 am: Dev Team Scrum**
+**7:00 – 7:25 pm: Dev Team Scrum**
 
 Today there won't be any icebreakers. Instead, you'll follow the everyday process for Dev Team Scrum, which we'll review now. 
 
@@ -38,9 +38,9 @@ As a reminder, **Dev Team Scrum** includes a brief group check-in to talk about 
 
 Once everyone has had a chance to speak, the last step is to find a pair from within your Dev Team and then begin pair programming. If there is an odd number of people in your dev team, there will be one group of three. 
 
-**9:25 – 11:40 am: Pair Programming** 
+**7:25 – 8:40 pm: Pair Programming** 
 
-**11:40 – 12:00 pm: End of Day Cohort Scrum**
+**8:40 – 9:00 pm: End of Day Cohort Scrum**
 
 We'll meet briefly before the end of class to talk about how the day went. **Cohort Scrum** is a time for your instructor(s) to make announcements, cover certain topics from the curriculum, and for you to ask questions. These Scrums can vary in length depending on what needs to be discussed. 
 
@@ -59,6 +59,6 @@ We cover the following concepts in the pre-work and practice them more next clas
 * Using Git in the command line
 * Learning the VS Code coding workflow
 
-You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Friday  at the end of the course section and due the following Monday.
+You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Thursday at the end of the course section and due the following Sunday.
 
 **Take note:** on short weeks, daily expectations change, and you may cover more or less content on a given class day.

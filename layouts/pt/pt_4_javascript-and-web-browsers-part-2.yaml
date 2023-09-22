@@ -5,129 +5,129 @@ directory: 4_javascript-and-web-browsers-part-2
 lessons:
   - title: Accessing the DOM
     filename: 2d_accessing_the_DOM.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Practice: Accessing the DOM'
     filename: 2e_classwork_practice_accessing_the_DOM.md
-    day: sunday
+    day: monday
     type: exercise
   - title: JavaScript's Global Object
     filename: 2f_global_js_scope_is_represented_by_a_global_object.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Accessing HTML Element Attributes and Properties in the DOM
     filename: 2g_accessing_DOM_element_attributes_and_properties.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Understanding Web APIs: Interfaces (Object Types) and Inheritance'
     filename: 2h_understanding_web_apis_inheritance_object_types.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Practice: Accessing HTML Element Attributes and Properties in the DOM'
     filename: 2i_classwork_accessing_DOM_element_attributes_and_properties.md
-    day: sunday
+    day: monday
     type: exercise
   - title: Function Expressions
     filename: 2j_function_expressions.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Event Handling with Event Handler Properties
     filename: 2k_event_handling_with_event_handler_properties.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Event Handler Properties in a Project: Using window.onload'
     filename: 2l_window_onload_and_event_handler_properties_in_a_project.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Practice: Event Handling with Event Handler Properties'
     filename: 2m_classwork_practice_event_handling_with_event_handler_properties.md
-    day: sunday
+    day: monday
     type: exercise
   - title: Forms, Hiding and Showing Elements, and the Event Object
     filename: 3a_forms_hiding_showing_elements_and_event_object.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: Other Ways to Organize UI Logic
     filename: 3aa_organizing_UI_logic_outside_of_window_onload.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: 'Debugging in JavaScript: Using console.log()'
     filename: 3b_debugging_using_console_log.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: 'Practice: Forms'
     filename: 3c_classwork_practice_forms.md
-    day: sunday
+    day: tuesday
     type: exercise
   - title: 'Homework: Practical Tips for Researching Web APIs'
     filename: 3d_practical_tips_for_researching.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: Branching
     filename: 3e_homework_branching.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Practice: Branching'
     filename: 3f_classwork_practice_branching.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: More Branching and Error Handling
     filename: 3g_more_branching.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Practice: More Branching'
     filename: 3h_classwork_practice_more_branching.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: 'Homework: Event Handling with Event Listeners'
     filename: 3i_event_listening.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Homework: Using Function Declarations in Event Handling'
     filename: 3j_using_function_declarations_in_event_handling.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Homework: Removing Event Listeners'
     filename: 3k_removing_event_listeners.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Practice: Event Listeners'
     filename: 3l_classwork_practice_with_event_listeners.md
-    day: tuesday
+    day: wednesday
     type: exercise
   - title: Form Input Types
     filename: 4b_form_input_types.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: Calculator with Forms and Branching
     filename: 4c_calculator_with_branching.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: 'Practice: Calculator and More'
     filename: 4d_classwork_practice_more_branching_form_input_types.md
-    day: tuesday
+    day: wednesday
     type: exercise
   - title: 'Homework: Understanding Web APIs: Event Handling'
     filename: 4a_understanding_web_APIs_event_handling.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: 'Homework: Function Scope Versus Block Scope'
     filename: 4e_function_versus_block_scope.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: 'Debugging in JavaScript: Pausing on Exceptions'
     filename: 4f_debugging_pausing_on_exceptions.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Debugging in JavaScript: Using debugger and Breakpoints'
     filename: 4g_debugging_with_debugger.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Practice: Triangle Tracker'
     filename: 4h_classwork_practice_triangle_tracker.md
-    day: wednesday
+    day: thursday
     type: exercise
   - title: JavaScript and Web Browsers Independent Project
     filename: 5a_classwork_javascript_and_web_browsers_independent_project.md
-    day: thursday
+    day: friday
     type: exercise

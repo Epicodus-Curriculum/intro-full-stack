@@ -4,7 +4,7 @@ repo: intro-full-stack
 directory: 2_git-html-and-css-part-2
 lessons:
   - title: Sunday Schedule and Expectations
-    filename: 4a_remote_expectations_wk2_sunday.md
+    filename: 4a_remote_expectations_wk2_sunday_old.md
     day: sunday
     type: lesson
   - title: 'Journal #1 Discussion'
@@ -61,7 +61,7 @@ lessons:
     day: sunday
     type: exercise
   - title: Monday Schedule and Expectations
-    filename: 5a_remote_expectations_wk2_monday.md
+    filename: 5a_remote_expectations_wk2_monday_old.md
     day: monday
     type: lesson
   - title: Styling with Classes and Ids
@@ -97,7 +97,7 @@ lessons:
     day: monday
     type: lesson
   - title: Tuesday Schedule and Expectations
-    filename: 6a_remote_expectations_wk2_tuesday.md
+    filename: 6a_remote_expectations_wk2_tuesday_old.md
     day: tuesday
     type: lesson
   - title: Box Model
@@ -133,7 +133,7 @@ lessons:
     day: tuesday
     type: lesson
   - title: Wednesday Schedule and Expectations
-    filename: 7a_remote_expectations_wk2_wednesday.md
+    filename: 7a_remote_expectations_wk2_wednesday_old.md
     day: wednesday
     type: lesson
   - title: CSS Media Queries and Responsive Design
