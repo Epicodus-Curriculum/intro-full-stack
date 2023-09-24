@@ -20,7 +20,7 @@ Let's start with some HTML. We'll use the box model HTML code again with some ch
   <title>Box model</title>
 </head>
 <body>
-  <img src="cat.jpeg" class="centered-image">
+  <img src="cat.jpeg" class="centered-image"/>
   <span class="my-class">Hi there!</span>
   <div class="my-class">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
 </body>

@@ -75,7 +75,7 @@ Clicking on the above anchor tag would cause our computer to open up our default
 Finally, let's make your  webpage a bit prettier and include an image. Save an image in the same folder as your HTML files and then include it like this:
 
 ```html
-<img src="kitten.jpeg" alt="A photo of a cute kitten.">
+<img src="kitten.jpeg" alt="A photo of a cute kitten."/>
 ```
 
 The `<img>` tag is different from the other tags we've used in that it is **self-closing**: you don't need a closing tag. 
@@ -88,7 +88,7 @@ Typically, webpages will store their images in a separate folder from their HTML
 
 
 ```html
-<img src="img/kitten.jpeg" alt="A photo of a cute kitten.">
+<img src="img/kitten.jpeg" alt="A photo of a cute kitten."/>
 ```
 
 The `src` attribute with the value `img/kitten.jpeg` tells the browser to look in the `img` folder in the current directory and then look for the `kitten.jpeg` file.
@@ -96,5 +96,5 @@ The `src` attribute with the value `img/kitten.jpeg` tells the browser to look i
 This handy website https://picsum.photos/ offers placeholder images to use. The value of the `src` attribute can also be a url to an image, such as
 
 ```
-<img src="https://picsum.photos/200/300" alt="a placeholder image">
+<img src="https://picsum.photos/200/300" alt="a placeholder image"/>
 ```

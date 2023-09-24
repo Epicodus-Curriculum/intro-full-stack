@@ -145,7 +145,7 @@ And it corresponds to this DOM element object:
 ```js
 > let img = document.querySelector("img");
 > img;
-<img src="https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-articleLarge.jpg" alt="An image of a cookie">
+<img src="https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-articleLarge.jpg" alt="An image of a cookie"/>
 ```
 
 With these properties, representing the HTML element's attributes:
