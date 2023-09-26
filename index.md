@@ -1,7 +1,7 @@
 ---
 title: Introduction to Programming
 id: index
-slug: /introduction_to_programming
+slug: /introduction-to-programming
 hide_table_of_contents: true
 sidebar_position: 0
 ---
