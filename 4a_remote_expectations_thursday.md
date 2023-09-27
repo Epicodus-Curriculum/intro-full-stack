@@ -61,7 +61,7 @@ Your first independent project is tomorrow so you'll want to make sure that you 
 
 There are also two lessons that cover [Preparing for Your First Code Review](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-preparing-for-your-first-code-review), including helpful strategies. As well as a lesson covering [Git Expectations for Independent Projects](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-git-expectations-for-independent-projects).
 
-Independent projects can be stressful, especially if you're struggling with concepts or have testing-related anxiety. Remember that you'll always have an opportunity to get instructor feedback and resubmit. If you need to review the general process, see [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews).
+Independent projects can be stressful, especially if you're struggling with concepts or have testing-related anxiety. Remember that you'll always have an opportunity to get instructor feedback and resubmit. If you need to review the general process, see [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews).
 
 Today we'll cover the following concepts:
 
