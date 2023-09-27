@@ -51,7 +51,7 @@ Here are potential topics to cover in the retrospective:
 
 Your first independent project is released tomorrow (and due the folowing Monday) so you'll want to make sure that you have the basic concepts covered. The first lesson of every course section always includes the objectives. Here's this week's objectives: [Git, HTML, and CSS Objectives](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/git-html-and-css/git-html-and-css-objectives). Also, the final lesson of each course section always includes the objectives, too: [Git, HTML, and CSS Independent Project](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/git-html-and-css-part-2/git-html-and-css-independent-project).
 
-Independent projects can be stressful, especially if you're struggling with concepts or have testing-related anxiety. Remember that you'll always have an opportunity to get instructor feedback and resubmit. If you need to review the general process, see [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews).
+Independent projects can be stressful, especially if you're struggling with concepts or have testing-related anxiety. Remember that you'll always have an opportunity to get instructor feedback and resubmit. If you need to review the general process, see [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews).
 
 Today we'll cover the following concepts:
 
