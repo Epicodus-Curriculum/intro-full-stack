@@ -13,7 +13,7 @@ The image below is an example of working through the upcoming lesson on JavaScri
 
 When you are using the console to test out JavaScript, make sure to continue switch who's driving and who's observing regularly. When trying out new JavaScript concepts, we suggest switching roles more often than the 20 – 30 minutes we usually suggest. If there's a practice lesson with multiple JavaScript exercises, it's best to switch roles between each exercise. Take this practice lesson for example:
 
-![This practice lesson is from the arithmetic exercises. It shows many different prompts for addition, subtraction, multiplication, etc. Find the exercises at this location: https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/practice-arithmetic](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/devtools-and-pairing.png)
+![This practice lesson is from the arithmetic exercises. It shows many different prompts for addition, subtraction, multiplication, etc.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/devtools-and-pairing.png)
 
 ### Tips for Pairing Remotely
 

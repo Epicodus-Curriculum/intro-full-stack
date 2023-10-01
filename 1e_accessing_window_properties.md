@@ -62,7 +62,7 @@ We can also learn about the website we are currently on by accessing the `window
 
 ```js
 > window.location;
-Location {ancestorOrigins: DOMStringList, href: 'https://www.learnhowtoprogram.com/introduction-to-…/getting-started-at-epicodus/learn-how-to-program', origin: 'https://www.learnhowtoprogram.com', protocol: 'https:', host: 'www.learnhowtoprogram.com', …}
+Location {ancestorOrigins: DOMStringList, href: 'https://www.learnhowtoprogram.com/', origin: 'https://www.learnhowtoprogram.com', protocol: 'https:', host: 'www.learnhowtoprogram.com', …}
 ```
 
 Woah! That's a lot of information. What's happening here is that the `location` property of the `window` object is set to the value of another object, itself with lots of properties. This is called a **nested object**: `window` is an object and `location` is also an object that is nested inside of the `window` object.

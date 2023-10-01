@@ -1,6 +1,6 @@
 **Goal:** If you have completed today's primary classwork, continue practicing writing and calling custom functions. If you don't get to this lesson, don't worry! It is simply additional practice for those with class time remaining at the end of the day's lessons.
 
-* Follow the [Calculator Business Logic Exercise](https://new.learnhowtoprogram.com/lessons/practice-calculator-ui-and-business-logic) in order to write your code in VS Code, while launching it in the browser with an HTML file.
+* Follow the [Calculator Business Logic Exercise](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/practice-calculator-ui-and-business-logic) in order to write your code in VS Code, while launching it in the browser with an HTML file.
 * Remember to use descriptive variable names and be mindful of your indentation.
 * Don't forget to make regular commits and push to GitHub.
 

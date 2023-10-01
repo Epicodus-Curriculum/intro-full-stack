@@ -5,9 +5,9 @@ You have upcoming weekend homework to complete before the start of class next we
 
 Weekend homework for any course section is found within that section on learnhowtoprogram.com. So, **always look ahead to the upcoming course section for weekend homework**. For the next section on JavaScript and Web Browsers, find your weekend homework here:
 
-**<span class="glyphicon glyphicon-link"></span> [Full-Time JavaScript & Web Browsers](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers)**
+**<span class="glyphicon glyphicon-link"></span> [Full-Time JavaScript & Web Browsers](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/javascript-and-web-browsers-objectives)**
 
-**<span class="glyphicon glyphicon-link"></span> [Part-Time JavaScript & Web Browsers Part 1](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/javascript-and-web-browsers)**
+**<span class="glyphicon glyphicon-link"></span> [Part-Time JavaScript & Web Browsers Part 1](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/javascript-and-web-browsers/javascript-and-web-browsers-objectives)**
 
 Every lesson labeled with _**weekend**_ is meant to be read through before the first class of the section.
 
