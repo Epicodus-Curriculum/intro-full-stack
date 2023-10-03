@@ -68,7 +68,7 @@ Having long lines of text that require you to scroll horizontally is annoying bu
 
 1. VS Code's auto formatter will automatically break up this long line of text. The end result should look something like this:
 
-![static image of vs code wrap line](https://i.imgur.com/wXNUVpY.png)
+![static image of vs code wrap line](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/html-indentation-part2-image-1.png)
 
 
 2. A second option is to turn off VS Code's auto formatter's wrap line option and instead use a toggle option called “Word Wrap” found in the “View” menu or using the shortcut `Alt + Z`.  
@@ -80,7 +80,7 @@ To turn off VS Code's auto formatter's wrap line option, go to:
 
     Now with this option off and using word wrap, the result should look something like this:
 
-![static image of word wrap vs code](https://i.imgur.com/0AAjDuY.png)
+![static image of word wrap vs code](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/html-indentation-part2-image-2.png)
 
 Do you see the difference? While the decision is just preference, using word wrap is the more popular option because it uses fewer lines of code.
 

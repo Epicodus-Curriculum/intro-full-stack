@@ -6,7 +6,7 @@ Most workplaces force formatting standardization because otherwise everyone woul
 
 Here are our formatting standards at Epicodus:
 
-![static image of format options](https://i.imgur.com/rbND8Gh.png)
+![static image of format options](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/formatting-standards-lesson-image-1.png)
 
 ## FAQ
 

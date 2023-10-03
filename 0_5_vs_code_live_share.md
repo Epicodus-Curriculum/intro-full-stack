@@ -36,7 +36,7 @@ You should see `hi.txt` in the left-hand pane of VS Code. This is called a file 
 
 If the tree isn’t showing, click the top left _Explorer_ icon (cirled in red).
 
-![my first project file tree with explore icon circled in red](https://i.imgur.com/YtHEDYA.png)
+![my first project file tree with explore icon circled in red](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/VSCodeLiveShare-Image-1.png)
 
 
 ## 	Collaborate with Live Share
@@ -56,7 +56,7 @@ You will be prompted to sign in to use Live Share via your GitHub account. If yo
 * **The big blue “Share” button is the same as “Start collaboration session.”**  
 Your Live Share menu might look different than the image example in the Live Share documentation. That's okay. Sometimes the user interface (UI) of programs change and the documentation is slow to update. This image below is closer to what you should expect but there may still be some differences. 
 
-![example of live share menu in vs code](https://i.imgur.com/3CDXaXl.png)
+![example of live share menu in vs code](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/VSCodeLiveShare-Image-2.png)
 
 * **Files need to be saved to work with Live Share.**  
 **Live Share** may not initially share a file that is unsaved.
@@ -66,13 +66,13 @@ Your Live Share menu might look different than the image example in the Live Sha
 When you start a **Live Share** session, a link to invite others to collaborate is automatically copied to your clipboard. If you need to get the link again, just click on “Invite participants”, which is highlighted in the image below.
 
 
-![static image of invite participants button in live share](https://i.imgur.com/O2th85I.png)
+![static image of invite participants button in live share](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/VSCodeLiveShare-Image-3.png)
 
 * **How to stop a Live Share session.**
 
 Hover your mouse over the Live Share menu and, across from “SESSION DETAILS”, will appear an icon circle with a strike through it. Click this icon to end the **Live Share** session.
 
-![static image how to end live share session](https://i.imgur.com/RBhbMAP.png)
+![static image how to end live share session](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/VSCodeLiveShare-Image-4.png)
 
 
 ### Troubleshooting Live Share
