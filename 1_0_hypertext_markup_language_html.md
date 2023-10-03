@@ -25,7 +25,7 @@ This will be a brief overview so you can get the general big picture of how HTML
 
 This is how **HTML** works:
 
-![static image how html works](https://i.imgur.com/LodKyST.png)
+![static image how html works](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/HTML-Image-1.png)
 
 HTML is written in a file, that file is rendered by the web browser and it is displayed according to the HTML syntax.
 

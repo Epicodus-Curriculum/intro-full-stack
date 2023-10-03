@@ -104,7 +104,7 @@ Here is further documentation about [creating commits with mulitple authors](htt
 
 Be aware that it may take time for the **GitHub contributions** to appear on your profile page but if they are not showing up after a few days then troubleshoot using this doc: [Why are my contributions not showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
-As an additional note, if you need to re-order commit history, or change something about previous commits, you can do so by using `git rebase`. Documentation on how to use this functionality can be found in the GitHub documentation [About Git Rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase).
+As an additional note, if you need to re-order commit history, or change something about previous commits, you can do so by using `git rebase`. Documentation on how to use this functionality can be found in the GitHub documentation [About Git Rebase]().
 
 ## Git Best Practices
 
@@ -253,3 +253,68 @@ Let's say Ava and Eli are pair programming:
 4. When at a good spotting point, create a remote repository on your GitHub account. Connect your remote repository to your local repository using `git remote add origin url-of-remote-repo` in the top level directory of the project. 
 
 5. Push changes to your remote repository using `git push origin main`. Repeat this step periodically.
+
+
+
+## 	Fixing past commit history
+
+If you forget to co-author a commit, that is no problem. It is relatively easy to go back and alter commit history on your **local** repository.
+
+
+Use the git command:
+
+
+```
+git rebase -i HEAD~n
+``` 
+ 
+`n` represents the number of commits you want to edit, starting from the most recent comment. For example, if I wanted to edit the last 4 commits, I use `git rebase -i HEAD~4`
+
+Git should open a new file in VS Code.
+
+
+>Note!  
+>If VS Code doesn’t open and instead git wants you to make edits in your terminal, then revisit this lesson [Git configurations](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/git-configurations) and make sure VS code is set up as Git's default editor.
+
+
+![rebase first menu](https://i.imgur.com/AFwFUEV.png)
+
+
+VS code should open a edit window that looks something like the image above. At the top is the commit history of the project. Below are instructions for options available. The list is in ascending order; the red circle is next to the most recent commit made in the commit history. The red underlined words are what we feel are the most relevant options for you at this time. (Though play around with them all!)
+
+`pick` is just leave the commit as is.
+`reword` means to use the commit but edit the message.
+`squash` is to use the commit but meld it into the previous commit (the one next above in the list). This is helpful if you forget to include a minor edit in a commit. You can make another commit and then meld the two.
+
+To use the options, replace the word `pick` with any of the option names. Such as: 
+
+![rebase commands](https://i.imgur.com/g0GTcqi.png)
+
+
+Then save and close the edit window. A new edit window will appear in VS code. The first thing Git wants us to resolve is the `squash` command. We want to combine the very first and second commit into one. In this new edit window, Git is giving us an opportunity to edit the commit message if we please.
+
+
+![rebase squash](https://i.imgur.com/WyT9zT7.png)
+
+(The last few letters of "languages" is in red because that commit message is a bit too long.)
+
+For this example this is how we chose to combine the commit messages.
+
+![combine rebase](https://i.imgur.com/wjFCGOj.png)
+        
+
+When you are happy with the commit message, save and close the edit window. 
+
+Since we also chose to use the `reword` command on another commit, the edit window will open again. This time we are not combining commits, just editing the commit message of a single commit.
+
+![reword rebase](https://i.imgur.com/N7j3TLd.png)
+        
+
+This time we added our co-author commit trailer. When we are done we again save and close the file.
+
+![reword cocommit](https://i.imgur.com/8aNy8XR.png)
+
+Using `git log` we can see our new local commit history. It looks like we forgot to add a co-author commit trailer to all commits. No problem, we can just run `git rebase` again!
+
+![final rebase result](https://i.imgur.com/zyFpCKc.png)
+

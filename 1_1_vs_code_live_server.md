@@ -36,7 +36,7 @@ The browser should open and you should see the text above displayed in the brows
 
 **Live Share** is a separate VS Code extension that allows you to collaborate with others but it works well with **Live Server**. After you start a **Live Share** session, go to the **Live Share** session menu in VS Code. Below “Shared Servers” you will see an option to view the Live Server (highlighted in the image below). This allows anyone working with you, even if they’re remote, to also view your website.
 
-![static image live server in live share menu](https://i.imgur.com/qoTC6aX.png)
+![static image live server in live share menu](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/vscode-live-server-live-share-server-menu-example.png)
 
 
 >Let's Pair Program!  
