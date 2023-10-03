@@ -1,7 +1,7 @@
 ---
 title: Introduction to Programming (Part-Time - Evening)
 id: index
-slug: /introduction-to-programming-part-time-evening
+slug: /introduction-to-programming
 hide_table_of_contents: true
 sidebar_position: 0
 ---

@@ -1,7 +1,7 @@
 ---
 title: Introduction to Programming (Part-Time)
 id: index
-slug: /introduction-to-programming-part-time
+slug: /introduction-to-programming
 hide_table_of_contents: true
 sidebar_position: 0
 ---
