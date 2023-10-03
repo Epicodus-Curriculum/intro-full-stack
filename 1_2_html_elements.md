@@ -32,14 +32,16 @@ There are lots of HTML **elements** available to us when writing HTML code. To g
 
 ## Defining an HTML Element
 
-What defines an HTML **element**? _In general_, a HTML **element** consists of a **start tag**, **element content** , and an **end tag**. Be prepared that you will encounter some exceptions to this general rule in the future.
+What defines an HTML **element**? _In general_, a HTML **element** consists of a **start tag**, **element content** , and an **end tag**. These are also known by **opening tag**, **content**, and **closing tag**. 
 
-![static image table defines html](https://i.imgur.com/Bis02G9.png)
+Be prepared that you will encounter some exceptions to this general rule in the future.
 
-The **start tag**, displayed as two angle brackets with the **tagname** in the middle (`<h1>`, `<div>`, `<p>`) marks the start of an HTML element.
+![static image table defines html](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/html-elements-example-p-tag.png)
+
+The **start tag**/**opening tag**, displayed as two angle brackets with the **tagname** in the middle (`<h1>`, `<div>`, `<p>`) marks the start of an HTML element.
 
 
-The **end tag**, displayed as two angle brackets with a slash `/` and tagname in the middle (`</h1>`, `</div>`, `</p>`) marks the end of an HTML element.
+The **end tag**/**closing tag**, displayed as two angle brackets with a slash `/` and tagname in the middle (`</h1>`, `</div>`, `</p>`) marks the end of an HTML element.
 
 
 Anything in between the start and end tags of an HTML element is the **content of the element**. Content is typically text or other HTML elements. Adding HTML elements to the content of other HTML elements is called **nesting**.

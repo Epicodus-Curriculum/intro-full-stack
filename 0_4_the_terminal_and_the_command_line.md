@@ -48,10 +48,12 @@ For Window users, the following exercise relies on you have installed Git Bash f
 ### Project Setup	
 
 **Window users!** Open Git Bash.  
-![git bash logo](https://i.imgur.com/EZSkl9d.png)
+
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-git-bash-logo.png" alt="git bash logo" style="width:100px;"/>
 
 **Mac users!** Open your built-in Bash terminal.  
-![static image of mac terminal icon](https://i.imgur.com/OYvFLHJ.png)
+
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-mac-terminal-logo.png" alt="static image of mac terminal icon" style="width:100px;"/>
 
 Regardless of if you are a Mac or Windows user, the following exercise will work the same.
 
