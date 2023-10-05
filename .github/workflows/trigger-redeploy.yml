@@ -1,0 +1,18 @@
+# name: Trigger LHTP workflow to fetch docs, build and deploy Docusaurus site
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+# jobs:
+#   call_lhtp:
+#     uses: epicodus/lhtp/.github/workflows/fetch-build-deploy.yml@main
+#     secrets:
+#       CURRICULUM_ORG: ${{ secrets.CURRICULUM_ORG }}
+#       CURRICULUM_GITHUB_APP_ID: ${{ secrets.CURRICULUM_GITHUB_APP_ID }}
+#       CURRICULUM_GITHUB_INSTALLATION_ID: ${{ secrets.CURRICULUM_GITHUB_INSTALLATION_ID }}
+#       CURRICULUM_GITHUB_APP_PEM: ${{ secrets.CURRICULUM_GITHUB_APP_PEM }}
+#       LHTP_GITHUB_APP_ID: ${{ secrets.LHTP_GITHUB_APP_ID }}
+#       LHTP_GITHUB_INSTALLATION_ID: ${{ secrets.LHTP_GITHUB_INSTALLATION_ID }}
+#       LHTP_GITHUB_APP_PEM: ${{ secrets.LHTP_GITHUB_APP_PEM }}

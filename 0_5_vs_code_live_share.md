@@ -9,7 +9,7 @@ Imagine you are writing code and you may be working with a peer or need help fro
 
 ### Requirements:
 
-VS Code Live Share extension is installed following this lesson: [Installing and Using VS Code Live Share](https://new.learnhowtoprogram.com/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share)
+VS Code Live Share extension is installed following this lesson: [Installing and Using VS Code Live Share](/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share)
 
 ### Important new terminology in this exercise:
 
