@@ -132,6 +132,21 @@ lessons:
     filename: 4i_bootstrap_navigating_documentation.md
     day: thursday
     type: lesson
+  - title:  'Goal Setting & Career Services Overview - Part 1'
+    filename: 1_week_1_goal_setting_and_career_services_overview_part_1.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title:  'Goal Setting & Career Services Overview - Part 2'
+    filename: 1_week_1_goal_setting_and_career_services_overview_part_2.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title:  'Career Exploration'
+    filename: 1_week_1_career_exploration.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack        
   - title: 'Optional Practice: Recreate a Site with Bootstrap'
     filename: 4j_classwork_practice_recreate_a_site_with_bootstrap.md
     day: thursday

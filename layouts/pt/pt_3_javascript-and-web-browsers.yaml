@@ -170,6 +170,16 @@ lessons:
     filename: 2b_classwork_practice_more_function_writing.md
     day: thursday
     type: exercise
+  - title: 'Identifying Important Skills'
+    filename: 1_week_3_indentifying_important_skills.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Identifying Your Skills, Strengths, and Weaknesses'
+    filename: 1_week_3_indentifying_your_skills_strengths_weaknesses.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
   - title: 'Homework: Variable Scope'
     filename: 2a_homework_variable_scope.md
     day: thursday
