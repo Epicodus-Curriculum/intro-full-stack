@@ -196,8 +196,13 @@ lessons:
     filename: 4f_which_loop_should_i_use.md
     day: thursday
     type: lesson
-  - title: LinkedIn
-    filename: 3_linkedin_classwork.md
+  - title: 'Identifying Important Skills'
+    filename: 1_week_3_indentifying_important_skills.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Identifying Your Skills, Strengths, and Weaknesses'
+    filename: 1_week_3_indentifying_your_skills_strengths_weaknesses.md
     day: thursday
     type: exercise
     repo: career-services-full-stack
@@ -205,3 +210,8 @@ lessons:
     filename: 5a_classwork_arrays_and_looping_independent_project.md
     day: friday
     type: exercise
+  # - title: LinkedIn
+  #   filename: 3_linkedin_classwork.md
+  #   day: thursday
+  #   type: exercise
+  #   repo: career-services-full-stack
