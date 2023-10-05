@@ -66,7 +66,7 @@ If we click the last option, we'll be taken to a search page with more search re
 
 ### Understanding `prototype`
 
-So far we've introduced methods by their data type and by their name, like in the lesson on [String and Number Methods](/introduction-to-programming/javascript-and-web-browsers/practice-string-and-number-methods):
+So far we've introduced methods by their data type and by their name, like in the lesson on [String and Number Methods](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/practice-string-and-number-methods):
 
 > ## String Methods
 

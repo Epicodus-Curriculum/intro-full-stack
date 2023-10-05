@@ -42,7 +42,7 @@ In this practice lesson, we are going to explore a small list of command prompts
 
 ### Requirements
 
-For Window users, the following exercise relies on you have installed Git Bash from the pre-work lesson: [Introduction to the Command Line](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/introduction-to-the-command-line) 
+For Window users, the following exercise relies on you have installed Git Bash from the pre-work lesson: [Introduction to the Command Line](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/introduction-to-the-command-line) 
 
 
 ### Project Setup	
@@ -178,7 +178,7 @@ code .
 The `code` command opens VS Code application and the “dot” `.` means to open everything in the current working directory.  
 
 >Note!
->If you are getting an error message that states “code command not found” you need to revisit this prework lesson: [Text Editor: Visual Studio Code](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/text-editor-visual-studio-code).
+>If you are getting an error message that states “code command not found” you need to revisit this prework lesson: [Text Editor: Visual Studio Code](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/text-editor-visual-studio-code).
 
 
 If successful, VS Code will open and you will see the file `hi.txt` nested in a directory called `my-first-project` in the file explorer in the left of VS Code.

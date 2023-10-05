@@ -118,10 +118,10 @@ There is no limit to nesting elements. A single element can be both a **parent**
 
 ### Project Setup:
 
-1. Create a new directory with any name you like. Inside that directory create a new `.html` file. Revisit the lesson [The Terminal and the Command Line](/introduction-to-programming/git-html-and-css/the-terminal-and-the-command-line) if you are not sure how to complete this step.
+1. Create a new directory with any name you like. Inside that directory create a new `.html` file. Revisit the lesson [The Terminal and the Command Line](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/the-terminal-and-the-command-line) if you are not sure how to complete this step.
     * The theme of this practice project is up to you. If you can’t decide then take the cookie recipe from above and improve on it.
 
-2. Open your `.html` file using VS Live Server. Revisit lesson [VS Code Live Server](/introduction-to-programming/git-html-and-css/vs-code-live-server) if needed.
+2. Open your `.html` file using VS Live Server. Revisit lesson [VS Code Live Server](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/vs-code-live-server) if needed.
 
 
 ### Goals:

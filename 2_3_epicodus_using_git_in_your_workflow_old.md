@@ -274,7 +274,7 @@ Git should open a new file in VS Code.
 
 
 >Note!  
->If VS Code doesn’t open and instead git wants you to make edits in your terminal, then revisit this lesson [Git configurations](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/git-configurations) and make sure VS code is set up as Git's default editor.
+>If VS Code doesn’t open and instead git wants you to make edits in your terminal, then revisit this lesson [Git configurations](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/git-configurations) and make sure VS code is set up as Git's default editor.
 
 
 ![rebase first menu](https://i.imgur.com/AFwFUEV.png)

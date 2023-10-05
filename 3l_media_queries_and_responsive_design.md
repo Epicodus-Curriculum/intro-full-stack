@@ -261,7 +261,7 @@ Yet, once it reaches 480 pixels or smaller, it still turns teal:
 
 ### More CSS in Media Queries
 
-Also, remember that you can define _any_ CSS in a media query; not just background colors! For instance, we learned how to create columns in a [previous lesson](/introduction-to-programming/git-html-and-css/using-floats). Oftentimes, sites will display text in multiple columns on larger screens, then condense it into a single column for easier reading on smaller devices [as seen in this example](http://mediaqueri.es/dbp/).
+Also, remember that you can define _any_ CSS in a media query; not just background colors! For instance, we learned how to create columns in a [previous lesson](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/using-floats). Oftentimes, sites will display text in multiple columns on larger screens, then condense it into a single column for easier reading on smaller devices [as seen in this example](http://mediaqueri.es/dbp/).
 
 We can do this too! Let's create another media query. This time, we'll use the `min` prefix on the `width` feature. We'll specify that any viewport _above_ 768px should float our text into columns. This means that any viewport _below_ the size of this breakpoint will display text in a single column:
 
