@@ -49,11 +49,11 @@ For Window users, the following exercise relies on you have installed Git Bash f
 
 **Window users!** Open Git Bash.  
 
-<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-git-bash-logo.png" alt="git bash logo" style="width:100px;"/>
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-git-bash-logo.png" alt="git bash logo" style={{width:'100px'}}/>
 
 **Mac users!** Open your built-in Bash terminal.  
 
-<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-mac-terminal-logo.png" alt="static image of mac terminal icon" style="width:100px;"/>
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/terminal-and-command-line-mac-terminal-logo.png" alt="static image of mac terminal icon" style={{width:'100px'}}/>
 
 Regardless of if you are a Mac or Windows user, the following exercise will work the same.
 
