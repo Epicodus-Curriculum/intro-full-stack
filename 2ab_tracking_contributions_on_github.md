@@ -54,7 +54,7 @@ We start by writing our commit message as usual. However, instead of closing out
 
 For each co-author, we start by adding `Co-authored-by:` followed by a space. Next, we add the preferred name of the co-author as well as the email associated with their Github account. It's very important that the right email is added — otherwise, the co-author won't be correctly attributed in the commit.
 
-Once we are done, we complete the commit with the usual quote marks. Grace Hopper and Ada Lovelace are now contributors on this commit. If we were working on a computer that has a different user in the global git configuration ([see Git Project Setup](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-git-project-setup) if you need a refresher), that user would also be a contributor.
+Once we are done, we complete the commit with the usual quote marks. Grace Hopper and Ada Lovelace are now contributors on this commit. If we were working on a computer that has a different user in the global git configuration ([see Git Configurations pre-work lesson](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/git-configurations) if you need a refresher), that user would also be a contributor.
 
 Let's do one more example — this one will follow the example of having one user hosting a VS Code Live Share session with their pair. The host should already have a global git user and email set up on their machine. For that reason, the commit trailer only needs to include the pair that's being hosted (not the host).
 
@@ -72,5 +72,3 @@ Once you push your code, you should verify that it's correctly showing both cont
 For more information on creating a commit trailer, see [Creating a commit with multiple authors](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors).
 
 If your commits aren't showing up in the commit graph on your profile and you'd like to troubleshoot, see [Why are my contributions not showing up on my profile?](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile).
-
-If you want to read more about viewing your GitHub contributions, see [Viewing contributions on your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile).

@@ -51,10 +51,9 @@ We'll be covering the following key coding concepts today. **These concepts will
 
 The following are brand-new concepts that you'll get lots of opportunity to practice further:
 
-* HTML
-* HTML indentation and spacing
-* HTML block elements
-* HTML inline elements
+* Git as a version control system, and Git commands. 
+* GitHub and Remote Repositories
+* How to use Git and GitHub in your workflow while coding
 
 You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Thursday at the end of the course section and due the following Sunday.
 
