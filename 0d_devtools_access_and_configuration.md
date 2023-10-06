@@ -14,7 +14,7 @@ Once the menu is open:
 * Go to the _More Tools_ menu.
 * Then, select _Developer Tools_.
 
-![A gif that shows how to open the Developer Console](replacelink/dev-tool-open.gif)
+![A gif that shows how to open the Developer Console](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-open.gif)
 
 Shortcuts for accessing the DevTools console are:
 
@@ -51,26 +51,26 @@ You can configure the console's location, size, and colors! Review the instructi
 * Go to the _Preferences_ tab (this is usually the default location that settings opens to).
 * Under the _Appearance_ section, look for _Theme_ and set it to your preference. When you change a setting, the DevTools window will prompt you to reload.
 
-![A gif that shows how to change the  Developer Console's theme](replacelink/dev-tool-theme-change.gif)
+![A gif that shows how to change the  Developer Console's theme](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-theme-change.gif)
 
 #### To increase/decrease the size of the text:
 
 * For Windows: use `ctrl` + `shift` + `+` to increase and `ctrl` + `shift` + `-` to decrease text size.
 * For Mac: use `cmd` + `shift` + `+` to increase and `cmd` + `shift` + `-` to decrease text size.
 
-![A gif that shows how to change the text size of the Developer Console](replacelink/dev-tool-increase-decrease-size.gif)
+![A gif that shows how to change the text size of the Developer Console](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-increase-decrease-size.gif)
 
 #### To increase/decrease the size of the DevTools window:
 
 * Simply drag the side of the window in/out or up/down. The DevTools window acts the same as a browser window.
 
-![A gif that shows how to change the size of the Developer Console window](replacelink/dev-tool-increase-size.gif)
+![A gif that shows how to change the size of the Developer Console window](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-increase-size.gif)
 
 #### To move the location of the DevTools window:
 
 *  Select the menu represented by three vertical dots in the top right corner of the window. This will be next to the settings cog. Once open, find the option for _dock side_ and select the option that works best for you.
 
-![A gif that shows how to change the dock position of the Developer Console window](replacelink/dev-tool-change-position.gif)
+![A gif that shows how to change the dock position of the Developer Console window](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-change-position.gif)
 
 ### Formatting Code
 

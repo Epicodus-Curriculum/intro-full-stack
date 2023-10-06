@@ -69,7 +69,7 @@ Woah! That's a lot of information. What's happening here is that the `location` 
 
 We can expand this object in the DevTools console to look at all of the information by clicking the triangle symbol to the left of the object, like in the image below.
 
-![This image shows the window.location object expanded](replacelink/accessing-window-properties-dev-tool.PNG)
+![This image shows the window.location object expanded](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/accessing-window-properties-dev-tool.png)
 
 As we can see, `window.location` holds information about the webpage we are on, and some properties like `host` or `href` have string values, and some properties have methods as values like `reload: ƒ reload()`.
 
