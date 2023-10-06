@@ -62,14 +62,14 @@ We can also learn about the website we are currently on by accessing the `window
 
 ```js
 > window.location;
-Location {ancestorOrigins: DOMStringList, href: 'https://www.learnhowtoprogram.com/', origin: 'https://www.learnhowtoprogram.com', protocol: 'https:', host: 'www.learnhowtoprogram.com', …}
+Location {ancestorOrigins: DOMStringList, href: 'https://full-time.learnhowtoprogram.com/introduction-to-programming', origin: 'https://full-time.learnhowtoprogram.com', protocol: 'https:', host: 'full-time.learnhowtoprogram.com', …}
 ```
 
 Woah! That's a lot of information. What's happening here is that the `location` property of the `window` object is set to the value of another object, itself with lots of properties. This is called a **nested object**: `window` is an object and `location` is also an object that is nested inside of the `window` object.
 
 We can expand this object in the DevTools console to look at all of the information by clicking the triangle symbol to the left of the object, like in the image below.
 
-![This image shows the window.location object expanded](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/new-section2-js-and-web-browsers/window-location-expanded.png)
+![This image shows the window.location object expanded](replacelink/accessing-window-properties-dev-tool.PNG)
 
 As we can see, `window.location` holds information about the webpage we are on, and some properties like `host` or `href` have string values, and some properties have methods as values like `reload: ƒ reload()`.
 
@@ -77,12 +77,12 @@ Let's try accessing the `window.location` properties we just listed: `host`, `hr
 
 ```js
 > window.location.host      // the host corresponds to the domain name of the site
-'www.learnhowtoprogram.com'
+'full-time.learnhowtoprogram.com'
 > window.location.href      // the href is the full url of the webpage you are on
-'https://www.learnhowtoprogram.com/tracks'
+'https://full-time.learnhowtoprogram.com/introduction-to-programming'
 ```
 
-Note that in the example above, the responses I get are based off of the current webpage I was on, which was `learnhowtoprogram.com/tracks`, so your response for `window.location.href` will be different.
+Note that in the example above, the responses I get are based off of the current webpage I was on, which was `full-time.learnhowtoprogram.com/introduction-to-programming`, so your response for `window.location.href` will be different if you are reading this lesson within the part-time track, or are on another page.
 
 To summarize, the syntax to access a property in a nested object looks like this:
 
@@ -118,10 +118,10 @@ Window {window: Window, self: Window, document: document, name: '', location: L
 Now try entering this into your DevTools console:
 
 ```js
-> window.open("https://www.learnhowtoprogram.com/tracks")
+> window.open("https://full-time.learnhowtoprogram.com/")
 ```
 
-Now with the argument `"https://www.learnhowtoprogram.com/tracks"` included in the method call, a new tab is opened to learnhowtoprogram.com/tracks. 
+Now with the argument `"https://full-time.learnhowtoprogram.com"` included in the method call, a new tab is opened to full-time.learnhowtoprogram.com/. You're welcome to try other sub-domains available to Learn How to Program, such as `"https://part-time.learnhowtoprogram.com"`, `"https://career-services.learnhowtoprogram.com"`, or `"https://dei.learnhowtoprogram.com"`
 
 ### Working with Optional Parameters
 
