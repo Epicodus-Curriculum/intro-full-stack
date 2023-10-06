@@ -51,13 +51,12 @@ If you are having any problems accessing the meeting, reach out to your instruct
 
 We'll be covering the following key coding concepts today. **These concepts will all be required for this section's independent project**, and they are concepts you'll be working with throughout the entire program. Don't worry if all these concepts aren't clear by the end of the week — you'll be practicing them over and over not just this week but throughout your time at Epicodus.
 
-We cover the following concepts in the pre-work and practice them more next class session:
+We will cover the following concepts and practice them this class session:
 
-* Setting up Git in a project
-* Tracking changes with Git
-* Git commit best practices
-* Using Git in the command line
-* Learning the VS Code coding workflow
+* HyperText Markup Language
+* VS Code Live Server
+* HTML Elements and Indentation
+* Inline Elements and Attributes
 
 You will need to be able to use all of the above concepts for this course section's independent project — and for future independent projects as well. Independent project prompts are released on Friday  at the end of the course section and due the following Monday.
 

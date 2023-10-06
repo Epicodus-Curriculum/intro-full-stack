@@ -12,10 +12,6 @@ lessons:
     day: sunday
     type: exercise
     repo: career-services-full-stack
-  - title: Commit Trailers and Github Contributions
-    filename: 2ab_tracking_contributions_on_github.md
-    day: sunday
-    type: lesson
   - title: 'CSS: Styling Text and Best Practices'
     filename: 2b_css_styling_text.md
     day: sunday

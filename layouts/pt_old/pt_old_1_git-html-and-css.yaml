@@ -84,6 +84,10 @@ lessons:
     filename: 2_2_github_and_remote_repositories.md
     day: wednesday
     type: lesson
+  - title: Commit Trailers and Github Contributions
+    filename: 2ab_tracking_contributions_on_github.md
+    day: wednesday
+    type: lesson
   - title: Using Git in Your Workflow
     filename: 2_3_epicodus_using_git_in_your_workflow.md
     day: wednesday
