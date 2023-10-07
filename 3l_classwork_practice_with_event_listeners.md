@@ -43,4 +43,4 @@ This classwork is meant to be short and targeted on practicing event listener sy
 
 Pick a previous project that implements two or three event handler properties and refactor each one to use an event listener and a function declaration instead. After verifying that all of the event listeners are set up properly, refactor your code to remove each event listener after it has run once. 
 
-Every person in your coding pair/group should refactor one event handler property to use an event listener, so pick a project that has enough event handlers for every person in your group, or create a new event listener if there aren't enough for everyone to reactor one.
+Every person in your coding pair/group should refactor one event handler property to use an event listener, so pick a project that has enough event handlers for every person in your group, or create a new event listener if there aren't enough for everyone to refactor one.

@@ -199,6 +199,6 @@ There's more that we haven't covered in this lesson. Check out these resources a
 
 * **<span class="glyphicon glyphicon-link"></span> [MDN Reference Page on the HTML `<input>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types)** 
 * **<span class="glyphicon glyphicon-link"></span> [An Article on Using HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)** 
-* **<span class="glyphicon glyphicon-link"></span> [Bootstrap's Styling Documentation for Forms](https://getbootstrap.com/docs/5.2/components/forms/)** 
+* **<span class="glyphicon glyphicon-link"></span> [Bootstrap's Styling Documentation for Forms](https://getbootstrap.com/docs/5.3/forms/overview/)** 
 
 **And don't forget too always `parseInt()` number values that are retrieved from forms!**

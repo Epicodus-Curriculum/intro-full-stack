@@ -11,4 +11,6 @@
 
 ### Publish to GitHub Pages
 
-Now that you have learned how to host your web pages on GitHub Pages, go ahead and make your pet website display on GitHub Pages as well. **Everyone in the pair or group of three should take a turn to publish one site on their GitHub account to GitHub Pages.** Make sure that each project properly displays for you and your partner. If it isn’t working, make sure you have confirmed your email address with GitHub. 
+Now that you have learned how to host your web pages on GitHub Pages, go ahead and make one of your previous projects display on GitHub Pages as well. If you made the Pet Website, that might be a good start! 
+
+**Everyone in the pair or group of three should take a turn to publish one site on their GitHub account to GitHub Pages.** Make sure that each project properly displays for you and your partner. If it isn’t working, make sure you have confirmed your email address with GitHub. 

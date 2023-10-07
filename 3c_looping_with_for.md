@@ -126,7 +126,7 @@ Here's the first OBOE. Try it out in the DevTools console:
 (7) [0, 2, 4, 6, 8, 10, NaN]
 ```
 
-As we can see, we get `NaN` (no a number) as the final array element. Why is this? Well, the final iteration of the loop looks for the value of `array[6]`. There is no element at that index, which returns `undefined`. What happens when you multiply `undefined` by a number? You get `NaN` — because you can't make a number out of it. And what happens when our widget sellers try to calculate the cost of widgets by adding the numbers together? Our formula will return `NaN` — because when you add a real number to `NaN`, it is still `NaN`.
+As we can see, we get `NaN` (not a number) as the final array element. Why is this? Well, the final iteration of the loop looks for the value of `array[6]`. There is no element at that index, which returns `undefined`. What happens when you multiply `undefined` by a number? You get `NaN` — because you can't make a number out of it. And what happens when our widget sellers try to calculate the cost of widgets by adding the numbers together? Our formula will return `NaN` — because when you add a real number to `NaN`, it is still `NaN`.
 
 Now let's take a look at an OBOE in the other direction. 
 

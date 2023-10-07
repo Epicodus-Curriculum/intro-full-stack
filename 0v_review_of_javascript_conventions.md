@@ -85,7 +85,7 @@ true
 > typeof true;
 "boolean"
 > "hello world";
-"hellow world"
+"hello world"
 > 3;
 3
 > 1 + 3;

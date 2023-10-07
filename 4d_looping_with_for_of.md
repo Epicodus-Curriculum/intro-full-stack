@@ -5,7 +5,7 @@ In this lesson, we'll cover some JavaScript syntactic sugar that we can use to l
 ## Looping with `for...of`
 ---
 
-First, we'll take a look at how we can use this kind of loop with an array. Yes, are going to do the thing where we double the numbers again — if only so we can easily compare the difference between each kind of JavaScript loop.
+First, we'll take a look at how we can use this kind of loop with an array. Yes, we are going to do the thing where we double the numbers again — if only so we can easily compare the difference between each kind of JavaScript loop.
 
 Here's how we can create an array of doubled numbers using `for...of`:
 

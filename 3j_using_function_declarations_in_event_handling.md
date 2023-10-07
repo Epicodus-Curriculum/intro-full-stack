@@ -218,7 +218,7 @@ And what do we get? We get an error similar to this one:
 Uncaught ReferenceError: add is not defined
 ```
 
-The difference with the second code snippet is that we've defined our `add()` function with a function expression, which does not get hoisted. Code gets red from top to bottom, and in this case when we call `add(3,5)`, our JS interpreter can't find this function because it hasn't been hoisted and literally doesn't exist yet.
+The difference with the second code snippet is that we've defined our `add()` function with a function expression, which does not get hoisted. Code gets read from top to bottom, and in this case when we call `add(3,5)`, our JS interpreter can't find this function because it hasn't been hoisted and literally doesn't exist yet.
 
 Because of hoisting, we generally recommend that you stick to using function declarations. However, you are welcome to use function expressions instead. Just remember the implications of hoisting!
 

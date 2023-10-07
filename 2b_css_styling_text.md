@@ -52,7 +52,7 @@ Now we have two CSS properties applied to our `<h1>` tag: `color` and `backgroun
 
 ### Exploring CSS Styles
 
-There are many, many CSS properties our there, and each property can have many possible values. Generally the best way to learn about new CSS properties is by doing a general search on what you want to achieve with your styling. Here are some example searches:
+There are many, many CSS properties out there, and each property can have many possible values. Generally the best way to learn about new CSS properties is by doing a general search on what you want to achieve with your styling. Here are some example searches:
 
 * "Center element on page with CSS"
 * "Change CSS font"

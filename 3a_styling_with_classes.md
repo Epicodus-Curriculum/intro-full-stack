@@ -145,7 +145,7 @@ We can apply multiple classes to one element by separating each by a space. For 
 }
 ```
 
-We could add then both to an element like so:
+We could add them both to an element like so:
 
 ```html
 <p>I <span class="emphasize highlight">love</span> the movie "All Dogs Go to Heaven"!</p>
