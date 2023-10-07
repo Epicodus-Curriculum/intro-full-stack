@@ -30,7 +30,7 @@ Notice the dropdown menu on the left side labeled _Branch_:
 
 If we click this dropdown we see it contains one entry: `main`.
 
-When you learned [how to push a project to a remote GitHub repo](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/github-and-remote-repositories), you pushed your local Git repositories to online GitHub repositories using a command like this:
+When you learned [how to push a project to a remote GitHub repo](/introduction-to-programming/git-html-and-css/github-and-remote-repositories), you pushed your local Git repositories to online GitHub repositories using a command like this:
 
 ```bash
 $ git push al main

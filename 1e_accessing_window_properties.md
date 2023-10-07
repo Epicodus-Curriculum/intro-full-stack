@@ -121,7 +121,7 @@ Now try entering this into your DevTools console:
 > window.open("https://full-time.learnhowtoprogram.com/")
 ```
 
-Now with the argument `"https://full-time.learnhowtoprogram.com"` included in the method call, a new tab is opened to full-time.learnhowtoprogram.com/. You're welcome to try other sub-domains available to Learn How to Program, such as `"https://part-time.learnhowtoprogram.com"`, `"https://career-services.learnhowtoprogram.com"`, or `"https://dei.learnhowtoprogram.com"`
+Now with the argument `"https://full-time.learnhowtoprogram.com"` included in the method call, a new tab is opened to full-time.learnhowtoprogram.com/. You're welcome to try other sub-domains available to Learn How to Program, such as `"https://part-time.learnhowtoprogram.com"` or `"https://workshops.learnhowtoprogram.com"`
 
 ### Working with Optional Parameters
 

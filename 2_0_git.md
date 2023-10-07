@@ -49,7 +49,7 @@ Let's learn a bit about how **Git** categorizes changes when they happen in your
 
 ### Requirements
 
-This exercise assumes you have git installed on your computer following the directions in lesson [Git an GitHub](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/git-and-github)
+This exercise assumes you have git installed on your computer following the directions in lesson [Git an GitHub](/pre-work/getting-started-with-intro-to-programming/git-and-github)
 
 >Note!   
 >Epicodus machines already have git installed.
