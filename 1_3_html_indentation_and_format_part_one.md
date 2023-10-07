@@ -57,7 +57,7 @@ For now, we recommend you leave `Tab Size` to its default value in VS Code (4 sp
 Indentation can vary depending on the coding language so we will have to revisit this topic in the future. For now we will talk about indentation when writing HTML:
 
 
-It is widely considered best practice to indent nested HTML elements. Revisit [lesson HTML elements](/introduction-to-programming/git-html-and-css/html-elements) if you need a refresher on nested elements, defining parent and child elements, and wrapping. In summary, elements are indented when they are inside other elements. 
+It is widely considered best practice to indent nested HTML elements. Revisit [lesson HTML elements](/introduction-to-programming/git-html-and-css-part-2/html-elements) if you need a refresher on nested elements, defining parent and child elements, and wrapping. In summary, elements are indented when they are inside other elements. 
 
 
 Consider this example:
