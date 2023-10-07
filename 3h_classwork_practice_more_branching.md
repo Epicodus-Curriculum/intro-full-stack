@@ -2,14 +2,14 @@
 
 * The logical "and" `&&` and the logical "or" `||` operators
 * The logical "not" `!` operator
-* The JavaScript values of truthy and falsey
+* The JavaScript values of truthy and falsy
 
-Practice using these operators, and begin familiarizing yourself with the concepts of truthy and falsey by completing the exercises listed below.
+Practice using these operators, and begin familiarizing yourself with the concepts of truthy and falsy by completing the exercises listed below.
 
 ## Warm Up
 <hr />
 
-* What is an example of something JavaScript considers to be falsey? Why is it falsey?
+* What is an example of something JavaScript considers to be falsy? Why is it falsy?
 * What condition does the following line of code check for? In the example, `blue`, `red`, and `purple` are variables. 
 
 ```js

@@ -1,6 +1,6 @@
 Bootstrap is a _huge_ framework. If you've taken a look at the un-minified `bootstrap.css` stylesheet, you'll see that it has thousands of lines of CSS. There's no reasonable way we could address every Bootstrap element and feature in the LearnHowToProgram.com curriculum. But that's also not a goal for anything we teach in our curriculum. 
 
-One goal we have is for you to finish the program with a basic knowledge of coding concepts, like CSS and using frameworks in your projects. Another goal is for you to learn how to effectively teach yourself new concepts so that you can continue to grow your skillset and your career, post Epicodus. This is what we call "learning how to learn" and we can do this by practicing the following:
+One goal we have is for you to finish the program with a basic knowledge of coding concepts, like CSS and using frameworks in your projects. Another goal is for you to learn how to effectively teach yourself new concepts so that you can continue to grow your skill set and your career, post Epicodus. This is what we call "learning how to learn" and we can do this by practicing the following:
 
 - Perusing online resources
 - Researching about bugs online

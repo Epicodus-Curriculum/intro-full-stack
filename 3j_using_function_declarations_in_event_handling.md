@@ -86,7 +86,7 @@ function alertHeading() {
 h1.addEventListener("click", alertHeading);
 ```
 
-Just like with the event handler property example, we pass in the name of the `alertHeading` function that we are passing in as the second argument to the `addEventListner()` method call. Remember, a function that is passed in as the argument to another function or method is called a callback function. If you need a review of callback functions, revisit the "Event Handling with Event Listeners" lesson.
+Just like with the event handler property example, we pass in the name of the `alertHeading` function that we are passing in as the second argument to the `addEventListener()` method call. Remember, a function that is passed in as the argument to another function or method is called a callback function. If you need a review of callback functions, revisit the "Event Handling with Event Listeners" lesson.
 
 ## When Would I Use a Function Declaration in an Event Handler?
 ---

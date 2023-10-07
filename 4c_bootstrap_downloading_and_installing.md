@@ -8,7 +8,7 @@ In future courses, we'll explore additional ways to integrate Bootstrap and othe
 ## Versioning
 ---
 
-You likely are already familiar with the concept of versioning from using computers and phones: new operating systems (software) are released regularly, and so are new versions of phones (hardware)! Well, many libraries, frameworks, and toolkits follow the same process of releasing software in versions to separate a distinct state of the software from later states. The higher the version number, the newer it is. One goal of versioning is to enable existing clients using an older software version to continue using it, even as newer versions are released. 
+You likely are already familiar with the concept of versioning from using computers and phones: new operating systems (software) are released regularly, and so are new versions of phones (hardware)! Well, many libraries, frameworks, and tool kits follow the same process of releasing software in versions to separate a distinct state of the software from later states. The higher the version number, the newer it is. One goal of versioning is to enable existing clients using an older software version to continue using it, even as newer versions are released. 
 
 The difference between version 1 (the earlier version) and version 2 (the later version) of a piece of software could be anything: the names of the tools, what tools are offered, how the tools should be used or configured, and more. Because of this, it's very important for us to pay attention to the version number of the software we're using so that we can use it in the right way, and find the right documentation online.
 

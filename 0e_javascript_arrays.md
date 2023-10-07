@@ -92,7 +92,7 @@ What happens if we try to push a new value into our `months` array?
 
 **We can see that `const` doesn't stop an array from being modified. `const` just stops variables from being reassigned or redeclared.** That works great with primitives. If we change a variable holding the number `8` for instance (such as by trying to add another number to it), we are reassigning the variable.
 
-That's not the case with arrays, though. When we modify an array, we aren't reassigning or redeclaring the variable. It's still the same array even though we've made changes to it. In the case of using `const` with an array, it's kind of like a permit that protects a house from being knocked down or altered (as you'll often see for historic homes). However, you can still change the furniture in the house even though the permit won't allow the house to be replaced. In this analogy, the array is the house and the elements are the furniture.
+That's not the case with arrays, though. When we modify an array, we aren't reassigning or re-declaring the variable. It's still the same array even though we've made changes to it. In the case of using `const` with an array, it's kind of like a permit that protects a house from being knocked down or altered (as you'll often see for historic homes). However, you can still change the furniture in the house even though the permit won't allow the house to be replaced. In this analogy, the array is the house and the elements are the furniture.
 
 In JavaScript, you can't do this:
 

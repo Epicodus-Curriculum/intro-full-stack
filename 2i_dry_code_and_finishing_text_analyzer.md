@@ -147,7 +147,7 @@ window.addEventListener("load", function() {
 
 Look how nice and clean that is! No logic cluttering up this section of the code at all. Instead, it's totally separated out. Even though `boldPassage()` is a function that deals with UI logic, it doesn't directly alter the DOM. It just returns a paragraph element. That makes it easy to test and easy to separate out. Then we can just call the function when we need it, and then use `Element.append()` to actually add it to the DOM.
 
-Notice that we only update the DOM if the `boldedPassage` variable (the result from calling `boldPassage()`) is truthy. If the `boldedPassage` variable is `null` or any other falsey value, the code in the else block will run, setting the contents of the div to `null`, deleting anything inside of it including any HTML elements.
+Notice that we only update the DOM if the `boldedPassage` variable (the result from calling `boldPassage()`) is truthy. If the `boldedPassage` variable is `null` or any other falsy value, the code in the else block will run, setting the contents of the div to `null`, deleting anything inside of it including any HTML elements.
 
 And with that, we've completely connected all of the logic for our Text Analyzer application. Hooray! Our code is nicely separated and we even added a little utility function to DRY things up a bit.
 
