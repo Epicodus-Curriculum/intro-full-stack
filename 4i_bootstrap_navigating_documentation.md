@@ -8,7 +8,7 @@ One goal we have is for you to finish the program with a basic knowledge of codi
 
 With Bootstrap, we'll get our first real practice with learning how to learn. This lesson is meant to give you a foundation of tips and tools for navigating and understanding Bootstrap documentation so you can begin to explore and apply new Bootstrap features in your projects. But before we move on, let's cover another reason why being proficient at using documentation is so important. 
 
-Documentation does just teach us new things, it also exists so that we don't have to worry about remembering every little detail about a tool. In fact, perfectly remembering how to use every tool we learn about should not be our goal at all! Most developers don't just sit down at their computers and type out large amounts of code from memory. Instead, it's a constant process of using developer tools, referencing documentation and other resources, and experimenting with different code to see what works. 
+Documentation doesn't just teach us new things, it also exists so that we don't have to worry about remembering every little detail about a tool. In fact, perfectly remembering how to use every tool we learn about should not be our goal at all! Most developers don't just sit down at their computers and type out large amounts of code from memory. Instead, it's a constant process of using developer tools, referencing documentation and other resources, and experimenting with different code to see what works. 
 
 All of this is to say that it is also important to know how to find a piece of information, because we quite simply can't remember everything. And this is why we need to become comfortable using online resources and referencing documentation.
 

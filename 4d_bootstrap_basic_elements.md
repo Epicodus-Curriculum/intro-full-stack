@@ -274,13 +274,18 @@ Our card has a class of `"card"` and then we have various classes inside the car
 
 ![This is an example of a very basic card.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/Bootstrap+images/bootstrap-card.png)
 
-This is a very basic card and we can do a lot more with it — for instance, there's an option to add images and links that fit inside the card as well. We can also adjust set the sit of our card by settings the `style` attribute on the parent `<div>` for the card:
+This is a very basic card and we can do a lot more with it! For instance, there's an option to add images and links that fit inside the card. We can also adjust the size and style of our card by changing the `style` attribute on the parent `<div>` for the card. Here's a short example:
 
 ```html
 ...
-  <div class="card">
-    ...
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
+</div>
 ...
 ```
 

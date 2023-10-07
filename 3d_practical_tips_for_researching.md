@@ -144,7 +144,7 @@ This section covers helpful features of the reference pages for Web API interfac
 
 ![This is an image of the top of the reference page for HTMLElement.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/new-section2-js-and-web-browsers/mdn-docs-explanation-HTMLElement.png)
 
-The start of every reference page includes a short description of the object type. You should always start here. What follows are various sections that detail the object's properties, events, and more. Take not of a few features about these reference pages:
+The start of every reference page includes a short description of the object type. You should always start here. What follows are various sections that detail the object's properties, events, and more. Take note of a few features about these reference pages:
 
 * The orange box in the image highlights the topics that are covered within the "article", the reference page for the `HTMLElement` object. You should always scan this section to get a sense of what's in the page:
   * **instance properties** and **instance methods** will always list the methods and properties that belong to this object type that we may want to use in our code. For example, we'd find `HTMLElement.innerText` listed within the "instance properties" section.

@@ -141,7 +141,7 @@ window.addEventListener("load", function() {
 
   // new event listener for form submit event to show reset button
   form.addEventListener("submit", function() {
-    reset.removeAttribute("class");
+    resetBtn.removeAttribute("class");
   }); 
 
   // new event listener for form submit event to show advertisement

@@ -235,7 +235,7 @@ Now if you use `git status` you should get:
 
 
 
-The response doesn’t say this directly but **Git** is saying all files are now **unmodified**,meaning no new changes have happened since the last **commit**.   
+The response doesn’t say this directly but **Git** is saying all files are now **unmodified**, meaning no new changes have happened since the last **commit**.   
 
 
 If we make changes to the `hello-world.html` file now, the status would change again to **modified.** The status lifecycle of a **tracked** file repeats between **unmodified**, **modified**, **staged**.

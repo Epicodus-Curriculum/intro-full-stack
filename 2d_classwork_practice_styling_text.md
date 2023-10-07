@@ -45,8 +45,10 @@ Now it's your turn! To access the JavaScript Console from a Chrome browser just 
 * Switch to your `favorite-places.html` page. Make another stylesheet (make sure to name it differently than the `my-first-webpage.html` stylesheet!) and apply CSS rules.
 * Make a new stylesheet for _both_ your `my-first-webpage.html` and `favorite-places.html`. Remove the other stylesheets and link to the single stylesheet from both pages. You should have a consistent style between the two documents.
 
-### Optional Practice: Add Styles to Pet Website
+### Optional Practice: Create a Pet Website with Custom Styles
 
-Update your cat's homepage or dog's blog to have some styles. If you haven't created a pet website yet, go ahead and do that.
+As an additional practice piece, you can create a website dedicated to your pets. It could have pictures, information about them, or anything that you'd like to include. 
+
+Take time to also make styles for buttons, the background, or anything that you think would make your website pop!
 
 Be sure to make commits and push those commits to GitHub as you are working on your pages.
