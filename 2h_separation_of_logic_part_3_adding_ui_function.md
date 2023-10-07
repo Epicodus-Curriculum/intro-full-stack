@@ -76,7 +76,7 @@ Expected Output: null
 
 We're starting out by handling the case when no word or text is inputted. We don't have to start here, but it's as good as any starting place because it's small and specific. When using TDD, it is common that you'll find multiple good starting places or next steps. So don't get hung up on choosing the right starting place or next step. Instead, make sure that whatever functionality you choose to create next, that it's small and specific.
 
-So, with this test, we state that if either `word` or `text` is an empty string, then we'll simply return `null`. Why `null`? Well, we could choose any falsey value here. In our form submission event handler function, we'll use this return value to determine whether or not we should update the DOM. If there's no paragraph element, we don't want to update the DOM. We'll add code for this when we complete the UI logic in the next lesson. 
+So, with this test, we state that if either `word` or `text` is an empty string, then we'll simply return `null`. Why `null`? Well, we could choose any falsy value here. In our form submission event handler function, we'll use this return value to determine whether or not we should update the DOM. If there's no paragraph element, we don't want to update the DOM. We'll add code for this when we complete the UI logic in the next lesson. 
 
 Now let's get the test passing:
 

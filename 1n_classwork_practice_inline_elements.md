@@ -28,7 +28,7 @@ _The "Further Exploration" section contains additional exercises and activities 
 
 If you and your partner have completed each of today's lessons and exercises thoroughly with time to spare, below are some additional activities to get started on. Continue practicing implementing HTML elements, tracking changes with Git, correct indentation and spacing and pushing to Github.
 
-* Add additional pages to your animal site. This could include pages for other pets, playdate calendar, biography or 'about me' page, a contact page, or anything else you can think up!
+* Add additional pages to your animal site. This could include pages for other pets, play date calendar, biography or 'about me' page, a contact page, or anything else you can think up!
 * Create an additional HTML website for any topic of your choosing. This could include your friend's local business, your favorite camping spot, or something dedicated to a hobby you and your partner share. Create multiple pages for the site.
 
 ## Peer Code Review

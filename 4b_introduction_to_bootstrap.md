@@ -39,16 +39,16 @@ Check out the following link to see some example sites built with Bootstrap:
 * [Sites Built with Bootstrap from Expo.GetBootstrap.com](http://expo.getbootstrap.com/)
 * [Sites Built with Bootstrap from Awwwards](https://www.awwwards.com/websites/bootstrap/)
 
-## Frameworks, Libraries, and Toolkits
+## Frameworks, Libraries, and Tool kits
 ---
 
 There are other terms that are commonly used to describe pre-built code that we can download and use in our apps:
 
 **Library.** A library is a smaller set of pre-defined code that we can download and use in our apps. It is quite similar to a framework, though frameworks are always larger and often comprise multiple libraries and other tooling.
 
-**Toolkit.** A toolkit is a set of pre-built tools used for a particular purpose. Often, a toolkit is defined as multiple and related libraries, packaged into one. Usually, frameworks are much larger than toolkits, and a toolkit is larger than a library. 
+**Toolkit.** A toolkit is a set of pre-built tools used for a particular purpose. Often, a toolkit is defined as multiple and related libraries, packaged into one. Usually, frameworks are much larger than tool kits, and a toolkit is larger than a library. 
 
-**Framework.** A set of pre-built tools that somprises software, code, and other resources like other frameworks, libraries, and toolkits. Frameworks often contain constraints about how you can build your code within the framework. We've already mentioned Bootstrap — we'll also learn how to use back-end frameworks when we begin learning C# or Ruby.
+**Framework.** A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. It uses shared resources – such as libraries, image files, and reference documents – and puts them together in one package. That package can be modified to suit the specific needs of the project. With a framework, the developer can add or replace features to give new functionality to the application. Frameworks often contain constraints about how you can build your code within the framework. We've already mentioned Bootstrap — we'll also learn how to use back-end frameworks when we begin learning C#.
 
 The nuances within the definitions for each term is a topic of discussion and study within the developer community. To see an example of the discussion around these terms, [visit this Stack Overflow article](https://stackoverflow.com/questions/3057526/framework-vs-toolkit-vs-library).
 

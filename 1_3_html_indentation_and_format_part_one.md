@@ -143,7 +143,7 @@ Try it for yourself! **This html code is badly formatted and contains common for
 Then press `Shift + Alt + F` on the keyboard to format the entire file or format just a selected area with `Ctrl+K` then `Ctrl+F`. You should see the result immediately. The auto formatter will fix incorrect indentation and remove unnecessary spaces within HTML elements.
 
 
-You can choose to use the shortcuts above to format your code or allow VS code to auto format everytime you save your file. Do do this latter option, in VS Code go to:
+You can choose to use the shortcuts above to format your code or allow VS code to auto format every time you save your file. Do do this latter option, in VS Code go to:
 
 1. File → Preferences → Settings
 2. Search “Formatter”

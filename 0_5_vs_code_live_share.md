@@ -34,7 +34,7 @@ Open `my-first-project` in VS Code.
 You should see `hi.txt` in the left-hand pane of VS Code. This is called a file tree. Currently it is listing all the files in the `my-first-project` folder. 
 
 
-If the tree isn’t showing, click the top left _Explorer_ icon (cirled in red).
+If the tree isn’t showing, click the top left _Explorer_ icon (circled in red).
 
 ![my first project file tree with explore icon circled in red](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/misc/VSCodeLiveShare-Image-1.png)
 

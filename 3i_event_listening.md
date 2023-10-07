@@ -59,7 +59,7 @@ Let's break down this new code:
   * With the closing parenthesis `)` we're closing the `addEventListener()` method call. 
   * With the semi colon `;` we're following JS convention by adding semicolons at the end of our statement `form.addEventListener(...);`, where the ellipsis `...` represents the two arguments we pass into our event listener method.
 
-We use the same `addEventListener()` method for any event listener that we want to set up. Changing the event that we're targeting is a matter of changing the first argument that we pass into the `addEventListner()` method. Let's see another example. This time, we'll update our `window.onload` event handler property to use an event listener instead.
+We use the same `addEventListener()` method for any event listener that we want to set up. Changing the event that we're targeting is a matter of changing the first argument that we pass into the `addEventListener()` method. Let's see another example. This time, we'll update our `window.onload` event handler property to use an event listener instead.
 
 <div class="filename">js/scripts.js</div>
 
@@ -317,7 +317,7 @@ Also, take note that categorizing functions as "callbacks" does not have to do w
 
 It will be unlikely that you ever create a custom function in the program that takes a function as an argument. There won't be a lot of use cases for that. However, you will work with some built-in methods and functions (of JavaScript or Web APIs) that require a function for an argument (a callback).
 
-If this sounds complicated and confusing, that's totally expected — especially if you're new to coding. There are a lot of complicated things going on under the hood. Learning to drive is one thing — and it's not too hard. But learning how to build and maintain a car is a lot more work! We'll revisit JavaScript terminology and the innerworkings of both JS and our web browser regularly, so there will be more opportunity for review and practice.
+If this sounds complicated and confusing, that's totally expected — especially if you're new to coding. There are a lot of complicated things going on under the hood. Learning to drive is one thing — and it's not too hard. But learning how to build and maintain a car is a lot more work! We'll revisit JavaScript terminology and the inner workings of both JS and our web browser regularly, so there will be more opportunity for review and practice.
 
 ## Summary and Completed Code for the Mad Libs Project
 ---

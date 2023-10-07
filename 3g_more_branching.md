@@ -1,4 +1,4 @@
-Sometimes, our branching logic can get more complicated. Let's build a website to determine which amusement park ride someone can go on based on their age and height. In the process, we'll learn about using the logical "and" `&&` and "or" `||` operators, nesting if statements, and the concepts of "truthy" and "falsey". We'll also include polish our website by adding error handling and a button to clear the form and results.
+Sometimes, our branching logic can get more complicated. Let's build a website to determine which amusement park ride someone can go on based on their age and height. In the process, we'll learn about using the logical "and" `&&` and "or" `||` operators, nesting if statements, and the concepts of "truthy" and "falsy". We'll also include polish our website by adding error handling and a button to clear the form and results.
 
 ## Amusement Park
 ---
@@ -193,7 +193,7 @@ The last `else if` and `else` statements at this point should be straight forwar
 
 Remember that when you need to create branching to handle multiple conditions: start by handling the more complex and specific conditions first. When figuring out the order of conditions, take your time and talk about it with a pair. It's okay if you need to refactor and try out a different order mid-way through your branching.
 
-### Adding Error Handling and Exploring Truthy and Falsey
+### Adding Error Handling and Exploring Truthy and Falsy
 
 There's two additional pieces of functionality we can add to make this website polished and complete. The first is error handling. What happens if a user leaves our form blank? We can use branching to help us out! 
 
@@ -306,9 +306,9 @@ Does the condition `if (age && height)` strike you as a little funny? Before now
 
 If the user doesn't input a value, we'll get an empty string. When we run `parseInt()` on an empty string, we get `NaN` — not a number. Neither `NaN` nor an empty string is `true` or `false`. So what's going on here?
 
-What's happening here is that JavaScript has concepts called **truthy** and **falsey**. 
+What's happening here is that JavaScript has concepts called **truthy** and **falsy**. 
 
-**Falsey values** include the boolean `false` as well as:
+**Falsy values** include the boolean `false` as well as:
 
 * empty strings
 * the number `0`
@@ -320,9 +320,9 @@ What's happening here is that JavaScript has concepts called **truthy** and **fa
 
 Looking again at `if (age && height)`, this is asking, do the variables `age` and `height` both have a value greater than 0? If not, then we need to display an error message asking that the user input the correct information. If so, then `age` and `height` are considered truthy in JavaScript and the code in the block (within the curly brackets `{ }`) following that condition will run. 
 
-### Truthy and Falsey Are Caused By Data Type Coercion
+### Truthy and Falsy Are Caused By Data Type Coercion
 
-Truthy and falsey values exist because of the data type coercion, that is the implicit forced conversion JavaScript automatically performs. When we put expressions into our `if (expression)` or `else if (expression)` statements, these need to evaluate to `true` or `false`. When the expression we put in is something that's not a typical comparison like `2 > 1` or `typeof "phrase" === "string"`, but instead something like an empty string, JavaScript uses data type coercion to evaluate the expression as a boolean. 
+Truthy and falsy values exist because of the data type coercion, that is the implicit forced conversion JavaScript automatically performs. When we put expressions into our `if (expression)` or `else if (expression)` statements, these need to evaluate to `true` or `false`. When the expression we put in is something that's not a typical comparison like `2 > 1` or `typeof "phrase" === "string"`, but instead something like an empty string, JavaScript uses data type coercion to evaluate the expression as a boolean. 
 
 Let's review another example of passing in a variable set to an empty string:
 
@@ -335,8 +335,8 @@ if (myVar) {
 } else {
   // This code will run if JavaScript implictly converts myVar to the boolean false.
   // This conversion will only happen if myVar is an empty string, 
-  // or any other falsey value like null or undefined.
-  // myVar will then be considered a "falsey" value.
+  // or any other falsy value like null or undefined.
+  // myVar will then be considered a "falsy" value.
 }
 ```
 
@@ -345,7 +345,7 @@ In the above example, JavaScript implicitly converts `myVar` into one of two opt
 * The boolean `false`, if `myVar` is an empty string.
 * The boolean `true`, if `myVar` has any value inside of the string.
 
-Since `myVar` is set to an empty string, JavaScript will convert this "falsey" value into the boolean `false`.
+Since `myVar` is set to an empty string, JavaScript will convert this "falsy" value into the boolean `false`.
 
 ### An Alternative: Using the Logical Not `!` Operator
 
@@ -376,9 +376,9 @@ if (!age || !height) {
 }
 ```
 
-Like the comments describe, in our first `if` statement, we're checking if age or height do NOT exist: `(!age || !height)`. If either variable is `0` or `NaN`, meaning they do not exist and they are considered falsey, then our code will show the error message. Otherwise, our code will execute the else statement with the nested branching to see what rides the user can go on.
+Like the comments describe, in our first `if` statement, we're checking if age or height do NOT exist: `(!age || !height)`. If either variable is `0` or `NaN`, meaning they do not exist and they are considered falsy, then our code will show the error message. Otherwise, our code will execute the else statement with the nested branching to see what rides the user can go on.
 
-We have switched to the logical or `||` operator because we want to show our error message if one or the other form field is left blank. Or, in other words if `age` or `height` do not exist and are falsey.
+We have switched to the logical or `||` operator because we want to show our error message if one or the other form field is left blank. Or, in other words if `age` or `height` do not exist and are falsy.
 
 ### Next Steps and Completed Code
 
