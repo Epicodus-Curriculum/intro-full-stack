@@ -166,7 +166,7 @@ lessons:
     day: monday
     type: lesson
     repo: DEI-full-stack
-  - title: Variable Scope
+  - title: 'Homework: Variable Scope'
     filename: 2a_homework_variable_scope.md
     day: tuesday
     type: lesson
