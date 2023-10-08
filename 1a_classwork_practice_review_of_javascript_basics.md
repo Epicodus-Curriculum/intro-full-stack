@@ -6,7 +6,7 @@
 * JavaScript conventions
 * Data type detection and conversion
 
-**Reminder:** Use the browser DevTools console to try out your JS code! If you need a review, read the instructions on how to use and pair program with the DevTools console [in this lesson](/introduction-to-programming/javascript-and-web-browsers-part-2/using-the-devtools-console-for-practice-and-pair-programming).
+**Reminder:** Use the browser DevTools console to try out your JS code! If you need a review, read the instructions on how to use and pair program with the DevTools console [in this lesson](/introduction-to-programming/javascript-and-web-browsers/using-the-devtools-console-for-practice-and-pair-programming).
 
 ## Code
 ---

@@ -49,7 +49,7 @@ Here are potential topics to cover in the retrospective:
 
 **Take note:** on short weeks, daily expectations change, and you may cover more or less content on a given class day.
 
-Your first independent project is released tomorrow (and due the following Monday) so you'll want to make sure that you have the basic concepts covered. The first lesson of every course section always includes the objectives. Here's this week's objectives: [Git, HTML, and CSS Objectives](/introduction-to-programming/git-html-and-css-part-2/git-html-&-css-objectives). Also, the final lesson of each course section always includes the objectives, too: [Git, HTML, and CSS Independent Project](/introduction-to-programming/git-html-and-css-part-2/git-html-and-css-independent-project).
+Your first independent project is released tomorrow (and due the following Monday) so you'll want to make sure that you have the basic concepts covered. The first lesson of every course section always includes the objectives. Here's this week's objectives: [Git, HTML, and CSS Objectives](/introduction-to-programming/git-html-and-css/git-html-&-css-objectives). Also, the final lesson of each course section always includes the objectives, too: [Git, HTML, and CSS Independent Project](/introduction-to-programming/git-html-and-css-part-2/git-html-and-css-independent-project).
 
 Independent projects can be stressful, especially if you're struggling with concepts or have testing-related anxiety. Remember that you'll always have an opportunity to get instructor feedback and resubmit. If you need to review the general process, see [Independent Projects and Code Reviews](/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews).
 
