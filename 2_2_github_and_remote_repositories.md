@@ -221,7 +221,7 @@ git clone url-of-remote-repo
 
 A new folder called “react” should be created on your computer. You just created a copy of the “react” remote repository on your computer. This is now your **local** copy that you can do what you please with. 
 
-We picked the React repository to clone because we knew it would be readability available for this example on how to **clone**. However, typically you only need to clone **remote** repositories from your own GitHub account.
+We picked the React repository to clone because we knew it would be readily available for this example on how to **clone**. However, typically you only need to clone **remote** repositories from your own GitHub account.
 
 While you can **clone** a **remote** repository that doesn’t belong to you (in other words, it's not from your GitHub account), the problem in doing so is that you don’t have permission to **push** changes to **remote** repositories that live on other GitHub accounts. In our case, you need to be given permission from the owners of the react **remote** repository to **push** changes.
 
