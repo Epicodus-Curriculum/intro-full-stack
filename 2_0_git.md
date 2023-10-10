@@ -218,12 +218,19 @@ In the `hello-world` directory, type:
 ``` \
 git commit -m “my first commit”
 ```
+
+
+*Please note: if you'd like to add an exclamation (`!`) in your commit message, or to use other special characters, use single quotations `'` to wrap the commit message rather than double.*
+
+``` \
+git commit -m 'my first commit!'
+```
+
+
 Hit Enter. The response should look something like this:
 
 		
 ![response from git commit](https://lh3.googleusercontent.com/u/0/docs/ADP-6oEs1xx9KYAuo9BBOVEVj8m803SfCYAjxkkFg4l-0gtwgAwVoNDis03T2MSq1C0KWMvFcML6PfJdghrQR6izT9ICmdXPRwPPq5AR9uyL_WxG2YyoBFkvu_s0-er8dh6nbUyYusvZcop8UJZe5Fsy_mc8P_4KGhaAxHqzzZsHHy_ri1qrqyeQiH03KUeAkJYD13thU6Bnrpl-ESza2s1EbH-xDqlDwmb39aoVE2yeQrf-XWcM0yDJsQ_oy7-R88Oz0eap0c_Rlc-hPbIfcfmTOpNRPIiYo95PEzNutsWUZxkCtFKzec7lnYKR8mcbXiz_oFVLDwD3BSq2STuhaWJc3gwLsDqCC2uA_B1sPm00Gn7174KB9YxKH68hC96_vAZl7YZwNN1sZhPRiDfJgx1w5HEQjE9XCUa44oY9uDKCmpwYziceCvq1ptc8r3BX3qeKVYa_UMzpoXoSC5epPJbHKdK9ECy14UF6Ez6_BZ8AUqR-8pb1RxtZWbxLSrD4H-3eXrslPlx3BpeeDk7i3Bi57fTxzbglZPmEhxBMF_R6PqIVwuMXhKPT3UIWxwV0O7QefINv7t2toC4R_dwO7NO_dD1GP6XS95TfougkJeuwXUgjB7v-fQ5UMfOWx0qMv0Qp1SjS2QI27EIUh1QhV7w6B095h1lz2Y-9QsYXBVU-DchaCvkKFyTOBfLTJw4mEP8lKw57WQQPNksYCttuMkzIrLSTwiNzqpIajx1WH2YCgf8nW7ixKWcbeJrUmohQ6wvXdiv3FDXg2v-0emLrjxh-wSiwfvfPDoGps_OmuxwudDYIPFk0uNzDAiJ0I0Ww9SZFSRsGUvDAcAhtQ70R9ouXYM_TNodEfToIk0GmyAEvU5RTALfe35Y6wWT-PJqyel8dZZdMD7Ggw8BkwC0D01sBLZG21iFDqDfP3FkL7rcVWPxaiTzo9dKhBzBAxB2o_PbQjr4FKWyn-pI3_7n65B4rars-LaUvQh4Yte0z6pv7YozXriKfmFloBMF5QPaMgGd9dMAJpzl3v_ETMTIuvVMGkIcS1sc6-J8eqET8Pw)
-
-*Please note that adding an exclamation in your commit message may cause errors. To avoid that, use single quotations `'` to wrap the commit message rather than double.*
 
 The `git commit` command takes a snapshot of our project. The `- m` option stands for “message” and is followed by a **commit message** in quotes. A **commit message** is a brief note attached to the commit and it makes it easier for us to reference the commit at a later time.
 
