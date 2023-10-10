@@ -197,9 +197,9 @@ These commits are too long and too detailed.
 ```
 These commits are too wordy and don’t start with a present tense verb. With exceptions for using WIP (work in progress) or BUGFIX. 
 ```
-“It will add favorite things list”
-“I added a info form to the front page”
-“We completed writing setup instructions in README"
+"It will add favorite things list"
+"I added a info form to the front page"
+"We completed writing setup instructions in README"
 ```
 
 ## Git workflow
