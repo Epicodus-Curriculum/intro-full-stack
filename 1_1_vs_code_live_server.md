@@ -17,7 +17,7 @@ Try it out yourself as well.
 
 2. Open that file in VS Code.
 
-3. Copy and paste this HTML into your html file:
+3. Write the following HTML code into your html file:
 
 ```
 <!DOCTYPE html>
