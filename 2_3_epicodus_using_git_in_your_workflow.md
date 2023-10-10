@@ -18,7 +18,7 @@ This is a list of all the git commands we have used so far.
 * `git diff name-of-file`
     * Allows you to see what changes were made to a modified file. 
 
-* `git add name-of-file` `or `git add .`
+* `git add name-of-file` or `git add .`
     * Adds files to be committed. 
     * The `.` represents all files. Use it to add all modified files to staged.
     * Can also add multiple files but not all by leaving space between file names. Such as `git add name-of-file1 name-of-file2` etc.
@@ -193,13 +193,13 @@ All of these commits are too vague
 These commits are too long and too detailed.
 ```
 "Add sidebar with a bulleted list of how to say hello in English, French, Kinyarwanda, Japanese, German, Spanish, and Pig Latin."
-"Add sidebar, navbar, page content, and complete styles for all pages plus add user interface code.
+"Add sidebar, navbar, page content, and complete styles for all pages plus add user interface code."
 ```
 These commits are too wordy and don’t start with a present tense verb. With exceptions for using WIP (work in progress) or BUGFIX. 
 ```
 “It will add favorite things list”
 “I added a info form to the front page”
-“We completed writing setup instructions in README
+“We completed writing setup instructions in README"
 ```
 
 ## Git workflow
@@ -220,7 +220,7 @@ Let's say Ava and Eli are pair programming:
 
     * 
     ```
-    git commit -m “brief message
+    git commit -m "brief message
 
     Co-authored-by: Firstname Lastname emailAddress”
     ```
