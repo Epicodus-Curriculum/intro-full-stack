@@ -40,7 +40,7 @@ As we can see in the GIF above, when we click on a tag, this also highlights the
 
 Like other powerful code editors, VS Code has a built-in ability to "sense" what you might be typing in. You've probably noticed this before — VS Code will provide a dropdown of items as you're typing. It might seem annoying at first, at least until you know how to harness the power of what's called Intellisense. Let's take a look at a basic example. In the process, we'll demonstrate another piece of cool VS Code functionality as well.
 
-<img alt="We can use VS Code's Intellisense to autofill code for us. And we can use Emmet snippets to autofill even more" src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/VS+Code+Lessons/intellisense.gif" style="width:75%" />
+<img alt="We can use VS Code's Intellisense to autofill code for us. And we can use Emmet snippets to autofill even more" src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/VS+Code+Lessons/intellisense.gif" style={{width:"75%"}} />
 
 In the example above, when we type in the letter "d", VS Code knows that we might mean `<div>`. It will provide a dropdown that includes `div` as the first option. If we hit _Tab_, VS Code will automatically create a div and its closing tag for us — all we had to do is type in "d" and then hit _Tab_. That can save us a lot of typing in the long run.
 

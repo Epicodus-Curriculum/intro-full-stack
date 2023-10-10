@@ -32,7 +32,7 @@ Recreate the following HTML using only JavaScript and the new `document` and `El
 <body>
   <h1>Webpage Recreation Practice</h1>
   <p>The HTML of this webpage was created with JavaScript.</p>
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/202984001/900" alt="This is an image of a Multicolored Tanager bird from birdsoftheworld.org" style="width:50%" />
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/202984001/900" alt="This is an image of a Multicolored Tanager bird from birdsoftheworld.org" style={{width:"50%"}} />
   <h1>Facts about the Multicolored Tanager</h1>
   <ul>
     <li>It is endemic to the mountains of Colombia.</li>

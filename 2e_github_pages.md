@@ -8,7 +8,7 @@ First, make sure to have a GitHub account set up. The awesome thing about GitHub
 
 A quick note about structuring projects before we begin. When we start a new project, it is a good idea to create a folder to hold the HTML file and the `css` and `img` folders. So far, we have been using a descriptive name for our HTML file, such as `favorite-things.html` or `my-first-webpage.html`. Often, though, you'll want to give the descriptive name for your folder, and name the web page's main HTML file `index.html`. As we start to add pages to our web site, the `index.html` file will serve as the home page of our site.
 
-For this lesson, we will be putting our `favorite-things.html` file on GitHub Pages. Let's go in the Terminal to our `my-first-webpage` project folder. <span style="color:red">**Since we want `favorite-things.html` to be the home page of our site, we need to rename it `index.html`. GitHub Pages won't recognize it as the main page if we don't.**</span>
+For this lesson, we will be putting our `favorite-things.html` file on GitHub Pages. Let's go in the Terminal to our `my-first-webpage` project folder. <span style={{color:"red"}}>**Since we want `favorite-things.html` to be the home page of our site, we need to rename it `index.html`. GitHub Pages won't recognize it as the main page if we don't.**</span>
 
 ```
 $ mv favorite-things.html index.html

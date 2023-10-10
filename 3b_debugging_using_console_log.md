@@ -294,4 +294,4 @@ Second, once you are done debugging, you need to go back and remove `console.log
 
 Lastly, keep in mind that typos are very common and pesky bugs! Don't let them ruin your sense of your capability for computer programming. Instead, do your best to debug, and then reach out for help after you've exhausted your debugging steps. 
 
-<img alt="Meme from Reddit about the emotional rollercoaster of typos in code. Source: https://www.reddit.com/r/ProgrammerHumor/comments/n19c2w/every_day_is_like_this/" src="https://preview.redd.it/dd858tcec5w61.jpg?auto=webp&s=c0c278f3c76570aa0cc04d48a3b84e703b48a574" style="width:50%"/>
+<img alt="Meme from Reddit about the emotional rollercoaster of typos in code. Source: https://www.reddit.com/r/ProgrammerHumor/comments/n19c2w/every_day_is_like_this/" src="https://preview.redd.it/dd858tcec5w61.jpg?auto=webp&s=c0c278f3c76570aa0cc04d48a3b84e703b48a574" style={{width:"50%"}}/>

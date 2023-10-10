@@ -144,7 +144,7 @@ Occasionally, you'll run into HTML that looks like this:
 <div class="filename">inline-style.html</div>
 
 ```
-<img style="float: left" src="cute-kitten.jpg">
+<img style={{float: "left"}} src="cute-kitten.jpg">
 ```
 
 Here, the style is embedded in the HTML. This is called an **inline style**, and it is very, very bad! You lose all of the power of CSS when you do this, as you now can't re-use your styles and centralize them in one place. Fortunately, this is becoming rare, but you still may run into it every once in a while. You just need to know that, if you see an inline style, it takes precedence over what's defined in your CSS.
