@@ -153,7 +153,7 @@ Good practice is to **push** your commit history to your remote repository when 
 So far we know how to **push** changes on our **local** repository to our **remote** repository but how do we do the reverse? How to **pull** changes from a **remote** repository to our **local** repository?
 
 
-We often need to **pull** when working with others using the same **remote** repository or when we make changes to our **remote**repository directly via GitHub. The latter is a common source of confusion for beginners to GitHub. Let's recreate that mishap and then fix it by using the git **pull** command.
+We often need to **pull** when working with others using the same **remote** repository or when we make changes to our **remote** repository directly via GitHub. The latter is a common source of confusion for beginners to GitHub. Let's recreate that mishap and then fix it by using the git **pull** command.
 
 
 1. In your remote repository on GitHub, click the “Add a README” button. 
