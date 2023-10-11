@@ -8,7 +8,7 @@ We use [Google Chrome](https://www.google.com/chrome/browser/) at Epicodus so we
 
 In Chrome, click on the menu button. It's on the right side of the address bar and looks like ☰ in older versions of Chrome or three vertical dots in newer versions. Click _More Tools_ and then click _Developer Tools_.
 
-![GIF shows opening menu and clicking on Developer Tools.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/open-dev-tools-2.gif)
+![GIF shows opening menu and clicking on Developer Tools.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tool-open.gif)
 
 As a shortcut, you can also press `Cmd + Option + J` ( `Windows + Alt + J` on Epicodus keyboards) to open DevTools.
 
@@ -40,15 +40,17 @@ You will likely see this error many times — not just as a student but even as 
 
 We can also see the elements on an individual page. Click on the Elements tab in DevTools and we'll see a list of all the elements ranging from `p` tags to `div`s and so on.
 
-![Image shows the elements tab of a page.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/elements-tab.png)
+![Image shows the elements tab of a page.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tools-elements-and-styles-tab.png)
 
-In the image above, the Elements tab is open. We've clicked on an unordered list element with a class of `breadcrumb`. Clicking on this element highlights the actual element on the page.
+In the image above, the Elements tab is open. We've clicked on an unordered list element with a class of `breadcrumbs`. Clicking on this element highlights the actual element on the page.
 
-We can see that this unordered list is a child of a `div`. We could also expand this class to see all of its children. In fact, another `div` class on the page has already been expanded to show its children — a group of `p` tags.
+We can see that this unordered list is a child of a `nav` element. We can expand any element with a drop-down to see its children elements. In fact, you can see our `<ul>` on the page has already been expanded to show its children — a group of `<li>` tags.
 
-Finally, below the elements pane, there is another pane in the bottom right corner that show us exactly which CSS styles apply. These are applied from highest specificity to lowest. In the image above, the most specific CSS rule is `ul.breadcrumb`, which has a property of `padding-left: 0;`.
+Finally, below the elements pane, there is another pane in the bottom right corner that show us exactly which CSS styles apply. These are applied from highest specificity to lowest. In the image above, the most specific CSS rule is `.breadcrumbs`, which has a property of `padding-left: 0;`.
 
-The least specific rule is `ul, ol`. Note that the `margin-bottom` property here is crossed out. This is because the rule has been overridden by the `margin-bottom` property in the more specific CSS rule just above `ul, ol` called `.breadcrumb`.
+The least specific rule is `ul, ol`. Note that the `padding-left` property here is crossed out. This is because the rule has been overridden by the `padding-left` property in the more specific CSS rule just above `ul, ol` called `.breadcrumbs`. 
+
+To give a better idea of what that might look like in the code itself, we can imagine that the developers have specified in their CSS stylesheet that `ul` and `ol` elements have `margin` and `padding-left` properties. However, the developers have also created styles for the `.breadcrumbs` class with `padding-left` and `margin-bottom` as styles. Because the `<ul>` we have highlighted has the class of `.breadcrumbs`, the `.breadcrumbs` styles *overwrite* the styles provided to `ul` alone. 
 
 As you can imagine, this is a great tool to debug CSS styles. If a style isn't showing up, it's possible that another rule is overriding it. The Styles pane will show this. It's also possible that a CSS property isn't being applied even though you think it is. The Styles pane is a great place to find out.
 
@@ -56,7 +58,7 @@ As you can imagine, this is a great tool to debug CSS styles. If a style isn't s
 
 Here's another really cool thing we can do — we can actively edit our CSS in the browser without changing it in our code. This allows us to experiment with changing styles. Check out the GIF below.
 
-![We alter the color of the title in the image.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/changing-styles-dev-tools.gif)
+![We alter the color of the title in the image.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tools-css-inspector-gif.gif)
 
 We've already highlighted the element that holds the tile "Introduction to Programming / Getting Started at Epicodus / Learn How to Program." Let's say we want to see how this heading looks with a different color.
 
