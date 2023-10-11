@@ -60,11 +60,11 @@ Here's another really cool thing we can do — we can actively edit our CSS in t
 
 ![We alter the color of the title in the image.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tools-css-inspector-gif.gif)
 
-We've already highlighted the element that holds the tile "Introduction to Programming / Getting Started at Epicodus / Learn How to Program." Let's say we want to see how this heading looks with a different color.
+We've already highlighted the element that holds the tile "Introduction to Programming". Let's say we want to see how this heading looks with a different color.
 
 We can click the checkbox to the left of the property in the Styles pane. When the checkbox is clicked, the property is applied. When it's unclicked, the property is removed.
 
-We can also update a property. In this case, we click on the color and change it to green.
+We can also update a property. In this case, we click on the color and change it to blue.
 
 We could even add a new property if we like — just start a new line in the CSS rule and add the property! (This isn't shown in the GIF above.)
 
@@ -78,7 +78,7 @@ We can also inspect individual elements on a page. This trick is especially usef
 
 On the far left, we'll see a square with an arrow icon on it. The icon will generally be gray, but we can click on it to activate the inspect element tool. (It will turn blue when it's activated.) The GIF below shows the inspect element tool in action.
 
-![Using the inspect element tool](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/inspecting-element.gif)
+![Using the inspect element tool](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/dev-tools/dev-tools-arrow-inspector.gif)
 
 Once we activate the tool, we can hover over any element on the page to see the CSS rules that apply to it. If you look at the graphic above, you'll see how the information changes as we hover over different elements. We see the new CSS rules on the left and we see the specific element on the right (in the Elements panel).
 
