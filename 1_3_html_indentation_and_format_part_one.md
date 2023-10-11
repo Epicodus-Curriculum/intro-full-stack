@@ -47,10 +47,10 @@ Indentation is done by pressing the `Tab` key on your keyboard. Sometimes people
 As an aside, do NOT use the spacebar to indent lines of code. While it may look the same, it takes more time to use more keystrokes and the extra characters may lead to some problems in your code.
 
 
-There is a lot of debate out there on `Tab Size` best practice when indenting code. It depends on the coding language and the company or team. While it largely comes down to personal preference, there are still some conventional standards regarding `Tab Size`. Typically, the choice is either 2 spaces or 4 spaces for `Tab Size`. Anything smaller than 2 or greater than 4 may be seen as unconventional. 
+There is a lot of debate out there on `Tab Size` best practice when indenting code. It depends on the coding language and the company or team. While it largely comes down to personal preference, there are still some conventional standards regarding `Tab Size`. Typically, the choice is between 2-4 spaces for `Tab Size`. Anything smaller than 2 or greater than 4 may be seen as unconventional and won't be following our class formatting standards. 
 
 
-For now, we recommend you leave `Tab Size` to its default value in VS Code (4 spaces).
+You are welcome to leave `Tab Size` to its default value in VS Code (4 spaces) or update it to increase code visibility as desired. For a reference on how to update `Tab Size` please see [lesson on VsCode]() from the pre-work. 
 
 ### When to Indent Code
 
