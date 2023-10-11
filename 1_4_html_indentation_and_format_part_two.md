@@ -126,4 +126,4 @@ People use **comments** for many reasons including:
 We highly encourage the last one while you progress through LearnHowToProgram.com. 
 
 >Note!
->We'll provide more tips for managing comments for note taking in later lessons after we learn more about project organizational tools. For now, all we recommend is don't yet your notes become so lengthy it is hard to read your code.
+>We'll provide more tips for managing comments for note taking in later lessons after we learn more about project organizational tools. For now, all we recommend is don't let your notes become so lengthy it is hard to read your code.
