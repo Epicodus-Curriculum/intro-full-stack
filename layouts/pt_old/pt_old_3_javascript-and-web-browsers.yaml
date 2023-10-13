@@ -16,11 +16,11 @@ lessons:
     day: weekend
     type: lesson
   - title: Accessing and Configuring the Browser DevTools Console
-    filename: 0d_devtools_access_and_configuration.md
+    filename: 0d_devtools_access_and_configuration_old.md
     day: weekend
     type: lesson
   - title: Using the DevTools Console for Practice and Pair Programming
-    filename: 0e_using_devtools_for_practice_and_pair_programming.md
+    filename: 0e_using_devtools_for_practice_and_pair_programming_old.md
     day: weekend
     type: lesson
   - title: 'Journal #2'
@@ -135,7 +135,7 @@ lessons:
     day: tuesday
     type: exercise
   - title: 'Debugging in JavaScript: Reading Console Errors'
-    filename: 1h_debugging_in_javascript_console_errors.md
+    filename: 1h_debugging_in_javascript_console_errors_old.md
     day: tuesday
     type: lesson
   - title: Interactivity with Window Methods
@@ -159,7 +159,7 @@ lessons:
     day: wednesday
     type: lesson
   - title: Calculator UI and Business Logic
-    filename: 1n_calculator_ui_and_business_logic.md
+    filename: 1n_calculator_ui_and_business_logic_old.md
     day: wednesday
     type: lesson
   - title: 'Practice: Calculator UI and Business Logic'
