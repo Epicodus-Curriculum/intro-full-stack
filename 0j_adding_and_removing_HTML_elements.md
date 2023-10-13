@@ -124,7 +124,7 @@ In the following image, we've created a new p tag with the text `"This is a supe
 > document.querySelector("div").append(p);
 ```
 
-![This image shows the above code entered into the DevTools console and the newly added p tag on the webpage.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week3-branching-looping-arrays/code-to-add-p-tag-to-LHTP-homepage.png)
+![This image shows the above code entered into the DevTools console and the newly added p tag on the webpage.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/intro-to-programming/dev-tools-appending-to-dom.png)
 
 
 But how do we know where exactly this new paragraph has been added in the DOM? Did we add it inside of the div or after the div? We can use the DevTools Elements tab to inspect our HTML and find the exact location of the newly added paragraph. The following image shows the results of doing just that. 
@@ -133,10 +133,10 @@ Here's the breakdown of the different highlights in the image:
 
 * First, we enable the tool that allows us to select an element on the webpage to inspect. This button is highlighted by the red circle. When we hover over different elements on the webpage with our mouse cursor, the DevTools inspector will automatically highlight the corresponding element in the HTML inside of the DevTools window.
 * We've selected the new paragraph `"This is a super cool p tag!"` on the webpage with our cursor, which is highlighted in the red rectangle.
-* The inspector has done its job, by highlighting the HTML for the p tag in the DevTools console. This is circled in the orange rectangle. 
+* The inspector has done its job, by highlighting the HTML for the p tag in the DevTools console. This is circled in the red rectangle on the right side, within the green rectangle. 
 * The green rectangle highlights the first div on the webpage. We have now verified that the code `document.querySelector("div").append(p);` actually adds the p tag to the inside of the div at the end.
 
-![This image shows the process of inspecting the newly added p tag with in the Elements tab of the DevTools console.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week3-branching-looping-arrays/using-elements-tab-finding-newly-added-p-tag.png)
+![This image shows the process of inspecting the newly added p tag with in the Elements tab of the DevTools console.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/intro-to-programming/dev-tools-appending-explanation.png)
 
 ### `Element.prepend()`
 
