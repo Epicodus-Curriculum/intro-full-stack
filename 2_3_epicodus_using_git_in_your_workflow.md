@@ -100,7 +100,7 @@ Using `git log` you should see:
 
 Finally, after pushing to the remote repository, you should see that this commit has a link to both author's GitHub accounts.
 
-Here is further documentation about [creating commits with mulitple authors](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors).
+Here is further documentation about [creating commits with multiple authors](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors).
 
 Be aware that it may take time for the **GitHub contributions** to appear on your profile page but if they are not showing up after a few days then troubleshoot using this doc: [Why are my contributions not showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
