@@ -126,7 +126,7 @@ Next, we'll load the `bootstrap.bundle.js` into our HTML by using the HTML `<scr
 </head>
 <body>
   ...
-  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/bootstrap.bundle.js"></script>
 </body>
 ...
 ```
