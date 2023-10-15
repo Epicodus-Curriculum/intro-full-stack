@@ -56,7 +56,7 @@ Just like we can call methods on variables (as shown above), we can pass variabl
 
 ```js
 > function addEmphasis(stringParam) {  // function declaration
-  const result = string.toUpperCase().concat("!!!");
+  const result = stringParam.toUpperCase().concat("!!!");
   return result;
 }
 > let stringArg = "hi";
