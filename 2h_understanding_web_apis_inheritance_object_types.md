@@ -135,7 +135,7 @@ We don't need to remember all of the names of the object types in this lesson or
 
 * Web API interfaces are just different types of objects.
 * The object type is different than the actual object. The type is like the recipe for an object, describing the available properties and methods. The actual object is like the food that's made from the recipe, with the actual data and values.
-  * Object types are written un UpperCamelCase.
+  * Object types are written in UpperCamelCase.
   * Actual objects are saved in variables which are written in lowerCamelCase.
 * We can call on the variable containing the actual object to access its data (properties) and call its methods: `window.innerHeight`. We can't call on an object type: `Window.innerHeight`. If we do that, we'll get `undefined`.
 * We can call `Object.prototype.toString.call();` to find the exact type of an object. This method takes one argument, the variable containing the object that you want to find the exact type of. Doing so is optional and for exploratory purposes if you want to research for documentation online for a specific DOM element.
