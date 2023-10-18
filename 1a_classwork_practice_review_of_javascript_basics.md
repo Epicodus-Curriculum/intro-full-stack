@@ -28,7 +28,7 @@ Make sure everyone understands what the remainder operator does, then work throu
 * What does `console.log()` do?
 * What is an operand? (Hint: this is not JavaScript-specific terminology.)
 
-Find the remainder of the following expressions by diving the two operands:
+Find the remainder of the following expressions by dividing the two operands:
 
 * 1008 by 7
 * 23423 by 75

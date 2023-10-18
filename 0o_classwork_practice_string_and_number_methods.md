@@ -33,7 +33,7 @@ Practice calling methods on strings:
 
 * Concatenate the following strings together:
   * `"hi"` and `"there"`
-  * `"hey"`, `"there"`, and `"friend!`
+  * `"hey"`, `"there"`, and `"friend!"`
 * Uppercase the following string: `"hey there friend!"`
 * Uppercase just the `"hey"` and then concatenate it to `"there"` and `"friend!"`
 
