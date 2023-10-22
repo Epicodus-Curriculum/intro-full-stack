@@ -113,7 +113,7 @@ Let's review how we call the `addEmphasis` function. If you haven't already, put
 
 ```js
 > function addEmphasis(stringParam) {  // function definition
-  const result = string.toUpperCase().concat("!!!");
+  const result = stringParam.toUpperCase().concat("!!!");
   return result;
 }
 ```
