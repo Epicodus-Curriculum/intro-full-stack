@@ -80,8 +80,8 @@ The big advantage of this naming convention for methods is that we can clearly d
 
 For instance, if we look up JavaScript's `concat` method on MDN, we'll actually discover that there are two different `concat` methods:
 
-* [`String.prototype.concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
-* [`Array.prototype.concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+* [`String.prototype.concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+* [`Array.prototype.concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 
 When we refer to `String.prototype.concat()`, we are referring to a `concat()` method that all strings inherit. When we say `Array.prototype.concat()`, we are referring to a `concat()` method that all arrays inherit. Even though these methods have the same name, they are actually different methods. Sure, they do essentially the same thing: they put things together. When called on strings, they put two strings together. When called on arrays, they put two arrays together. However, we can only call one on strings and the other on arrays. Fortunately our browser's JavaScript interpreter sorts this all out for us! We just need to do our best to make sure that we're calling the right method on the right object.
 
