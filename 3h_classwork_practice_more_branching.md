@@ -21,7 +21,7 @@ if (blue === true && red === false || purple === true)
 
 Meet the goal by completing one of the practice prompts below. 
 
-**Both sites should check for any form fields the user has left blank.** If you're checking multiple fields, don't pop up a dialog box for each one; that could get annoying if the user has left multiple fields blank! Instead, insert text next to the field the user has missed. Bootstrap has some nice styles for this — check out the _Validation_ section of their [form documentation](https://getbootstrap.com/docs/5.2/components/forms/).
+**Both sites should check for any form fields the user has left blank.** If you're checking multiple fields, don't pop up a dialog box for each one; that could get annoying if the user has left multiple fields blank! Instead, insert text next to the field the user has missed. Bootstrap has some nice styles for this — check out the _Validation_ section of their [form documentation](https://getbootstrap.com/docs/5.3/forms/validation/).
 
 ### Celebrity Dating Quiz
 
